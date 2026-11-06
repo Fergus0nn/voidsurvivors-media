@@ -11,9 +11,9 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 ## Schedule
 | Date | Episode | File |
 |---|---|---|
-| 2026-11-07 18:00 | EP 1 How my game was born | v/ep01.mp4 |
-| 2026-11-08 18:00 | EP 2 The First Heroes | v/ep02.mp4 |
-| 2026-11-09 18:00 | EP 3 Sound & Motion | v/ep03.mp4 |
+| 2026-11-06 19:00 | EP 1 How my game was born | v/ep01.mp4 |
+| 2026-11-07 18:00 | EP 2 The First Heroes | v/ep02.mp4 |
+| 2026-11-08 18:00 | EP 3 Sound & Motion | v/ep03.mp4 |
 | planned | EP 4 Upgrade Trees & Robots … EP 14 The Observer | – |
 
 ## Learnings (updated daily)
