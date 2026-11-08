@@ -30,3 +30,23 @@ Numbers are lifetime totals at run time. TikTok avg watch = total time watched /
 Followers: TikTok 206 (Δ 0 on 11-07), Instagram 0 (gained 0 / lost 0), YouTube 0 (Δ 0). **Total follower change: 0.**
 
 Scheduled ahead: EP 3 (Sun 11-08 18:00), EP 4 (Mon 11-09 18:00), EP 5 (Tue 11-10 18:00) – no changes made today. 3 future posts left.
+
+## 2026-11-08 (run 21:42 CET)
+EP 1 published Fri 11-06 19:06 CET (~50.6 h old), EP 2 Sat 11-07 10:04 (~35.6 h), EP 3 "Sound & Motion" Sun 11-08 18:05 (~3.6 h, TikTok only synced so far).
+Numbers are lifetime totals at run time (Metricool timestamps are UTC; converted to CET). TikTok avg watch = total time watched / views.
+
+| Network | Post | Age | Views | Δ vs 11-07 | Likes | Comments | Shares | Saves | Reach | Avg watch (of 30 s) | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | EP 1 ([link](https://www.tiktok.com/@void.survivors/video/7705121399903472928)) | 50.6 h | **814** | +81 | 10 | 1 | 0 | – | – | 5.7 s (4602 s) | 98.6 % For You, 1.4 % profile |
+| TikTok | EP 2 ([link](https://www.tiktok.com/@void.survivors/video/7705353003984882976)) | 35.6 h | 447 | +328 | 7 | 0 | 0 | – | – | 4.1 s (1845 s) | 98.1 % For You, 1.3 % profile |
+| TikTok | EP 3 ([link](https://www.tiktok.com/@void.survivors/video/7705847956443811105)) | 3.6 h | 188 | new | 1 | 0 | 0 | – | – | 3.2 s (607 s) | 100 % For You |
+| Instagram | EP 1 ([link](https://www.instagram.com/reel/DfaNcLkEVYF/)) | 50.6 h | 135 | +8 | 2 | 0 | 0 | 0 | 113 | 4.2 s | reel view rate (>3 s) 32.0 % |
+| Instagram | EP 2 ([link](https://www.instagram.com/reel/Dfb0c9tAcYp/)) | 35.6 h | **141** | +26 | 0 | 0 | 1 | 0 | 130 | 5.6 s | reel view rate 45.8 % |
+| Instagram | EP 3 | 3.6 h | n/a | – | – | – | – | – | – | – | not synced yet |
+| YouTube | EP 1 ([link](https://www.youtube.com/watch?v=8jtEPqzyesc)) | 50.6 h | n/a | – | n/a | n/a | n/a | – | – | n/a | listed, stats still null |
+| YouTube | EP 2 ([link](https://www.youtube.com/watch?v=nabwBqkfUFU)) | 35.6 h | n/a | – | n/a | n/a | n/a | – | – | n/a | listed, stats still null |
+| YouTube | EP 3 | 3.6 h | n/a | – | – | – | – | – | – | – | not in Metricool yet |
+
+Followers: TikTok 206 (Δ 0), Instagram 0 → **1** (+1, dated 11-07, synced late), YouTube 0 → **2** (+2 on 11-08). **Total follower change since start: +3** (today's new data: +3).
+
+Scheduled ahead: EP 4 (Mon 11-09 18:00), EP 5 (Tue 11-10 18:00) – no changes made today. **Only 2 future posts left → new episodes (EP 6+) needed.**

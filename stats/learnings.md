@@ -16,7 +16,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-08 18:00 | EP 3 Sound & Motion | v/ep03.mp4 |
 | 2026-11-09 18:00 | EP 4 Upgrade Trees & Robots | v/ep04.mp4 |
 | 2026-11-10 18:00 | EP 5 Extreme Effects | v/ep05.mp4 |
-| planned | EP 6 A Bigger Universe … EP 14 | – |
+| planned (not scheduled yet – needed from 2026-11-11) | EP 6 A Bigger Universe … EP 14 | – |
 
 ## Learnings (updated daily)
 ### 2026-11-06
@@ -38,3 +38,13 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 - YouTube: Metricool has not synced any per-video stats yet (normal ~48 h delay) → no YT conclusions.
 - Best-time (Sun 8 – Tue 10): TikTok Mon/Tue 18:00 is the peak (1096 / 1119, ≥ 10:00); IG prefers 10:00 on Mon (5528 vs 4206), roughly equal on Tue; YT peaks 16:00. Sunday: 10:00 slightly ahead on TT/IG, 18:00 ahead on YT. Given the real-data result above (10:00 post underperformed), **kept EP 3–5 at 18:00**.
 - Followers: 0 change on all networks after 2 posts.
+
+### 2026-11-08
+- Sample size: TikTok 3 posts (EP 1–3), Instagram 2 (EP 3 not synced), YouTube 0 with data (per-video stats still null after ~50 h). Still preliminary.
+- TikTok views are not decided in the first hours: EP 2 went 119 → 447 (+328) between hour 12 and 36, EP 1 only +81 in the same period → TikTok tests a video slowly; judge a post after ≥ 48 h, not on day 1.
+- TikTok early velocity: EP 3 (Sun 18:05) 188 views in 3.6 h ≈ 52 views/h vs EP 2 (Sat 10:04) ≈ 10 views/h over its first 11.6 h → 18:00 slot again starts faster than 10:00 (n = 1 per slot, weekday differs). Supports keeping 18:00.
+- TikTok avg watch keeps falling: EP 1 5.7 s → EP 2 4.1 s → EP 3 3.2 s (of 30 s). Hook in first 2 s remains the #1 problem; the series format (stickman at desk first) does not stop the scroll. For EP 6+: open on the most spectacular gameplay frame + big text, stickman later.
+- Instagram: EP 2 ("white spaghetti" confession hook) beats EP 1 on every quality metric – reel view rate 45.8 % vs 32.0 %, avg watch 5.6 s vs 4.2 s, reach 130 vs 113, first share. n = 2, but consistent with 11-07 → on IG the funny-confession hook looks better than the origin-story hook.
+- Followers: first gains – IG +1, YouTube +2 (no per-video YT data yet to attribute them). TikTok flat at 206 (profile-view share of views ~1.3 %).
+- Engagement still very low (TikTok likes/views 0.5–1.6 %, 1 comment total). Caption questions (EP 2) have not produced comments yet; EP 4 (question) vs EP 5 (no question) test continues – no caption changes made so they stay comparable.
+- Best-time (Mon 9 + Tue 10 Nov): TikTok 18:00 is the daily peak (1096 / 1119, ≥ 10:00 1089 / 1136); IG 10:00 peak on Mon (5528 vs 4206), Tue close (4942 vs 4788); YT peaks 16:00 (9351 / 10353) with 18:00 7229 / 7897. TikTok is the network that actually delivers views (≈ 6× IG), and both real data and audience data favour 18:00 there → **EP 4 and EP 5 kept at 18:00.** A 16:00 test could help YT, but only after YT per-video stats start syncing.
