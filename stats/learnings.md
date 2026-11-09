@@ -19,6 +19,9 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-09 12:00 | REEL Combo 20,000× (Kai) | v/reel01_combo.mp4 |
 | 2026-11-09 18:00 | EP 4 Upgrade Trees & Robots (new style) | v/ep04b.mp4 |
 | 2026-11-10 18:00 | EP 5 Extreme Effects (new style) | v/ep05b.mp4 |
+| 2026-11-11 18:00 | EP 6 A Bigger Universe | v/ep06.mp4 |
+| 2026-11-12 18:00 | EP 7 The Mothership | v/ep07.mp4 |
+| 2026-11-13 18:00 | REEL Can you survive 20 minutes? | v/reel02_survive.mp4 |
 | planned (not scheduled yet – needed from 2026-11-11) | EP 6 A Bigger Universe … EP 14 | – |
 
 ## Learnings (updated daily)
