@@ -65,3 +65,8 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 - YouTube per-video stats are still null after ~75 h (only channel-level 513 views on 11-06) → YouTube cannot be evaluated; do not move YT posts for testing until stats sync.
 - Best-time (Tue 10 – Fri 13): TikTok 10:00 ≈ 18:00 (Wed 1432 vs 1386, Thu 1471 vs 1378, Fri 1379 vs 1222 – margins 3–11 %); IG 10:00 clearly ahead (Wed 6506 vs 4869, Fri 6734 vs 4418); YT peak 16:00. Real results still favour 18:00 on TikTok (the network with ~4× IG views), and TT/IG posts need Daniel to publish by hand → **kept all posts at 18:00**. A Friday 10:00 IG test could be considered once the new-style posts have a 48 h baseline.
 - No caption changes: EP 4 (question) vs EP 5 (no question) test stays clean.
+
+## Discord – týdenní updaty
+- Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
+- Zdroj: stats/changelog.md, sekce Unreleased. Každou změnu ve hře hned zapsat do changelogu.
+- Role: automaticky přes Onboarding (CZ/SK, English, Update Ping, Shorts Ping) a Arcane levely (1/5/10/20/35/50). Ručně: Day One, Beta Tester, Fan Art, Moderator, Developer.
