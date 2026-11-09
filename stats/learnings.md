@@ -4,6 +4,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 
 ## Rules from Daniel (must always hold)
 - VISUAL STYLE (from 2026-11-09, replaces stickman): real gameplay from Daniel's recordings in the middle (landscape, full HUD), blurred copy of the same footage above/below, big captions on top, narrator KAI (2D cartoon young space explorer/dev, black high-collar jacket, purple glow, silver hair streak) pops up bottom-left and talks in a typed speech bubble; end card = logo + "COMING SOON TO STEAM" + Kai teasing next episode.
+- FOOTAGE VARIETY: pick shots from stats/footage_catalog.md, never reuse the same shots; log used ranges there.
 - NO music in the video file: TikTok + Instagram posts are scheduled with autoPublish=false so Daniel adds a trending TikTok/IG sound in the app; YouTube posts are separate with autoPublish=true. Never switch autoPublish on TT/IG posts.
 - Old stickman EP1–EP3 already published (keep as is).
 - Never mention AI. Never say everything is free.
