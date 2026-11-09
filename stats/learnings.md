@@ -3,7 +3,9 @@
 Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors / VOID SURVIVORS). Timezone Europe/Prague.
 
 ## Rules from Daniel (must always hold)
-- Stickman devlog series: white background, black faceless stickman at a desk, yellow "EP X" banner, real game footage, ends with "EP X+1 ... coming tomorrow".
+- VISUAL STYLE (from 2026-11-09, replaces stickman): real gameplay from Daniel's recordings in the middle (landscape, full HUD), blurred copy of the same footage above/below, big captions on top, narrator KAI (2D cartoon young space explorer/dev, black high-collar jacket, purple glow, silver hair streak) pops up bottom-left and talks in a typed speech bubble; end card = logo + "COMING SOON TO STEAM" + Kai teasing next episode.
+- NO music in the video file: TikTok + Instagram posts are scheduled with autoPublish=false so Daniel adds a trending TikTok/IG sound in the app; YouTube posts are separate with autoPublish=true. Never switch autoPublish on TT/IG posts.
+- Old stickman EP1–EP3 already published (keep as is).
 - Never mention AI. Never say everything is free.
 - English texts, ~30 s, 9:16, music/SFX only from the game.
 - 1 post per day at the best hour (default 18:00; 10:00 is the other peak).
@@ -14,8 +16,9 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-06 19:00 | EP 1 How my game was born | v/ep01.mp4 |
 | 2026-11-07 10:00 | EP 2 The First Heroes | v/ep02.mp4 |
 | 2026-11-08 18:00 | EP 3 Sound & Motion | v/ep03.mp4 |
-| 2026-11-09 18:00 | EP 4 Upgrade Trees & Robots | v/ep04.mp4 |
-| 2026-11-10 18:00 | EP 5 Extreme Effects | v/ep05.mp4 |
+| 2026-11-09 12:00 | REEL Combo 20,000× (Kai) | v/reel01_combo.mp4 |
+| 2026-11-09 18:00 | EP 4 Upgrade Trees & Robots (new style) | v/ep04b.mp4 |
+| 2026-11-10 18:00 | EP 5 Extreme Effects (new style) | v/ep05b.mp4 |
 | planned (not scheduled yet – needed from 2026-11-11) | EP 6 A Bigger Universe … EP 14 | – |
 
 ## Learnings (updated daily)
