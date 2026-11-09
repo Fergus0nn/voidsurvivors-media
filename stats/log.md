@@ -50,3 +50,24 @@ Numbers are lifetime totals at run time (Metricool timestamps are UTC; converted
 Followers: TikTok 206 (Δ 0), Instagram 0 → **1** (+1, dated 11-07, synced late), YouTube 0 → **2** (+2 on 11-08). **Total follower change since start: +3** (today's new data: +3).
 
 Scheduled ahead: EP 4 (Mon 11-09 18:00), EP 5 (Tue 11-10 18:00) – no changes made today. **Only 2 future posts left → new episodes (EP 6+) needed.**
+
+## 2026-11-09 (run 21:42 CET)
+Ages at run time: EP 1 Fri 11-06 19:06 (~74.6 h), EP 2 Sat 11-07 10:04 (~59.6 h), EP 3 Sun 11-08 18:05 (~27.6 h), REEL "Combo 20,000×" (first Kai/new-style post) Mon 11-09 12:40 (~9 h), EP 4 (new style) Mon 11-09 18:00 – status PUBLISHED in Metricool on TT/IG/YT but no analytics synced yet.
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views.
+
+| Network | Post | Age | Views | Δ vs 11-08 | Likes | Comments | Shares | Saves | Reach | Avg watch (of 30 s) | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | EP 1 ([link](https://www.tiktok.com/@void.survivors/video/7705121399903472928)) | 74.6 h | **814** | 0 | 10 | 1 | 0 | – | – | 5.7 s (4602 s) | stalled – no change since 11-08 |
+| TikTok | EP 2 ([link](https://www.tiktok.com/@void.survivors/video/7705353003984882976)) | 59.6 h | 447 | 0 | 7 | 0 | 0 | – | – | 4.1 s (1845 s) | stalled |
+| TikTok | EP 3 ([link](https://www.tiktok.com/@void.survivors/video/7705847956443811105)) | 27.6 h | 623 | +435 | 5 | 0 | 0 | – | – | **5.0 s** (3087 s) | 100 % For You |
+| TikTok | REEL Combo ([link](https://www.tiktok.com/@void.survivors/video/7706135280230862103)) | ~9 h | 4 | new | 0 | 0 | 0 | – | – | 0 s | stats probably synced right after publish – re-check tomorrow |
+| TikTok | EP 4 | ~3.7 h | n/a | – | – | – | – | – | – | – | published, not synced |
+| Instagram | EP 1 ([link](https://www.instagram.com/reel/DfaNcLkEVYF/)) | 74.6 h | 136 | +1 | 2 | 0 | 0 | 0 | 113 | 4.1 s | view rate 31.7 % |
+| Instagram | EP 2 ([link](https://www.instagram.com/reel/Dfb0c9tAcYp/)) | 59.6 h | 143 | +2 | 1 | 0 | 1 | 0 | 131 | 5.5 s | view rate 45.1 % |
+| Instagram | EP 3 ([link](https://www.instagram.com/reel/DffQOHgkeSZ/)) | 27.6 h | **183** | new | 2 | 0 | 0 | 0 | 168 | 3.6 s | view rate 30.2 % |
+| Instagram | REEL Combo / EP 4 | – | n/a | – | – | – | – | – | – | – | published, not synced |
+| YouTube | EP 1–3, REEL, EP 4 | – | n/a | – | – | – | – | – | – | – | EP 1–3 listed, per-video stats still null (~75 h); channel evolution shows 513 views on 11-06 |
+
+Followers: TikTok 206 (Δ 0, no 11-09 row yet), Instagram 1 (Δ 0), YouTube 2 → **3** (+1 on 11-09). **Total follower change since start: +4** (today: +1).
+
+Scheduled ahead (all 18:00): EP 5 (Tue 11-10), EP 6 (Wed 11-11), EP 7 (Thu 11-12), REEL "Can you survive 20 minutes?" (Fri 11-13) – TT/IG autoPublish=false, YT auto. No changes made today. 4 future days left (last 11-13) → EP 8+ needed from Sat 11-14.
