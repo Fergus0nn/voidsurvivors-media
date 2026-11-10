@@ -66,6 +66,14 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 - Best-time (Tue 10 – Fri 13): TikTok 10:00 ≈ 18:00 (Wed 1432 vs 1386, Thu 1471 vs 1378, Fri 1379 vs 1222 – margins 3–11 %); IG 10:00 clearly ahead (Wed 6506 vs 4869, Fri 6734 vs 4418); YT peak 16:00. Real results still favour 18:00 on TikTok (the network with ~4× IG views), and TT/IG posts need Daniel to publish by hand → **kept all posts at 18:00**. A Friday 10:00 IG test could be considered once the new-style posts have a 48 h baseline.
 - No caption changes: EP 4 (question) vs EP 5 (no question) test stays clean.
 
+### 2026-11-10
+- Sample size: first new-style (Kai/gameplay) data – **Instagram only, n = 2** (REEL Combo ~33 h, EP 4 ~27.5 h) vs 3 stickman reels. TikTok per-video stats did not refresh at all since 11-09 (Metricool sync lag) → no TikTok comparison today; YouTube per-video still null after ~100 h.
+- **Instagram: the new style loses viewers in the first 3 seconds more than the stickman style.** Skip rate (swipe within 3 s): stickman 54.9 / 68.3 / 70.9 % vs Kai REEL 79.8 % and EP 4 **88.3 %**; avg watch 3.5–5.5 s vs 2.6 s / 2.0 s; views at similar age: EP 3 183 @ 27.6 h vs EP 4 108 @ 27.5 h. Consistent across both new posts, but n = 2, IG-only, and IG is the small network (≈ ¼ of TikTok views) → **warning signal, not a verdict**. Wait for TikTok numbers (the main network) before changing the format.
+- Likely cause to check in the video edit (not changeable via scheduling): the first frame – small landscape gameplay strip in the middle with blurred copies + text, and Kai not yet visible – reads as a "reposted gameplay clip" and does not stop the scroll. Ideas for EP 8+: first 1 s full-height/zoomed action (no blur bars) or Kai's face + a bold one-line claim immediately, captions bigger and on the gameplay.
+- IG posts keep growing slowly after day 2 (EP 3 +8 views in 24 h), stickman EP 1/2 flat → like TikTok, IG reach is decided in ~48 h.
+- Followers flat today (+0; +4 total in 5 days). No follower effect of the new style visible yet.
+- Best-time (Wed 11 – Fri 13): unchanged pattern – TikTok 10:00 ≈ 18:00 (+3–13 % for 10:00), IG 10:00 clearly ahead (+28–52 %), YT peak 16:00 (18:00 ≈ 80 % of peak). Real TikTok results still favour 18:00 and there is no YT per-video data → **kept all posts at 18:00, no caption changes** (EP 4 question vs EP 5 no-question test still running).
+
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
 - Zdroj: stats/changelog.md, sekce Unreleased. Každou změnu ve hře hned zapsat do changelogu.
