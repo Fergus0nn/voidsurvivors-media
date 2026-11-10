@@ -19,6 +19,10 @@ Pravidla:
 - Faster hero selection screen.
 - Lower GPU usage in menus.
 
+### 🌑 Gameplay
+- "The Dark Closes In" now escalates – every phase brings more enemies, tougher enemy types, more HP and (from phase 4) a double ring.
+- After minute 30 the dark no longer sends a ring – it summons one of the three great titans (Leviathan, the Observer or the Star Devourer), each one stronger than the last.
+
 ### ⚔️ Balance
 - Bosses and titans are much tougher (around +60% HP) – Leviathan, the Eye and the Devourer won't melt anymore.
 
