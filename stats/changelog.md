@@ -27,5 +27,6 @@ Pravidla:
 - Bosses and titans are much tougher (around +60% HP) – Leviathan, the Eye and the Devourer won't melt anymore.
 
 ### 🎨 Visuals
+- Space objects rebuilt: Saturn (storms, polar hexagon, detailed rings), the White Hole (matter fountain and spiral), the Dying Star (boiling surface), the Dead World (molten impact sea), the Nebula (filaments, dust lanes, newborn stars) and the Comet (glowing coma).
 - Reworked Alien hero – less shiny, better proportions, smoother movement.
 - Reworked Angel hero – better proportions, smoother wings and cloth.
