@@ -23,7 +23,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-11 18:00 | EP 6 A Bigger Universe | v/ep06.mp4 |
 | 2026-11-12 18:00 | EP 7 The Mothership | v/ep07.mp4 |
 | 2026-11-13 18:00 | REEL Can you survive 20 minutes? | v/reel02_survive.mp4 |
-| planned (not scheduled yet – needed from 2026-11-11) | EP 6 A Bigger Universe … EP 14 | – |
+| planned (not scheduled yet – needed from 2026-11-14) | EP 8 … EP 14 | – |
 
 ## Learnings (updated daily)
 ### 2026-11-06
@@ -73,6 +73,16 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 - IG posts keep growing slowly after day 2 (EP 3 +8 views in 24 h), stickman EP 1/2 flat → like TikTok, IG reach is decided in ~48 h.
 - Followers flat today (+0; +4 total in 5 days). No follower effect of the new style visible yet.
 - Best-time (Wed 11 – Fri 13): unchanged pattern – TikTok 10:00 ≈ 18:00 (+3–13 % for 10:00), IG 10:00 clearly ahead (+28–52 %), YT peak 16:00 (18:00 ≈ 80 % of peak). Real TikTok results still favour 18:00 and there is no YT per-video data → **kept all posts at 18:00, no caption changes** (EP 4 question vs EP 5 no-question test still running).
+
+### 2026-11-11
+- Sample size: first TikTok data for the Kai/gameplay style – TikTok n = 3 Kai (REEL Combo, EP 4, EP 5) vs 3 stickman; IG n = 3 vs 3; YouTube per-video still null (~124 h) → no YT conclusions.
+- **TikTok: the new style gets the same or more reach, but people leave faster and like less.** Views: Kai 714 / 749 / 779 vs stickman 815 / 451 / 807 – EP 5 reached 779 in ~25 h, the fastest TT start so far. But avg watch 3.1 / 2.3 / 3.1 s vs 5.7 / 4.2 / 5.7 s, and like rate 0.1–0.4 % vs 1.2–1.6 %. Same pattern as IG yesterday (skip rate 80–88 % on REEL/EP 4) → now confirmed on both networks (n = 3+3 each): the gameplay hook gets shown, the first seconds don't hold.
+- **Inside the Kai style, EP 5 ("90 enemies. ONE TAP." – one bold number-claim as the hook) beats EP 4 ("my upgrade tree got out of hand")** on both networks: TT avg watch 3.1 s vs 2.3 s, IG skip rate 60.7 % vs 87.5 %, IG view rate 39.3 % vs 12.5 %. n = 1 vs 1, but consistent across 2 networks → for EP 8+ open with one big concrete claim/number on screen in the first second.
+- TikTok reach is not limited by follower count (≈ 99 % For You); the bottleneck is hold + engagement, which is what makes TikTok push a video further. Retention fix (first 1–2 s: full-height action + bold claim, Kai visible immediately) remains the #1 lever – it lives in the video edit, not in scheduling.
+- Caption test EP 4 (ends with a question) vs EP 5 (no question): 0 comments on both, likes 1 vs 2 → **no evidence that caption questions create comments** (n = 1 vs 1).
+- Posting hour: EP 5 went live on TikTok at 20:11 (2 h after the slot, published by hand) and still had the best start → a 18–20 h publish window works; no reason to move posts. Best-time (Thu 12 + Fri 13): TikTok 10:00 vs 18:00 +7 % / +13 %, IG 10:00 clearly ahead (+24 % / +52 %), YT peak 16:00 (18:00 = 76–81 %). Real TT results keep favouring 18:00 → **kept EP 7 and REEL at 18:00.**
+- Trending sound (manual TT/IG) vs automatic (YT) cannot be compared – YouTube still has no per-video data.
+- Followers: TikTok −1 (206 → 205), total +3 since start; no follower lift from the new style yet.
 
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.

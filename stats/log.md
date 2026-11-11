@@ -96,3 +96,30 @@ Numbers are lifetime totals at run time. TikTok avg watch = total time watched /
 Followers: TikTok 206 (Δ 0 on 11-10, no change since start), Instagram 1 (gained 0 / lost 0 on 11-10), YouTube 3 (Δ 0 on 11-10). **Total follower change since start: +4** (today: 0).
 
 Scheduled ahead (all 18:00, TT/IG autoPublish=false, YT auto): EP 6 (Wed 11-11), EP 7 (Thu 11-12), REEL "Can you survive 20 minutes?" (Fri 11-13). No changes made today. 3 future days left (last 11-13) → new content needed from Sat 11-14.
+
+## 2026-11-11 (run 21:42 CET)
+TikTok per-video stats **re-synced** today (first new-style TikTok data). Metricool timestamps are UTC → converted to CET. Actual TT publish times: REEL Combo Mon 12:40, EP 4 Mon 18:12, EP 5 Tue **20:11** (published by hand ~2 h after the 18:00 slot). EP 6 "A Bigger Universe" shows PUBLISHED on TT/IG/YT today (18:00 slot) – not in analytics yet.
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views.
+
+| Network | Post | Style | Age | Views | Δ vs last value | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | EP 1 | stickman | 123.6 h | 815 | +1 | 10 | 1 | 0 | – | – | 5.7 s | – | stalled |
+| TikTok | EP 2 | stickman | 108.6 h | 451 | +4 | 7 | 0 | 0 | – | – | 4.2 s | – | stalled |
+| TikTok | EP 3 | stickman | 75.6 h | 807 | +184 | **13** | 0 | 0 | – | – | **5.7 s** | – | |
+| TikTok | REEL Combo ([link](https://www.tiktok.com/@void.survivors/video/7706135280230862103)) | Kai | ~57 h | 714 | +710 | 3 | 0 | 0 | – | – | 3.1 s | – | 99.6 % For You |
+| TikTok | EP 4 ([link](https://www.tiktok.com/@void.survivors/video/7706220646547606806)) | Kai | ~51.5 h | 749 | new | 1 | 0 | 0 | – | – | 2.3 s | – | 98.7 % For You |
+| TikTok | EP 5 ([link](https://www.tiktok.com/@void.survivors/video/7706622519951772950)) | Kai | ~25.5 h | **779** | new | 2 | 0 | 0 | – | – | 3.1 s | – | 99.4 % For You – fastest TT start so far |
+| TikTok | EP 6 | Kai | ~3.7 h | n/a | – | – | – | – | – | – | – | – | not synced |
+| Instagram | EP 1 | stickman | 123.6 h | 137 | +1 | 2 | 0 | 0 | 0 | 114 | 4.1 s | 32.3 % / 67.7 % | |
+| Instagram | EP 2 | stickman | 108.6 h | 144 | +1 | 1 | 0 | 1 | 0 | 132 | 5.5 s | 45.5 % / 54.5 % | |
+| Instagram | EP 3 | stickman | 75.6 h | **192** | +1 | 2 | 0 | 0 | 0 | 175 | 3.5 s | 29.0 % / 71.0 % | |
+| Instagram | REEL Combo | Kai | ~57 h | 122 | +1 | 1 | 0 | 0 | 0 | 115 | 2.6 s | 20.0 % / 80.0 % | |
+| Instagram | EP 4 | Kai | ~51.5 h | 109 | +1 | 1 | 0 | 0 | 0 | 102 | 2.1 s | 12.5 % / 87.5 % | |
+| Instagram | EP 5 ([link](https://www.instagram.com/reel/Dfkn4OBs64E/)) | Kai | ~25.5 h | 111 | new | 1 | 0 | 0 | 0 | 106 | 3.5 s | **39.3 % / 60.7 %** | best Kai-style hold |
+| Instagram | EP 6 | Kai | ~3.7 h | n/a | – | – | – | – | – | – | – | – | not synced |
+| YouTube | EP 1–3 | stickman | – | n/a | – | – | – | – | – | – | – | – | listed, per-video stats still null (~124 h); channel views 513 (11-06), 1472 (11-07), 613 (11-08) |
+| YouTube | REEL, EP 4–6 | Kai | – | n/a | – | – | – | – | – | – | – | – | not listed yet |
+
+Followers: TikTok 206 → **205** (−1 on 11-10), Instagram 1 (Δ 0), YouTube 3 (Δ 0). **Total follower change since start: +3** (today: −1).
+
+Scheduled ahead (18:00, TT/IG autoPublish=false, YT auto): EP 7 (Thu 11-12), REEL "Can you survive 20 minutes?" (Fri 11-13). No changes made today. **Only 2 future days left → new episodes/reels needed from Sat 11-14.**
