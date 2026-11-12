@@ -23,7 +23,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-11 18:00 | EP 6 A Bigger Universe | v/ep06.mp4 |
 | 2026-11-12 18:00 | EP 7 The Mothership | v/ep07.mp4 |
 | 2026-11-13 18:00 | REEL Can you survive 20 minutes? | v/reel02_survive.mp4 |
-| planned (not scheduled yet – needed from 2026-11-14) | EP 8 … EP 14 | – |
+| planned (NOT scheduled yet – needed from 2026-11-14, status 11-12: nothing scheduled after 11-13) | EP 8 … EP 14 | – |
 
 ## Learnings (updated daily)
 ### 2026-11-06
@@ -83,6 +83,14 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 - Posting hour: EP 5 went live on TikTok at 20:11 (2 h after the slot, published by hand) and still had the best start → a 18–20 h publish window works; no reason to move posts. Best-time (Thu 12 + Fri 13): TikTok 10:00 vs 18:00 +7 % / +13 %, IG 10:00 clearly ahead (+24 % / +52 %), YT peak 16:00 (18:00 = 76–81 %). Real TT results keep favouring 18:00 → **kept EP 7 and REEL at 18:00.**
 - Trending sound (manual TT/IG) vs automatic (YT) cannot be compared – YouTube still has no per-video data.
 - Followers: TikTok −1 (206 → 205), total +3 since start; no follower lift from the new style yet.
+
+### 2026-11-12
+- Sample size: TikTok 4 Kai (REEL, EP 4–6) vs 3 stickman; IG 4 vs 3; YouTube per-video still null (~148 h, only EP 1–3 listed) → no YT conclusions, trending-sound (TT/IG) vs auto (YT) still not comparable.
+- **TikTok has a hard ceiling of ~700–815 views per post.** 6 of 7 TT posts ended at 715–815 (EP 2 at 10:00 = 451), all ≈ 99 % For You, and they stop growing after ~24–48 h. EP 6 hit 744 in its first 24 h, then (like EP 5: 779 → 780) almost nothing. This looks like TikTok's first test pool; no post has been pushed to a 2nd wave because hold/likes are too weak. Style, hook, caption and hour did not change this ceiling (n = 7) → only better retention/engagement in the video itself can break it.
+- EP 6 retention is the 2nd-worst so far: TT avg watch 2.6 s (Kai range 2.3–3.1 s vs stickman 4.2–5.7 s), IG skip rate 75.5 %. Confirms the 11-11 conclusion; EP 5's bold-number hook ("90 enemies. ONE TAP.") is still the best Kai-style opener.
+- **Late manual publishing seems to hurt Instagram, not TikTok:** EP 6 went live ~21:05 (3 h late). TikTok: 744 in 24 h (normal). IG: 55 views / 48 reach in 24.6 h vs 106–175 reach for every earlier reel (at 18:00–20:11) – the weakest IG start. IG audience at 21:00 is ~⅓ of 18:00 (1440 vs 4418, Metricool best-time). n = 1, but it fits → **try to publish TT/IG between 18:00 and 19:00, at least on Instagram.** Note: EP 6 still got the first IG save + a share, so the content wasn't the problem.
+- Best-time (Fri 13): TikTok 10:00 1379 vs 18:00 1222 (+13 %), IG 10:00 6734 vs 18:00 4418 (+52 %), YT peak 16:00 10698 (18:00 = 76 %). Same pattern as all week; real TT results don't favour 10:00 → **REEL kept at 18:00.** For the next batch, an IG-only 10–12 h slot is the most promising untested change (IG is the network where both the audience data and the EP 6 result point to hour sensitivity).
+- Caption/hashtag changes: none – no evidence so far that captions affect anything (≈ 99 % For You, 0 comments on all Kai posts).
 
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
