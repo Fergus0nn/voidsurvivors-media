@@ -52,9 +52,33 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 | 1128–1392 | | LONG level-up cards screen (avoid) |
 | 1400–1433 | ~12:40 | blood-red horde, combo 9.8k→11.4k |
 
+## REC C – Desktop/nahrávky ze hry/Ufon tank + dmg + ats.mp4 (1713 s, Ufon tank, game time 00:00 → 20:00 end of demo)
+| rec time (s) | game time | content |
+|---|---|---|
+| 0–45 | | menus: title with Saturn (5), Star Forge, Bestiary (20–30), Achievements |
+| 145–155 | ~01:13–01:22 | solar flare – big red star explosion |
+| 225–280 | ~02:09–02:48 | red giant flares + Gravity Storm, combo 150→314 |
+| 310–360, 425–505 | | LONG level-up card screens (avoid) |
+| 375–420 | ~03:25–04:01 | giant white-purple vortex with light beams |
+| 569–606 | ~05:00–05:32 | BOSS LORD OF DARKNESS: intro 569, Dark Spiral 583, Fury 593, kill flash 604 (cards at 575 and 608.5) |
+| 670–715 | ~06:10–06:46 | Eclipse event |
+| 725–880 | ~06:53–09:03 | huge hordes, combo 2.8k→5.5k |
+| 915–940 | ~09:34–09:54 | blue "eye" nebula + meteor shower |
+| 982–1006 | ~10:31–10:54 | TITAN ANCIENT LEVIATHAN around red star, kill flash 1004 (989–998 = Czech ability banners – NEVER use) |
+| 1080 | ~11:59 | combo passes 10,000× |
+| 1145–1180 | ~12:59–13:28 | Golden Horde + "YOU SURVIVED" |
+| 1200–1215 | | music-player popups top-left (never use); 1255 = Alt-Tab (never use) |
+| 1337–1351 | ~15:53–16:06 | BOSS MOTHERSHIP: intro 1337, Orbital Laser 1340, Last Stand 1346, kill flash 1348 |
+| 1400–1540 | ~16:52–18:56 | densest hordes of the run, combo 21k→27k |
+| 1570–1605 | | pause + graphics settings (avoid) |
+| 1640–1683 | ~19:32–19:59 | BLOOD MOON, whole screen red, combo 29.7k→32.5k (1659–1663 small popup at top) |
+| 1684–1685 | | END OF DEMO screen (don't use – implies the game is playable) |
+| 1693–end | | Windows desktop with other apps (NEVER use) |
+
 ## Engine renders (cloud)
 - /root/build/dev/rb_gore (one-tap explosion, portrait), rb_robots, mv0/mv1/mv3 hero clips, st_oko_*/st_zrout_* Observer & Star Devourer stills, hero_*_t_* hero portraits.
 
 ## Already used
 - REC A: 0–140 (timelapse, reel 1 & reel 2), 86–113, 296–332 (cards), 361–363, 374–388, 393–398, 405–410, 428–440, 456–486, 518–557, 566–575 (reel 2)
 - Engine: rb_gore 1–130 (EP5)
+- REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN.")
