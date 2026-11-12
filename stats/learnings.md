@@ -3,11 +3,13 @@
 Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors / VOID SURVIVORS). Timezone Europe/Prague.
 
 ## Rules from Daniel (must always hold)
-- VISUAL STYLE (from 2026-11-09, replaces stickman): real gameplay from Daniel's recordings in the middle (landscape, full HUD), blurred copy of the same footage above/below, big captions on top, narrator KAI (2D cartoon young space explorer/dev, black high-collar jacket, purple glow, silver hair streak) pops up bottom-left and talks in a typed speech bubble; end card = logo + "COMING SOON TO STEAM" + Kai teasing next episode.
+- VISUAL STYLE (from 2026-11-09, replaces stickman): real gameplay from Daniel's recordings in the middle (landscape, full HUD), blurred copy of the same footage above/below, big captions on top, narrator KAI (2D cartoon young space explorer/dev, black high-collar jacket, purple glow, silver hair streak) pops up bottom-left and talks in a typed speech bubble; end card = logo + Kai + one CTA that does NOT lead to playing/downloading (follow / weekly Friday update / comment).
 - FOOTAGE VARIETY: pick shots from stats/footage_catalog.md, never reuse the same shots; log used ranges there.
 - NO music in the video file: TikTok + Instagram posts are scheduled with autoPublish=false so Daniel adds a trending TikTok/IG sound in the app; YouTube posts are separate with autoPublish=true. Never switch autoPublish on TT/IG posts.
 - Old stickman EP1–EP3 already published (keep as is).
 - Never mention AI. Never say everything is free.
+- NO STEAM PAGE YET (Daniel, 2026-11-12): never write "Coming soon to Steam" / "Wishlist" anywhere (end cards, captions) until Daniel says the page is live. Never show the in-game END OF DEMO / "Add to wishlist" screen.
+- Captions (from 2026-11-13): TT/IG = hook line + comment question + 5 tags (#voidsurvivors + genre + #fyp); YouTube = no viral tags, only #shorts #voidsurvivors #indiegame #survivorslike.
 - English texts, ~30 s, 9:16, music/SFX only from the game.
 - 1 post per day at the best hour (default 18:00; 10:00 is the other peak).
 

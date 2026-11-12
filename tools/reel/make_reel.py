@@ -167,7 +167,7 @@ STAMP = glow_text("DEFEATED", 150, (255, 255, 255), (255, 60, 80), stroke=6, glo
 END1 = glow_text("HOW LONG WOULD", 92, (255, 255, 255), (150, 80, 255), stroke=3)
 END2 = glow_text("YOU SURVIVE?", 120, (255, 176, 64), (255, 90, 40), stroke=4)
 END3 = glow_text("COMMENT BELOW", 60, (235, 225, 255), (150, 80, 255), stroke=2, weight="SemiBold", glow_r=10)
-END4 = glow_text("COMING SOON TO STEAM", 44, (200, 185, 255), (90, 50, 180), stroke=0, weight="SemiBold", glow_r=8)
+END4 = glow_text("FOLLOW FOR WEEKLY UPDATES", 44, (200, 185, 255), (90, 50, 180), stroke=0, weight="SemiBold", glow_r=8)
 
 BUB_F = font(42, "SemiBold")
 LAB_F = font(26, "Bold")
