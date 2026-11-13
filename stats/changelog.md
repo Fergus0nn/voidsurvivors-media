@@ -35,3 +35,4 @@ Pravidla:
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
+- Elite enemy tags (Explosive, Splitting, Phantom, Healing, Hastening, Giant) now show in your language instead of Czech – in combat and in the Bestiary.
