@@ -5,7 +5,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 ## Rules from Daniel (must always hold)
 - VISUAL STYLE (from 2026-11-09, replaces stickman): real gameplay from Daniel's recordings in the middle (landscape, full HUD), blurred copy of the same footage above/below, big captions on top, narrator KAI (2D cartoon young space explorer/dev, black high-collar jacket, purple glow, silver hair streak) pops up bottom-left and talks in a typed speech bubble; end card = logo + Kai + one CTA that does NOT lead to playing/downloading (follow / weekly Friday update / comment).
 - FOOTAGE VARIETY: pick shots from stats/footage_catalog.md, never reuse the same shots; log used ranges there.
-- NO music in the video file: TikTok + Instagram posts are scheduled with autoPublish=false so Daniel adds a trending TikTok/IG sound in the app; YouTube posts are separate with autoPublish=true. Never switch autoPublish on TT/IG posts.
+- MUSIC + AUTO-POSTING (Daniel, 2026-11-13, replaces the old "no music / autoPublish=false" rule): every reel has a music bed from the game's own soundtrack (assets/audio/music: hra_boj = battle, boss = boss fights, hra = calm, menu = menu) baked into the video file, under the game sounds (bed ≈ 4 dB above game audio, final ≈ -14 LUFS). ALL posts (TikTok, Instagram, YouTube) are scheduled with autoPublish=true – Daniel no longer adds sounds by hand. Tool: mix the bed with ffmpeg, video stream copied untouched; publish the *_music.mp4 file.
 - Old stickman EP1–EP3 already published (keep as is).
 - Never mention AI. Never say everything is free.
 - NO STEAM PAGE YET (Daniel, 2026-11-12): never write "Coming soon to Steam" / "Wishlist" anywhere (end cards, captions) until Daniel says the page is live. Never show the in-game END OF DEMO / "Add to wishlist" screen.
@@ -24,8 +24,8 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-10 18:00 | EP 5 Extreme Effects (new style) | v/ep05b.mp4 |
 | 2026-11-11 18:00 | EP 6 A Bigger Universe | v/ep06.mp4 |
 | 2026-11-12 18:00 | EP 7 The Mothership | v/ep07.mp4 |
-| 2026-11-13 18:00 | REEL Can you survive 20 minutes? | v/reel02_survive.mp4 |
-| 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment) | v/reel03_three_bosses.mp4 |
+| 2026-11-13 18:00 | REEL Can you survive 20 minutes? (+ music hra_boj, auto-post) | v/reel02_survive_music.mp4 |
+| 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; + music boss, auto-post) | v/reel03_three_bosses_music.mp4 |
 | planned (NOT scheduled yet – needed from 2026-11-15) | EP 8 … EP 14 | – |
 
 ## Learnings (updated daily)
