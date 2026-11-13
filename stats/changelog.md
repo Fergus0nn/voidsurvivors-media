@@ -33,6 +33,9 @@ Pravidla:
 - Reworked Alien hero – less shiny, better proportions, smoother movement.
 - Reworked Angel hero – better proportions, smoother wings and cloth.
 
+## Queued for Update #2 (pátek 20. 11. 2026) – NENÍ součást Update #1
+Tyhle změny jsou jen ve zdrojovém kódu, v demu v1.5.0 nejsou. Po vydání Update #1 je přesuň do nové sekce Unreleased.
+
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
 - Elite enemy tags (Explosive, Splitting, Phantom, Healing, Hastening, Giant) now show in your language instead of Czech – in combat and in the Bestiary.
