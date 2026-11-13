@@ -88,4 +88,5 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 - REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN."); 787–791, 794.5–801.5, 802.3–808.6, 864.3–871.3 (short horde_01 "THEY CAME FROM EVERYWHERE")
 
 ## Notes
+- AUDIO (Daniel, 2026-11-13): Daniel had Spotify playing while recording REC C (and possibly other recordings) → NEVER use the recorded audio of any recording. Build the soundtrack only from game files (tools/reel/clean_audio.py).
 - REC C: elite enemy tags above enemies are in Czech ("OBŘÍ", "LÉČIVÁ" …) even in the English build – readable only in full-height ("tall") crops, so use "mid"/"wide" views for late-game shots.

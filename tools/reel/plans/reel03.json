@@ -1,0 +1,124 @@
+{
+ "video": "v/reel03_three_bosses.mp4",
+ "out": "v/reel03_three_bosses_clean.mp4",
+ "work": "tmp_audio",
+ "sfx_dir": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/boss.ogg",
+ "music_start": 0.0,
+ "bed_lufs": -16,
+ "duck_db": 4,
+ "target": -14,
+ "accents": [
+  [
+   0.0,
+   "meteor_dopad",
+   0,
+   1.0
+  ],
+  [
+   0.6,
+   "srdce_kolosu",
+   -2,
+   0.8
+  ],
+  [
+   1.2,
+   "boss_salva",
+   -2,
+   0.6
+  ],
+  [
+   1.8,
+   "boss_prichod",
+   0,
+   2.6
+  ],
+  [
+   4.4,
+   "temna_strela",
+   -3,
+   1.0
+  ],
+  [
+   6.0,
+   "paprsek",
+   -2,
+   1.2
+  ],
+  [
+   8.5,
+   "boss_smrt",
+   0,
+   1.3
+  ],
+  [
+   9.4,
+   "leviatan_rev",
+   -1,
+   3.0
+  ],
+  [
+   12.6,
+   "boss_salva",
+   -3,
+   0.8
+  ],
+  [
+   14.65,
+   "boss_smrt",
+   0,
+   1.3
+  ],
+  [
+   16.03,
+   "lod_prichod",
+   -1,
+   3.6
+  ],
+  [
+   19.83,
+   "paprsek",
+   -2,
+   1.2
+  ],
+  [
+   21.93,
+   "lod_vybuch",
+   0,
+   1.6
+  ],
+  [
+   23.53,
+   "krvavy_mesic",
+   -1,
+   2.6
+  ],
+  [
+   26.13,
+   "udalost_konec",
+   -3,
+   2.6
+  ]
+ ],
+ "action": [
+  [
+   0.0,
+   7.9
+  ],
+  [
+   9.1,
+   13.9
+  ],
+  [
+   15.9,
+   21.33
+  ],
+  [
+   22.53,
+   26.13
+  ]
+ ],
+ "action_db": -13,
+ "seed": 7,
+ "_note": "Run from the voidsurvivors-media folder: python tools/reel/clean_audio.py tools/reel/plans/reel03.json"
+}
