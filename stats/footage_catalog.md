@@ -63,13 +63,17 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 | 569–606 | ~05:00–05:32 | BOSS LORD OF DARKNESS: intro 569, Dark Spiral 583, Fury 593, kill flash 604 (cards at 575 and 608.5) |
 | 670–715 | ~06:10–06:46 | Eclipse event |
 | 725–880 | ~06:53–09:03 | huge hordes, combo 2.8k→5.5k |
+| 788–791 | ~07:48–07:51 | "THE DARK CLOSES IN · PHASE 7" – enemy ring closes around hero |
+| 791.8–796 | | WEAPON PERK cards (Long Arm / Overload / Bloody Harvest), Overload picked; "PERK: OVERLOAD" banner 796–799.5 |
+| 838–841 | | NEW LEVEL 25 cards; "EVOLUTION: STAR RAIN" banner 841–845 |
+| 865–869 | ~08:48–08:51 | "THE DARK CLOSES IN · PHASE 8" – ring closes, dense fight after |
 | 915–940 | ~09:34–09:54 | blue "eye" nebula + meteor shower |
 | 982–1006 | ~10:31–10:54 | TITAN ANCIENT LEVIATHAN around red star, kill flash 1004 (989–998 = Czech ability banners – NEVER use) |
 | 1080 | ~11:59 | combo passes 10,000× |
 | 1145–1180 | ~12:59–13:28 | Golden Horde + "YOU SURVIVED" |
 | 1200–1215 | | music-player popups top-left (never use); 1255 = Alt-Tab (never use) |
 | 1337–1351 | ~15:53–16:06 | BOSS MOTHERSHIP: intro 1337, Orbital Laser 1340, Last Stand 1346, kill flash 1348 |
-| 1400–1540 | ~16:52–18:56 | densest hordes of the run, combo 21k→27k |
+| 1400–1540 | ~16:52–18:56 | densest hordes of the run, combo 21k→27k (1510–1514 = Alt-Tab, never use; 1414–1422 = cards) |
 | 1570–1605 | | pause + graphics settings (avoid) |
 | 1640–1683 | ~19:32–19:59 | BLOOD MOON, whole screen red, combo 29.7k→32.5k (1659–1663 small popup at top) |
 | 1684–1685 | | END OF DEMO screen (don't use – implies the game is playable) |
@@ -81,4 +85,7 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 ## Already used
 - REC A: 0–140 (timelapse, reel 1 & reel 2), 86–113, 296–332 (cards), 361–363, 374–388, 393–398, 405–410, 428–440, 456–486, 518–557, 566–575 (reel 2)
 - Engine: rb_gore 1–130 (EP5)
-- REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN.")
+- REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN."); 787–791, 794.5–801.5, 802.3–808.6, 864.3–871.3 (short horde_01 "THEY CAME FROM EVERYWHERE")
+
+## Notes
+- REC C: elite enemy tags above enemies are in Czech ("OBŘÍ", "LÉČIVÁ" …) even in the English build – readable only in full-height ("tall") crops, so use "mid"/"wide" views for late-game shots.
