@@ -95,6 +95,16 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 - Best-time (Fri 13): TikTok 10:00 1379 vs 18:00 1222 (+13 %), IG 10:00 6734 vs 18:00 4418 (+52 %), YT peak 16:00 10698 (18:00 = 76 %). Same pattern as all week; real TT results don't favour 10:00 → **REEL kept at 18:00.** For the next batch, an IG-only 10–12 h slot is the most promising untested change (IG is the network where both the audience data and the EP 6 result point to hour sensitivity).
 - Caption/hashtag changes: none – no evidence so far that captions affect anything (≈ 99 % For You, 0 comments on all Kai posts).
 
+### 2026-11-13
+- Sample size: TikTok 5 Kai (REEL Combo, EP 4–7) + 1 auto-posted reel (3.6 h old) vs 3 stickman; IG 5 Kai vs 3 stickman (today's reel not synced); YouTube per-video still null (~172 h, only EP 1–3 listed) → no YT conclusions.
+- **TikTok ceiling confirmed again:** EP 7 = 734 views in ~24 h (8 of 9 TT posts now 715–815, EP 2 at 10:00 = 459). EP 6 stopped at exactly 744 on day 2. Hold stays low: EP 7 avg watch 3.0 s (Kai range 2.3–3.1 s vs stickman 4.1–5.7 s), 1 like. Nothing in scheduling/captions has moved the ceiling (n = 9).
+- **"Late publish hurts Instagram" (11-12) is NOT confirmed:** EP 7 went live on IG at 22:04 (4 h late, even later than EP 6) and still reached 108 people in ~24 h – a normal IG start (Kai range 102–115). EP 6 also caught up on day 2 (55 → 81 views). n = 2 late posts, mixed → hour sensitivity on IG is unproven; the 18:00 slot stays. From today all posts auto-publish on time, so this confound disappears.
+- **First auto-posted reel** (clean game audio, no trending sound, TT live 18:07 on time): 257 views in ~3.6 h – the fastest 3.6 h TikTok start so far (EP 3 had 188 at the same age), but avg watch 2.3 s (low end of the Kai range). n = 1 and only hours old → re-check after 48 h; this is the first data point for "game audio + auto" vs "trending sound + manual".
+- Kai-style IG skip rate stays 73–88 % (EP 7 75.2 %); only EP 5 (bold number hook) was below 61 %. The fix remains in the first 1–2 s of the edit (full-height action + bold claim, Kai immediately), not in scheduling.
+- Best-time (Sat 14): TikTok 10:00 852 vs 18:00 709 (+20 %), IG 10:00 3409 vs 18:00 2393 (+42 %), YT peak 16:00 5880 (18:00 = 81 %). But the only real Saturday-10:00 post (EP 2) was the weakest TT post (459) → **REEL "3 Bosses" kept at 18:00 on all networks.** TT and IG share one post entry, so an IG-only morning test needs separate posts in the next batch.
+- Followers: no change (TT 205, IG 1, YT 3; +3 total since start).
+- No caption/title/hour changes today – the 11-14 captions already follow the 11-13 caption rule.
+
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
 - Zdroj: stats/changelog.md, sekce Unreleased. Každou změnu ve hře hned zapsat do changelogu.

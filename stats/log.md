@@ -152,3 +152,34 @@ TikTok values of EP 1–5 are (almost) identical to 11-11 → likely partly stal
 Followers: TikTok 205 (Δ 0 on 11-11), Instagram 1 (gained 0 / lost 0 on 11-12), YouTube 3 (Δ 0). **Total follower change since start: +3** (today: 0).
 
 Scheduled ahead: only REEL "Can you survive 20 minutes?" (Fri 11-13 18:00, TT/IG autoPublish=false, YT auto). No changes made today. **Only 1 future day left → new episodes/reels needed from Sat 11-14.**
+
+## 2026-11-13 (run 21:43 CET)
+Metricool timestamps are UTC → converted to CET. EP 7 "The Mothership" went live by hand on TT **Thu 21:55** and IG **22:04** (~4 h after the 18:00 slot). REEL "Can you survive 20 minutes?" = **first auto-published post** (clean game audio, no trending sound added by hand): TT live **18:07**, IG and YT ([Short](https://www.youtube.com/shorts/UaELYpg2Twc)) PUBLISHED; IG not in analytics yet.
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. EP 1–5 unchanged vs 11-12 (stalled).
+
+| Network | Post | Style | Age | Views | Δ vs 11-12 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | EP 1 | stickman | 171.6 h | 815 | 0 | 10 | 1 | 0 | – | 749 | 5.7 s | – | stalled |
+| TikTok | EP 2 | stickman | 156.6 h | 459 | +8 | 7 | 0 | 0 | – | 418 | 4.1 s | – | stalled |
+| TikTok | EP 3 | stickman | 123.6 h | 807 | 0 | 13 | 0 | 0 | – | 716 | 5.7 s | – | stalled |
+| TikTok | REEL Combo | Kai | ~105 h | 715 | 0 | 3 | 0 | 0 | – | 667 | 3.1 s | – | stalled |
+| TikTok | EP 4 | Kai | ~99.5 h | 749 | 0 | 1 | 0 | 0 | – | 700 | 2.3 s | – | stalled |
+| TikTok | EP 5 | Kai | ~73.5 h | 780 | 0 | 2 | 0 | 0 | – | 727 | 3.1 s | – | stalled |
+| TikTok | EP 6 | Kai | ~48.6 h | 744 | 0 | 2 | 0 | 0 | – | 338 | 2.7 s | – | stalled after day 1 |
+| TikTok | EP 7 | Kai | ~23.8 h | **734** | new | 1 | 0 | 0 | – | n/a | 3.0 s | – | 99.6 % For You; published 21:55 |
+| TikTok | REEL Survive 20 min ([link](https://www.tiktok.com/@void.survivors/video/7707703899586645280)) | Kai, auto, game audio | ~3.6 h | 257 | new | 1 | 0 | 0 | – | n/a | 2.3 s | – | 100 % For You; live 18:07 |
+| Instagram | EP 1 | stickman | 171.6 h | 137 | 0 | 2 | 0 | 0 | 0 | 114 | 4.1 s | 32.3 % / 67.7 % | |
+| Instagram | EP 2 | stickman | 156.6 h | 144 | 0 | 1 | 0 | 1 | 0 | 132 | 5.5 s | 45.5 % / 54.5 % | |
+| Instagram | EP 3 | stickman | 123.6 h | 192 | 0 | 2 | 0 | 0 | 0 | 175 | 3.5 s | 29.0 % / 71.0 % | |
+| Instagram | REEL Combo | Kai | ~105 h | 122 | 0 | 1 | 0 | 0 | 0 | 115 | 2.6 s | 20.0 % / 80.0 % | |
+| Instagram | EP 4 | Kai | ~99.5 h | 109 | 0 | 1 | 0 | 0 | 0 | 102 | 2.0 s | 12.5 % / 87.5 % | |
+| Instagram | EP 5 | Kai | ~73.5 h | 111 | 0 | 1 | 0 | 0 | 0 | 106 | 3.5 s | 39.3 % / 60.7 % | |
+| Instagram | EP 6 | Kai | ~48.6 h | 81 | +26 | 1 | 0 | 1 | 1 | 71 | 3.2 s | 26.9 % / 73.1 % | grew on day 2 |
+| Instagram | EP 7 ([link](https://www.instagram.com/reel/Dfp9cXRMp0Y/)) | Kai | ~23.6 h | 113 | new | 1 | 0 | 0 | 0 | 108 | 2.7 s | 24.8 % / 75.2 % | published 22:04 |
+| Instagram | REEL Survive 20 min ([link](https://www.instagram.com/reel/DfsIUkmlEQ7/)) | Kai, auto | ~3.7 h | n/a | – | – | – | – | – | – | – | – | not synced |
+| YouTube | EP 1–3 | stickman | – | n/a | – | – | – | – | – | – | – | – | listed, per-video stats still null (~172 h) |
+| YouTube | REEL, EP 4–7, REEL Survive | Kai | – | n/a | – | – | – | – | – | – | – | – | not listed in analytics; channel views 154 on 11-10, later days not synced |
+
+Followers: TikTok 205 (Δ 0, last row 11-12), Instagram 1 (gained 0 / lost 0 on 11-13), YouTube 3 (Δ 0). **Total follower change since start: +3** (today: 0).
+
+Scheduled ahead: only REEL "3 Bosses. 1 Run." (Sat 11-14 18:00, TT+IG and YT, all autoPublish=true). No changes made today. **Only 1 future day left → new episodes/reels needed from Sun 11-15.**
