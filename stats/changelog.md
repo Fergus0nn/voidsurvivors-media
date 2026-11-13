@@ -39,3 +39,9 @@ Tyhle změny jsou jen ve zdrojovém kódu, v demu v1.5.0 nejsou. Po vydání Upd
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
 - Elite enemy tags (Explosive, Splitting, Phantom, Healing, Hastening, Giant) now show in your language instead of Czech – in combat and in the Bestiary.
+
+### 🎨 Visuals
+- Robot invasion redesigned – robots now wear battered white armour over a black frame with glowing red lights, so they stand out much better against dark space.
+- New robot shapes: the Drone is a sharp arrow-shaped fighter with a red triangular eye, the Spider walks on eight hooked blade legs, and the Laser Warden is a sniper walker with a long rifle.
+- The Laser Warden now keeps its rifle aimed at you – its visor and muzzle light up right before it fires.
+- The Mothership is now a long angular cruiser with towers and glowing red rings, and it flies nose-first as it circles you.
