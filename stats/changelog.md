@@ -15,7 +15,7 @@ Pozn.: zatím jen ve zdrojovém kódu na Danielově PC – v demu v1.5.0 nejsou 
 - Elite enemy tags (Explosive, Splitting, Phantom, Healing, Hastening, Giant) now show in your language instead of Czech – in combat and in the Bestiary.
 
 ### 🎨 Visuals
-- Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot. Their red lights flicker and they twitch as they hunt you.
+- Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot.
 - New robot shapes: the Drone is a bladed fighter with scythe wings, pincer jaws and a red triangular eye; the Spider stalks on eight high hooked legs, with fangs, a spiked glowing spine and a cluster of eyes; the Laser Warden is a horned sniper walker with claws, spikes and a long bayonet rifle.
 - The Laser Warden now keeps its rifle aimed at you – its visor and muzzle light up right before it fires.
 - The Mothership is now a long angular cruiser with jaw-like prongs on its bow, spines along the hull and red rings that stare up at you like slit-pupil eyes. It flies nose-first as it circles you.
