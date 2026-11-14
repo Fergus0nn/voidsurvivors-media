@@ -8,7 +8,7 @@ Pravidla:
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
-Pozn.: zatím jen ve zdrojovém kódu na Danielově PC – v demu v1.5.0 nejsou (další demo = v1.5.1).
+Pozn.: demo v1.5.1 (14. 11.) má z robotů jen první nový vzhled (bílý pancíř). Strašidelnější vzhled, nové pohyby, efekty a textury robotů jsou zatím jen ve zdrojovém kódu na Danielově PC (další demo = v1.5.2).
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -19,6 +19,11 @@ Pozn.: zatím jen ve zdrojovém kódu na Danielově PC – v demu v1.5.0 nejsou 
 - New robot shapes: the Drone is a bladed fighter with scythe wings, pincer jaws and a red triangular eye; the Spider stalks on eight high hooked legs, with fangs, a spiked glowing spine and a cluster of eyes; the Laser Warden is a horned sniper walker with claws, spikes and a long bayonet rifle.
 - The Laser Warden now keeps its rifle aimed at you – its visor and muzzle light up right before it fires.
 - The Mothership is now a long angular cruiser with jaw-like prongs on its bow, spines along the hull and red rings that stare up at you like slit-pupil eyes. It flies nose-first as it circles you.
+- Robots now move like real machines: Spiders skitter on their whole legs and rear up with fangs spread when they get close, Drones bank into turns with snapping jaws and flickering engine flames, and Laser Wardens stomp, brace before a shot and kick back after it.
+- Laser Wardens paint a red targeting beam on you while they charge – you can see exactly who is about to fire.
+- Robots show their damage: armour plates fall off, sparks fly and short-circuits crawl over the hull. Destroyed walkers topple over, drones spin out and crash.
+- Sharper robot armour: bevelled plates, rivets, scratches, scorch marks and blood-red war paint – every robot is worn differently.
+- The Mothership got engine flames and jaws that open when it releases a swarm, and it visibly falls apart as you tear it down. Robot explosions are now red instead of green.
 
 ## Update #1 – 14. 11. 2026 (v1.5.0) ✅ posted (pozdě: páteční automatický běh selhal na vyčerpaném limitu, posláno ručně v sobotu 01:19)
 
