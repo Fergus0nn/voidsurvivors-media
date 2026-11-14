@@ -8,7 +8,7 @@ Pravidla:
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
-Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC). Další demo = v1.5.3.
+Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC), kromě posledního bodu ve Visuals (rudá brána a nápisy) – ten je zatím jen ve zdrojové hře a bude až v demu v1.5.3.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -24,6 +24,7 @@ Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS
 - Robots show their damage: armour plates fall off and short-circuits flash across the hull. Destroyed robots keel over, glow red-hot and break apart.
 - Sharper robot armour: bevelled plates, rivets, scratches, scorch marks and blood-red war paint – every robot is worn differently.
 - The Mothership got engine flames and jaws that open when it releases a swarm, and it visibly falls apart as you tear it down. Robot explosions are now red instead of green.
+- The invasion gate now burns red instead of green, and the Robot Invasion and Mothership warnings glow red to match – the whole robot army finally shares one colour.
 
 ## Update #1 – 14. 11. 2026 (v1.5.0) ✅ posted (pozdě: páteční automatický běh selhal na vyčerpaném limitu, posláno ručně v sobotu 01:19)
 
