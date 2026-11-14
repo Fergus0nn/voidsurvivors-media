@@ -8,7 +8,7 @@ Pravidla:
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
-Pozn.: demo v1.5.1 (14. 11.) má z robotů jen první nový vzhled (bílý pancíř). Strašidelnější vzhled, nové pohyby, efekty a textury robotů jsou zatím jen ve zdrojovém kódu na Danielově PC (další demo = v1.5.2).
+Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC). Další demo = v1.5.3.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
