@@ -6,7 +6,7 @@ during action shots. The video stream is copied untouched.
 Usage: python clean_audio.py plan.json      (FFMPEG env var = path to ffmpeg if it is not on PATH)
 plan.json:
 {
-  "video": "v/reel03_three_bosses.mp4", "out": "v/reel03_three_bosses_clean.mp4",
+  "video": "v/2026-11-14_REEL03_three-bosses.mp4", "out": "tmp_audio/reel03_remix.mp4",
   "sfx_dir": "assets/audio/sfx", "music": "assets/audio/music/boss.ogg", "music_start": 0.0,
   "bed_lufs": -16, "duck_db": 4, "target": -14,
   "accents": [[t, "boss_prichod", gain_db, max_len_s], ...],

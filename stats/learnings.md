@@ -16,17 +16,19 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 ## Schedule
 | Date | Episode | File |
 |---|---|---|
-| 2026-11-06 19:00 | EP 1 How my game was born | v/ep01.mp4 |
-| 2026-11-07 10:00 | EP 2 The First Heroes | v/ep02.mp4 |
-| 2026-11-08 18:00 | EP 3 Sound & Motion | v/ep03.mp4 |
-| 2026-11-09 12:00 | REEL Combo 20,000× (Kai) | v/reel01_combo.mp4 |
-| 2026-11-09 18:00 | EP 4 Upgrade Trees & Robots (new style) | v/ep04b.mp4 |
-| 2026-11-10 18:00 | EP 5 Extreme Effects (new style) | v/ep05b.mp4 |
-| 2026-11-11 18:00 | EP 6 A Bigger Universe | v/ep06.mp4 |
-| 2026-11-12 18:00 | EP 7 The Mothership | v/ep07.mp4 |
-| 2026-11-13 18:00 | REEL Can you survive 20 minutes? (clean sound: hra_boj + game SFX, auto-post) | v/reel02_survive_clean.mp4 |
-| 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; clean sound: boss + game SFX, auto-post) | v/reel03_three_bosses_clean.mp4 |
+| 2026-11-06 19:00 | EP 1 How my game was born | v/2026-11-06_EP01_how-my-game-was-born.mp4 |
+| 2026-11-07 10:00 | EP 2 The First Heroes | v/2026-11-07_EP02_first-heroes.mp4 |
+| 2026-11-08 18:00 | EP 3 Sound & Motion | v/2026-11-08_EP03_sound-and-motion.mp4 |
+| 2026-11-09 12:00 | REEL Combo 20,000× (Kai) | v/2026-11-09_REEL01_combo-20000.mp4 |
+| 2026-11-09 18:00 | EP 4 Upgrade Trees & Robots (new style) | v/2026-11-09_EP04_upgrade-trees-and-robots.mp4 |
+| 2026-11-10 18:00 | EP 5 Extreme Effects (new style) | v/2026-11-10_EP05_extreme-effects.mp4 |
+| 2026-11-11 18:00 | EP 6 A Bigger Universe | v/2026-11-11_EP06_bigger-universe.mp4 |
+| 2026-11-12 18:00 | EP 7 The Mothership | v/2026-11-12_EP07_mothership.mp4 |
+| 2026-11-13 18:00 | REEL Can you survive 20 minutes? (clean sound: hra_boj + game SFX, auto-post) | v/2026-11-13_REEL02_survive-20-minutes.mp4 |
+| 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; clean sound: boss + game SFX, auto-post) | v/2026-11-14_REEL03_three-bosses.mp4 |
 | planned (NOT scheduled yet – needed from 2026-11-15) | EP 8 … EP 14 | – |
+
+Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug.mp4` (e.g. `v/2026-11-15_REEL04_robot-invasion.mp4`), and add a row to v/README.md (date, title, file, links). Superseded versions are deleted (they stay in git history).
 
 ## Learnings (updated daily)
 ### 2026-11-06

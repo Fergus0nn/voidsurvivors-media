@@ -1,6 +1,6 @@
 {
- "video": "v/reel02_survive.mp4",
- "out": "v/reel02_survive_clean.mp4",
+ "video": "v/2026-11-13_REEL02_survive-20-minutes.mp4",
+ "out": "tmp_audio/2026-11-13_REEL02_survive-20-minutes_remix.mp4",
  "work": "tmp_audio",
  "sfx_dir": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
  "music": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra_boj.ogg",
@@ -58,5 +58,5 @@
  ],
  "action_db": -13,
  "seed": 11,
- "_note": "Run from the voidsurvivors-media folder: python tools/reel/clean_audio.py tools/reel/plans/reel02.json"
+ "_note": "Run from the voidsurvivors-media folder: python tools/reel/clean_audio.py tools/reel/plans/reel02.json — the input's audio is ignored (only its picture is used), so the published file works as the source."
 }

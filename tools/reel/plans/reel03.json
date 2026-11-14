@@ -1,6 +1,6 @@
 {
- "video": "v/reel03_three_bosses.mp4",
- "out": "v/reel03_three_bosses_clean.mp4",
+ "video": "v/2026-11-14_REEL03_three-bosses.mp4",
+ "out": "tmp_audio/2026-11-14_REEL03_three-bosses_remix.mp4",
  "work": "tmp_audio",
  "sfx_dir": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
  "music": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/boss.ogg",
@@ -120,5 +120,5 @@
  ],
  "action_db": -13,
  "seed": 7,
- "_note": "Run from the voidsurvivors-media folder: python tools/reel/clean_audio.py tools/reel/plans/reel03.json"
+ "_note": "Run from the voidsurvivors-media folder: python tools/reel/clean_audio.py tools/reel/plans/reel03.json — the input's audio is ignored (only its picture is used), so the published file works as the source."
 }
