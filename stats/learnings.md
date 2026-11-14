@@ -26,7 +26,8 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-12 18:00 | EP 7 The Mothership | v/2026-11-12_EP07_mothership.mp4 |
 | 2026-11-13 18:00 | REEL Can you survive 20 minutes? (clean sound: hra_boj + game SFX, auto-post) | v/2026-11-13_REEL02_survive-20-minutes.mp4 |
 | 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; clean sound: boss + game SFX, auto-post) | v/2026-11-14_REEL03_three-bosses.mp4 |
-| planned (NOT scheduled yet – needed from 2026-11-15; schedule empty as of 11-14 21:42) | EP 8 … EP 14 | – |
+| 2026-11-15 18:00 | REEL 4 They came from everywhere (Claude Code template horde_01, REC C; clean sound hra_boj + SFX; cover NO WAY OUT; auto-post) | v/2026-11-15_REEL04_they-came-from-everywhere.mp4 |
+| planned (NOT scheduled yet – needed from 2026-11-16) | next reels | – |
 
 Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug.mp4` (e.g. `v/2026-11-15_REEL04_robot-invasion.mp4`), and add a row to v/README.md (date, title, file, links). Superseded versions are deleted (they stay in git history).
 

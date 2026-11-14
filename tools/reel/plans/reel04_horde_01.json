@@ -1,0 +1,90 @@
+{
+ "video": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/shorts/out/horde_01_nomusic.mp4",
+ "out": "v/2026-11-15_REEL04_they-came-from-everywhere.mp4",
+ "work": "tmp_audio",
+ "sfx_dir": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra_boj.ogg",
+ "music_start": 20.0,
+ "bed_lufs": -16,
+ "duck_db": 4,
+ "target": -14,
+ "accents": [
+  [
+   0.0,
+   "meteor_dopad",
+   -1,
+   1.0
+  ],
+  [
+   2.15,
+   "magnetar_puls",
+   -5,
+   3.2
+  ],
+  [
+   6.27,
+   "zasah_1",
+   -1
+  ],
+  [
+   7.5,
+   "zasah_2",
+   0
+  ],
+  [
+   8.93,
+   "zasah_1",
+   -2
+  ],
+  [
+   11.53,
+   "zasah_3",
+   0
+  ],
+  [
+   13.3,
+   "ui_klik",
+   -4
+  ],
+  [
+   13.5,
+   "karta_zbran",
+   1,
+   2.5
+  ],
+  [
+   19.0,
+   "prazdnota_septani",
+   -4,
+   2.0
+  ],
+  [
+   20.8,
+   "udalost_konec",
+   -4,
+   2.5
+  ],
+  [
+   21.9,
+   "zasah_2",
+   -1
+  ]
+ ],
+ "action": [
+  [
+   0.0,
+   2.0
+  ],
+  [
+   6.0,
+   12.0
+  ],
+  [
+   13.5,
+   22.5
+  ]
+ ],
+ "action_db": -13,
+ "seed": 15,
+ "_note": "horde_01 (shorts/episodes/horde_01.json) – accent times = its events. Run from the voidsurvivors-media folder."
+}
