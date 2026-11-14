@@ -26,7 +26,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-12 18:00 | EP 7 The Mothership | v/2026-11-12_EP07_mothership.mp4 |
 | 2026-11-13 18:00 | REEL Can you survive 20 minutes? (clean sound: hra_boj + game SFX, auto-post) | v/2026-11-13_REEL02_survive-20-minutes.mp4 |
 | 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; clean sound: boss + game SFX, auto-post) | v/2026-11-14_REEL03_three-bosses.mp4 |
-| planned (NOT scheduled yet – needed from 2026-11-15) | EP 8 … EP 14 | – |
+| planned (NOT scheduled yet – needed from 2026-11-15; schedule empty as of 11-14 21:42) | EP 8 … EP 14 | – |
 
 Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug.mp4` (e.g. `v/2026-11-15_REEL04_robot-invasion.mp4`), and add a row to v/README.md (date, title, file, links). Superseded versions are deleted (they stay in git history).
 
@@ -106,6 +106,16 @@ Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug
 - Best-time (Sat 14): TikTok 10:00 852 vs 18:00 709 (+20 %), IG 10:00 3409 vs 18:00 2393 (+42 %), YT peak 16:00 5880 (18:00 = 81 %). But the only real Saturday-10:00 post (EP 2) was the weakest TT post (459) → **REEL "3 Bosses" kept at 18:00 on all networks.** TT and IG share one post entry, so an IG-only morning test needs separate posts in the next batch.
 - Followers: no change (TT 205, IG 1, YT 3; +3 total since start).
 - No caption/title/hour changes today – the 11-14 captions already follow the 11-13 caption rule.
+
+### 2026-11-14
+- Sample size: TikTok 10 posts with data (3 stickman, 6 Kai manual + trending sound, 1 Kai auto + game audio); IG same 10; today's "3 Bosses" not synced; YouTube per-video still null (~196 h, only EP 1–3 listed) → no YT conclusions.
+- **Auto-post + game audio did not change the TikTok result:** "Survive 20 minutes?" ended day 1 at 737 views (fastest 3.6 h start, then the usual flattening) → 9 of 10 TT posts now sit at 715–815. Trending sound vs game music makes no visible difference to reach (n = 1 auto). Hold also unchanged: avg watch 2.4 s (Kai range 2.3–3.1 s, stickman 4.1–5.7 s).
+- Small positive: 4 likes = best Kai-style like count (others 1–3; like rate 0.54 % vs Kai 0.13–0.42 %). n = 1 → not a conclusion yet; check if "3 Bosses" (same audio approach) repeats it.
+- **Instagram: the auto/game-audio reel had a weaker start** – 90 views / 78 reach in ~27.6 h vs Kai manual range 102–115 reach (EP 6 = 71 at 24.6 h but then grew to 81). Skip rate 78.5 % (Kai range 60.7–87.5 %). Posted on time at 18:07, so it isn't the hour. Possible cause: no trending/licensed IG sound → less audio-based distribution on IG; n = 1, so only a signal. Daniel's auto-post decision stays; re-check with "3 Bosses" on 11-15/16.
+- Everything older is completely stalled (0 change on all 9 older TT and IG posts) – consistent with the "views come in the first ~24–48 h" rule → **without new posts the accounts get no new views at all**; the schedule is now empty (nothing after 11-14).
+- Best-time (Sun 15 – Tue 17): TikTok Sun 10:00 816 vs 18:00 677 (+21 %), Mon 1089 vs 1096, Tue 1136 vs 1119 (equal); IG 10:00 ahead (Sun +15 %, Mon +31 %, Tue +3 %); YT peak 16:00 (18:00 = 76–92 %). Same as all week; real TT data (the only 10:00 post was the weakest) still favour **18:00** as the default for the next batch. Suggested optional test once there are 2 reels per day available: one at 10:00/12:00 on IG.
+- Followers: no change (TT 205, IG 1, YT 3; +3 total since 11-06).
+- No scheduled posts to edit → no changes made.
 
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
