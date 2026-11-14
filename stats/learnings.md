@@ -108,4 +108,5 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
 - Zdroj: stats/changelog.md, sekce Unreleased. Každou změnu ve hře hned zapsat do changelogu.
+- Update #1 (v1.5.0) vyšel až v sobotu 14. 11. v 01:19 – páteční automatický běh (17:52) selhal na vyčerpaném limitu používání (USAGE_LIMIT_REACHED), poslal se ručně přes vestavěný prohlížeč. Postup, který funguje: text vložit do pole zprávy přes paste událost (kanály jako <#id>: bugs 1567718497579044894, ideas 1567718511344885800), na konec napsat @Update a vybrat roli z nabídky, Enter, pak Publikovat → Potvrdit.
 - Role: automaticky přes Onboarding (CZ/SK, English, Update Ping, Shorts Ping) a Arcane levely (1/5/10/20/35/50). Ručně: Day One, Beta Tester, Fan Art, Moderator, Developer.

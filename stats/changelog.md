@@ -7,7 +7,20 @@ Pravidla:
 - Nikdy nezmiňovat AI. Nepsat, že je hra zdarma.
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
-## Unreleased (Update #1 – pátek 13. 11. 2026, v1.5.0)
+## Unreleased (Update #2 – pátek 20. 11. 2026)
+Pozn.: zatím jen ve zdrojovém kódu na Danielově PC – v demu v1.5.0 nejsou (další demo = v1.5.1).
+
+### 🐛 Fixes
+- Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
+- Elite enemy tags (Explosive, Splitting, Phantom, Healing, Hastening, Giant) now show in your language instead of Czech – in combat and in the Bestiary.
+
+### 🎨 Visuals
+- Robot invasion redesigned – robots now wear battered white armour over a black frame with glowing red lights, so they stand out much better against dark space.
+- New robot shapes: the Drone is a sharp arrow-shaped fighter with a red triangular eye, the Spider walks on eight hooked blade legs, and the Laser Warden is a sniper walker with a long rifle.
+- The Laser Warden now keeps its rifle aimed at you – its visor and muzzle light up right before it fires.
+- The Mothership is now a long angular cruiser with towers and glowing red rings, and it flies nose-first as it circles you.
+
+## Update #1 – 14. 11. 2026 (v1.5.0) ✅ posted (pozdě: páteční automatický běh selhal na vyčerpaném limitu, posláno ručně v sobotu 01:19)
 
 ### ⚙️ New
 - GRAPHICS settings menu – presets (Low → Ultra), render scale (FSR), anti-aliasing, shadows and FPS cap. Tune the game for your own PC.
@@ -32,16 +45,3 @@ Pravidla:
 - Stars now erupt – flares burst across their surface and plasma arcs rise from the edge.
 - Reworked Alien hero – less shiny, better proportions, smoother movement.
 - Reworked Angel hero – better proportions, smoother wings and cloth.
-
-## Queued for Update #2 (pátek 20. 11. 2026) – NENÍ součást Update #1
-Tyhle změny jsou jen ve zdrojovém kódu, v demu v1.5.0 nejsou. Po vydání Update #1 je přesuň do nové sekce Unreleased.
-
-### 🐛 Fixes
-- Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
-- Elite enemy tags (Explosive, Splitting, Phantom, Healing, Hastening, Giant) now show in your language instead of Czech – in combat and in the Bestiary.
-
-### 🎨 Visuals
-- Robot invasion redesigned – robots now wear battered white armour over a black frame with glowing red lights, so they stand out much better against dark space.
-- New robot shapes: the Drone is a sharp arrow-shaped fighter with a red triangular eye, the Spider walks on eight hooked blade legs, and the Laser Warden is a sniper walker with a long rifle.
-- The Laser Warden now keeps its rifle aimed at you – its visor and muzzle light up right before it fires.
-- The Mothership is now a long angular cruiser with towers and glowing red rings, and it flies nose-first as it circles you.
