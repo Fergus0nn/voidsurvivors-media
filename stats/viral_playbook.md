@@ -55,6 +55,12 @@ Platí pro TikTok, Instagram Reels i YouTube Shorts. Každé nové video projde 
 - Popisek: 1 věta + otázka, ~5 hashtagů (#voidsurvivors první); YouTube: hledaná slova v názvu.
 - 1 video denně v 18:00, všechno se zveřejňuje automaticky.
 
+## 10. Co dělají velké survivor-like hry (podrobně: stats/konkurence_socialni_site.md)
+- Hity (Vampire Survivors, Halls of Torment, Brotato, Megabonk) nakopli **streameři a YouTubeři**, ne vlastní TikTok. Shorty budují komunitu a viditelnost.
+- Všechno se láme na **Steamu**: stránka → wishlisty → demo → Next Fest. Jakmile bude Steam stránka, konec videí = „WISHLIST ON STEAM“.
+- Nejlepší shorty po čase **nahrát znovu** s novým háčkem – stejné video může jednou udělat 10 tis. a podruhé miliony zhlédnutí.
+- Ptát se diváků na nápady („help me name this boss“) – komentáře + nápady zdarma.
+
 ## Zdroje
 - How To Market A Game – Seven great tips for marketing your indie game on TikTok: https://howtomarketagame.com/2022/02/07/seven-great-tips-for-marketing-your-indie-game-on-tiktok/
 - presskit.gg – TikTok indie game marketing field guide: https://presskit.gg/field-guides/tiktok-indie-game-marketing
