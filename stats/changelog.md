@@ -8,11 +8,15 @@ Pravidla:
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
-Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC), kromě posledních tří bodů ve Visuals (trhlina místo brány, přílet lodi trhlinou, rudé nápisy) – ty jsou zatím jen ve zdrojové hře a budou až v demu v1.5.3.
+Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC), kromě sekce Gameplay a posledních tří bodů ve Visuals (trhlina místo brány, rudé nápisy, let na tryskách) – ty jsou zatím jen ve zdrojové hře a budou až v demu v1.5.3. Pozor: bod „Spiders skitter… Laser Wardens stomp“ platí jen pro v1.5.2; ve v1.5.3 pavouci a strážci létají na tryskách – před zveřejněním nechat jen jednu verzi.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
 - Elite enemy tags (Explosive, Splitting, Phantom, Healing, Hastening, Giant) now show in your language instead of Czech – in combat and in the Bestiary.
+
+### 🌑 Gameplay
+- The Mothership now bursts out of a huge slanted rift, climbs high and crashes down on you – get out of the red circle.
+- New Mothership attacks: a ramming charge down a red lane, a carpet-bombing run, and a rift jump that ends in another crash landing.
 
 ### 🎨 Visuals
 - Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot.
@@ -25,8 +29,8 @@ Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS
 - Sharper robot armour: bevelled plates, rivets, scratches, scorch marks and blood-red war paint – every robot is worn differently.
 - The Mothership got engine flames and jaws that open when it releases a swarm, and it visibly falls apart as you tear it down. Robot explosions are now red instead of green.
 - The invasion gate is no longer a green hexagon. Space now cracks and tears open into a burning red rift – and the robots fly out of it instead of just appearing.
-- The Mothership arrives through a huge slanted rift of its own, which closes behind it.
 - The Robot Invasion and Mothership warnings now glow red to match the robots.
+- Spiders and Laser Wardens no longer run across empty space – they fly on thrusters, legs trailing behind them.
 
 ## Update #1 – 14. 11. 2026 (v1.5.0) ✅ posted (pozdě: páteční automatický běh selhal na vyčerpaném limitu, posláno ručně v sobotu 01:19)
 
