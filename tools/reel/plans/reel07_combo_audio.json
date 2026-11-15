@@ -1,0 +1,72 @@
+{
+ "video": "tmp/reel07_combo_noaudio.mp4",
+ "out": "v/2026-11-18_REEL07_combo-0-to-32000.mp4",
+ "work": "tmp_audio",
+ "sfx_dir": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/boss.ogg",
+ "music_start": 10.0,
+ "bed_lufs": -16,
+ "duck_db": 4,
+ "target": -14,
+ "fade_out": 1.0,
+ "accents": [
+  [
+   0.0,
+   "meteor_dopad",
+   -1,
+   1.0
+  ],
+  [
+   1.6,
+   "portal",
+   -3,
+   1.2
+  ],
+  [
+   3.2,
+   "srdce_kolosu",
+   -4,
+   0.8
+  ],
+  [
+   4.6,
+   "srdce_kolosu",
+   -3,
+   0.8
+  ],
+  [
+   6.0,
+   "meteor_dopad",
+   -3,
+   1.0
+  ],
+  [
+   7.4,
+   "meteor_dopad",
+   -2,
+   1.0
+  ],
+  [
+   8.8,
+   "rekord",
+   -3,
+   2.5
+  ]
+ ],
+ "action": [
+  [
+   0.0,
+   1.6
+  ],
+  [
+   3.2,
+   11.8
+  ]
+ ],
+ "action_db": -13,
+ "seed": 37,
+ "voice": "tmp_voice/reel07/voice.json",
+ "voice_lufs": -15,
+ "voice_duck_db": 8,
+ "voice_duck_sfx_db": 4
+}

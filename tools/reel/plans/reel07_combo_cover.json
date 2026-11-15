@@ -1,0 +1,25 @@
+{
+ "out": "v/2026-11-18_REEL07_combo-0-to-32000_cover.jpg",
+ "layout": "split",
+ "frames": [
+  {
+   "src": "rec/ufon.mp4",
+   "t": 51.0
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "t": 1681.0
+  }
+ ],
+ "title": [
+  [
+   "COMBO",
+   "#ffffff"
+  ],
+  [
+   "0 → 32,000",
+   "#ff4070"
+  ]
+ ],
+ "tag": "VOID SURVIVORS"
+}

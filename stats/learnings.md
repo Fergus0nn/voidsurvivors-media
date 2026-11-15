@@ -28,7 +28,9 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; clean sound: boss + game SFX, auto-post) | v/2026-11-14_REEL03_three-bosses.mp4 |
 | 2026-11-15 18:00 | REEL 4 They came from everywhere (Claude Code template horde_01, REC C; clean sound hra_boj + SFX + Kai voice; cover NO WAY OUT; auto-post) | v/2026-11-15_REEL04_they-came-from-everywhere.mp4 |
 | 2026-11-16 18:00 | REEL 5 Minute 1 vs Minute 20 (first reel built with stats/viral_playbook.md: contrast hook, ticking clock, hard cuts, loop; Kai voice; before/after cover) | v/2026-11-16_REEL05_minute-1-vs-20.mp4 |
-| planned (NOT scheduled yet – needed from 2026-11-17) | next reels | – |
+| 2026-11-17 18:00 | REEL 6 7 Disasters. 1 Run. (REC C, number hook + 1/7…7/7 titles, Kai voice, ends 'Which one is the worst?') | v/2026-11-17_REEL06_7-disasters.mp4 |
+| 2026-11-18 18:00 | REEL 7 Combo 0 → 32,000 (REC C, ticking combo counter, Kai voice, ends 'Next run: 50,000?') | v/2026-11-18_REEL07_combo-0-to-32000.mp4 |
+| planned (NOT scheduled yet – needed from 2026-11-19) | next reels | – |
 
 NEVER END WITH "How long would you survive?" (Daniel, 2026-11-15) – not in the end card, not in Kai's last line, not in the caption. Vary the ending every time (follow CTA, a question about this video's content, cliffhanger).
 

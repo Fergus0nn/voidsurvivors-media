@@ -22,3 +22,5 @@ Profily: [TikTok](https://www.tiktok.com/@void.survivors) · [Instagram](https:/
 | 14. 11. 18:00 | REEL 3 – 3 Bosses. 1 Run. | [2026-11-14_REEL03_three-bosses.mp4](2026-11-14_REEL03_three-bosses.mp4) | [YouTube](https://www.youtube.com/shorts/UQeoOShDgZg) · [TikTok](https://www.tiktok.com/@void.survivors/video/7708074829550767392) · [Instagram](https://www.instagram.com/reel/DfutKpQk_h0/) |
 | 15. 11. 18:00 | REEL 4 – They came from everywhere (naplánováno, hlas Kaie) | [2026-11-15_REEL04_they-came-from-everywhere.mp4](2026-11-15_REEL04_they-came-from-everywhere.mp4) | odkazy přibudou po zveřejnění |
 | 16. 11. 18:00 | REEL 5 – Minute 1 vs Minute 20 (naplánováno) | [2026-11-16_REEL05_minute-1-vs-20.mp4](2026-11-16_REEL05_minute-1-vs-20.mp4) | odkazy přibudou po zveřejnění |
+| 17. 11. 18:00 | REEL 6 – 7 Disasters. 1 Run. (naplánováno) | [2026-11-17_REEL06_7-disasters.mp4](2026-11-17_REEL06_7-disasters.mp4) | odkazy přibudou po zveřejnění |
+| 18. 11. 18:00 | REEL 7 – Combo 0 → 32,000 (naplánováno) | [2026-11-18_REEL07_combo-0-to-32000.mp4](2026-11-18_REEL07_combo-0-to-32000.mp4) | odkazy přibudou po zveřejnění |

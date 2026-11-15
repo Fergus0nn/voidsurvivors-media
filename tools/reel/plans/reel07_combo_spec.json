@@ -1,0 +1,145 @@
+{
+ "shots": [
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 1680.0,
+   "dur": 1.6,
+   "label": "COMBO",
+   "counter": [
+    32318,
+    32399
+   ],
+   "suffix": "×",
+   "color": "#ff4070",
+   "bar": [
+    0.994,
+    0.997
+   ]
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 50.5,
+   "dur": 1.6,
+   "label": "COMBO",
+   "counter": [
+    0,
+    0
+   ],
+   "suffix": "×",
+   "color": "#ff4070",
+   "bar": 0.0
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 738.6,
+   "dur": 1.4,
+   "label": "COMBO",
+   "counter": [
+    3180,
+    3212
+   ],
+   "suffix": "×",
+   "color": "#ff4070",
+   "bar": [
+    0.098,
+    0.099
+   ]
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 1082.0,
+   "dur": 1.4,
+   "label": "COMBO",
+   "counter": [
+    10049,
+    10136
+   ],
+   "suffix": "×",
+   "color": "#ff4070",
+   "bar": [
+    0.309,
+    0.312
+   ]
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 1450.0,
+   "dur": 1.4,
+   "label": "COMBO",
+   "counter": [
+    23331,
+    23382
+   ],
+   "suffix": "×",
+   "color": "#ff4070",
+   "bar": [
+    0.718,
+    0.72
+   ]
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 1495.0,
+   "dur": 1.4,
+   "label": "COMBO",
+   "counter": [
+    25285,
+    25357
+   ],
+   "suffix": "×",
+   "color": "#ff4070",
+   "bar": [
+    0.778,
+    0.78
+   ]
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 1674.6,
+   "dur": 3.0,
+   "label": "COMBO",
+   "counter": [
+    32072,
+    32265
+   ],
+   "suffix": "×",
+   "color": "#ff4070",
+   "bar": [
+    0.987,
+    0.993
+   ]
+  }
+ ],
+ "end_text": [
+  [
+   "NEXT RUN:",
+   "#ffffff"
+  ],
+  [
+   "50,000?",
+   "#ff4070"
+  ]
+ ],
+ "end_at": 10.0,
+ "kai": [
+  {
+   "t0": 0.0,
+   "t1": 1.5,
+   "expr": "smirk",
+   "text": "32,000 combo."
+  },
+  {
+   "t0": 1.65,
+   "t1": 3.1,
+   "expr": "surprised",
+   "text": "It started at zero."
+  },
+  {
+   "t0": 10.0,
+   "t1": 11.7,
+   "expr": "smirk",
+   "text": "Next run: 50,000?"
+  }
+ ],
+ "_note": "rec/ufon.mp4 = REC C (Plocha\\nahrávky ze hry\\Ufon tank + dmg + ats.mp4). Render: python3 tools/reel/minutes_short.py <spec> <out_noaudio.mp4>"
+}

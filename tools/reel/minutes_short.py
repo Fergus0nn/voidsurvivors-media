@@ -5,6 +5,9 @@ spec.json:
 {
  "shots": [{"src": "/root/build/rec/hra.mp4", "ss": 562.0, "dur": 1.6, "clock": "19:49", "label": "LAST MINUTE"}, ...],
  "end_text": [["WHICH MINUTE", "#ffffff"], ["ENDS YOU?", "#ff3b4f"]],   # top text on the last shot (optional)
+ "end_at": 12.1,     # optional: absolute time when end_text replaces the last shot's top text
+ # per shot instead of "clock": "counter": [from, to] (+ "suffix": "×", "color") or "big": "SOLAR FLARE" (+ "color");
+ # optional "bar": fraction or [from, to] for the progress bar under the title; "cx": crop x (0–576, default 288 = centre)
  "kai": [{"t0": 0.1, "t1": 1.5, "expr": "smirk", "text": "This is the last minute."}, ...]
 }
 Layout (1080x1920): blurred gameplay background, square gameplay zoom (centre 704x704 of the 1280x720 recording) at y=470,
@@ -50,7 +53,7 @@ def main(spec_p, out):
         p = f"{work}/seg{i:02d}.mp4"
         fc = ("[0:v]fps=30,split[a][b];"
               "[a]scale=-2:1920,crop=1080:1920,boxblur=22:2,eq=brightness=-0.30:saturation=1.15[bg];"
-              "[b]crop=704:704:288:4,scale=w='1080*(1+0.07*max(0,1-t/0.28))':h=-2:eval=frame,"
+              "[b]crop=704:704:" + str(s.get("cx", 288)) + ":4,scale=w='1080*(1+0.07*max(0,1-t/0.28))':h=-2:eval=frame,"
               "crop=1080:1080[fg];"
               f"[bg][fg]overlay=0:{FG_Y}[v]")
         run(["ffmpeg", "-v", "error", "-y", "-ss", str(s["ss"]), "-t", str(s["dur"]), "-i", s["src"],
@@ -79,11 +82,26 @@ def main(spec_p, out):
         s, el = shots[k], tt - starts[k]
         im = Image.new("RGBA", (W, H), (0, 0, 0, 0))
         d = ImageDraw.Draw(im)
-        mm, ss = (int(x) for x in s["clock"].split(":"))
-        sec = mm * 60 + ss + int(el)
-        minute = sec / 60.0
-        col = clock_color(minute) + (255,)
-        last = k == len(shots) - 1 and sp.get("end_text")
+        frac = min(1.0, el / max(1e-6, s["dur"]))
+        bar = None
+        if "clock" in s:                      # ticking in-game clock
+            mm, ss = (int(x) for x in s["clock"].split(":"))
+            sec = mm * 60 + ss + int(el)
+            col = clock_color(sec / 60.0) + (255,)
+            main_txt = f"{sec // 60:02d}:{sec % 60:02d}"
+            bar = sec / 1200.0
+        elif "counter" in s:                  # ticking number, e.g. combo [32318, 32399]
+            c0, c1 = s["counter"]
+            val = int(round(c0 + (c1 - c0) * frac))
+            col = tuple(int(x) for x in bytes.fromhex(s.get("color", "#ff4070")[1:])) + (255,)
+            main_txt = f"{val:,}{s.get('suffix', '')}"
+        else:                                 # plain big title, e.g. "SOLAR FLARE"
+            col = tuple(int(x) for x in bytes.fromhex(s.get("color", "#ffffff")[1:])) + (255,)
+            main_txt = s.get("big", "")
+        if "bar" in s:
+            b = s["bar"]
+            bar = (b[0] + (b[1] - b[0]) * frac) if isinstance(b, list) else b
+        last = k == len(shots) - 1 and sp.get("end_text") and tt >= sp.get("end_at", starts[k])
         if last:
             y = 170
             for txt, c in sp["end_text"]:
@@ -92,13 +110,17 @@ def main(spec_p, out):
         else:
             if s.get("label"):
                 text_center(d, 150, s["label"], small, (235, 235, 245, 255), 6)
-            text_center(d, 205, f"{sec // 60:02d}:{sec % 60:02d}", big, col, 10)
-        # run bar 00:00 -> 20:00
-        x0, x1, yb = 140, W - 140, 425
-        d.rounded_rectangle([x0, yb, x1, yb + 10], 5, fill=(255, 255, 255, 60))
-        fx = x0 + (x1 - x0) * min(1.0, sec / 1200.0)
-        d.rounded_rectangle([x0, yb, fx, yb + 10], 5, fill=col)
-        d.ellipse([fx - 11, yb - 6, fx + 11, yb + 16], fill=(255, 255, 255, 255))
+            fbig = big
+            while d.textlength(main_txt, font=fbig) > 980 and fbig.size > 60:
+                fbig = ImageFont.truetype(FONT, fbig.size - 8)
+            text_center(d, 205 + (150 - fbig.size) // 2, main_txt, fbig, col, 10)
+        # progress bar (run time, combo progress or step k/n)
+        if bar is not None:
+            x0, x1, yb = 140, W - 140, 425
+            d.rounded_rectangle([x0, yb, x1, yb + 10], 5, fill=(255, 255, 255, 60))
+            fx = x0 + (x1 - x0) * max(0.0, min(1.0, bar))
+            d.rounded_rectangle([x0, yb, fx, yb + 10], 5, fill=col)
+            d.ellipse([fx - 11, yb - 6, fx + 11, yb + 16], fill=(255, 255, 255, 255))
         # flash right after every cut (not at t=0 so the first frame is clean gameplay)
         if k > 0 and el < 3 / FPS:
             a = int(150 * (1 - el / (3 / FPS)))

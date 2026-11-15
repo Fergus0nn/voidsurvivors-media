@@ -1,0 +1,21 @@
+{
+ "out": "v/2026-11-17_REEL06_7-disasters_cover.jpg",
+ "layout": "single",
+ "frames": [
+  {
+   "src": "rec/ufon.mp4",
+   "t": 393.8
+  }
+ ],
+ "title": [
+  [
+   "7 DISASTERS",
+   "#ffffff"
+  ],
+  [
+   "1 RUN",
+   "#ff3b4f"
+  ]
+ ],
+ "tag": "VOID SURVIVORS"
+}

@@ -1,0 +1,80 @@
+{
+ "video": "tmp/reel06_7-disasters_noaudio.mp4",
+ "out": "v/2026-11-17_REEL06_7-disasters.mp4",
+ "work": "tmp_audio",
+ "sfx_dir": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra_boj.ogg",
+ "music_start": 38.4,
+ "bed_lufs": -16,
+ "duck_db": 4,
+ "target": -14,
+ "fade_out": 1.2,
+ "accents": [
+  [
+   0.0,
+   "meteor_dopad",
+   -1,
+   1.0
+  ],
+  [
+   1.8,
+   "slunce_erupce",
+   -4,
+   1.4
+  ],
+  [
+   3.3,
+   "slunce_vystraha",
+   -6,
+   1.3
+  ],
+  [
+   4.8,
+   "cerna_dira",
+   -5,
+   1.4
+  ],
+  [
+   6.3,
+   "zatmeni",
+   -5,
+   1.4
+  ],
+  [
+   7.8,
+   "meteor_pad",
+   -3,
+   1.0
+  ],
+  [
+   8.2,
+   "meteor_dopad",
+   -5,
+   0.8
+  ],
+  [
+   9.3,
+   "zlata_horda",
+   -4,
+   1.4
+  ],
+  [
+   10.8,
+   "krvavy_mesic",
+   -3,
+   2.0
+  ]
+ ],
+ "action": [
+  [
+   0.0,
+   14.0
+  ]
+ ],
+ "action_db": -14,
+ "seed": 31,
+ "voice": "tmp_voice/reel06/voice.json",
+ "voice_lufs": -15,
+ "voice_duck_db": 8,
+ "voice_duck_sfx_db": 4
+}

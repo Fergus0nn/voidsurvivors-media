@@ -1,0 +1,42 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "lines": [
+  [
+   0.05,
+   "Seven disasters. One run."
+  ],
+  [
+   2.05,
+   "Solar flare."
+  ],
+  [
+   3.35,
+   "Red giant."
+  ],
+  [
+   4.85,
+   "Vortex."
+  ],
+  [
+   6.35,
+   "Eclipse."
+  ],
+  [
+   7.85,
+   "Meteor shower."
+  ],
+  [
+   9.35,
+   "Golden horde."
+  ],
+  [
+   10.85,
+   "Blood moon."
+  ],
+  [
+   12.15,
+   "Which one's the worst?"
+  ]
+ ]
+}

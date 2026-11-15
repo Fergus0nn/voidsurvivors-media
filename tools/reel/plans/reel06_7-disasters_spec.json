@@ -1,0 +1,102 @@
+{
+ "shots": [
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 393.0,
+   "dur": 1.8,
+   "label": "IN ONE RUN",
+   "big": "7 DISASTERS",
+   "color": "#ff3b4f"
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 145.0,
+   "dur": 1.5,
+   "label": "1 / 7",
+   "big": "SOLAR FLARE",
+   "color": "#ffb02e",
+   "bar": 0.143,
+   "cx": 560
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 226.0,
+   "dur": 1.5,
+   "label": "2 / 7",
+   "big": "RED GIANT",
+   "color": "#ff5a3c",
+   "bar": 0.286
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 389.0,
+   "dur": 1.5,
+   "label": "3 / 7",
+   "big": "VORTEX",
+   "color": "#c9b8ff",
+   "bar": 0.429
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 680.0,
+   "dur": 1.5,
+   "label": "4 / 7",
+   "big": "ECLIPSE",
+   "color": "#aab4d0",
+   "bar": 0.571
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 925.0,
+   "dur": 1.5,
+   "label": "5 / 7",
+   "big": "METEOR SHOWER",
+   "color": "#6fd3ff",
+   "bar": 0.714
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 1150.0,
+   "dur": 1.5,
+   "label": "6 / 7",
+   "big": "GOLDEN HORDE",
+   "color": "#ffd23c",
+   "bar": 0.857
+  },
+  {
+   "src": "rec/ufon.mp4",
+   "ss": 1648.8,
+   "dur": 3.2,
+   "label": "7 / 7",
+   "big": "BLOOD MOON",
+   "color": "#ff2d48",
+   "bar": 1.0
+  }
+ ],
+ "end_text": [
+  [
+   "WHICH ONE IS",
+   "#ffffff"
+  ],
+  [
+   "THE WORST?",
+   "#ff3b4f"
+  ]
+ ],
+ "end_at": 12.1,
+ "kai": [
+  {
+   "t0": 0.0,
+   "t1": 1.6,
+   "expr": "smirk",
+   "text": "7 disasters. 1 run."
+  },
+  {
+   "t0": 12.1,
+   "t1": 13.9,
+   "expr": "smirk",
+   "text": "Which one's the worst?"
+  }
+ ],
+ "_note": "rec/ufon.mp4 = REC C (Plocha\\nahrávky ze hry\\Ufon tank + dmg + ats.mp4). Render: python3 tools/reel/minutes_short.py <spec> <out_noaudio.mp4>"
+}
