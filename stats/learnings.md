@@ -26,8 +26,11 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-12 18:00 | EP 7 The Mothership | v/2026-11-12_EP07_mothership.mp4 |
 | 2026-11-13 18:00 | REEL Can you survive 20 minutes? (clean sound: hra_boj + game SFX, auto-post) | v/2026-11-13_REEL02_survive-20-minutes.mp4 |
 | 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; clean sound: boss + game SFX, auto-post) | v/2026-11-14_REEL03_three-bosses.mp4 |
-| 2026-11-15 18:00 | REEL 4 They came from everywhere (Claude Code template horde_01, REC C; clean sound hra_boj + SFX; cover NO WAY OUT; auto-post) | v/2026-11-15_REEL04_they-came-from-everywhere.mp4 |
-| planned (NOT scheduled yet – needed from 2026-11-16) | next reels | – |
+| 2026-11-15 18:00 | REEL 4 They came from everywhere (Claude Code template horde_01, REC C; clean sound hra_boj + SFX + Kai voice; cover NO WAY OUT; auto-post) | v/2026-11-15_REEL04_they-came-from-everywhere.mp4 |
+| 2026-11-16 18:00 | REEL 5 Minute 1 vs Minute 20 (first reel built with stats/viral_playbook.md: contrast hook, ticking clock, hard cuts, loop; Kai voice; before/after cover) | v/2026-11-16_REEL05_minute-1-vs-20.mp4 |
+| planned (NOT scheduled yet – needed from 2026-11-17) | next reels | – |
+
+KAI VOICE (Daniel, 2026-11-15): every reel gets Kai's spoken lines – Kokoro TTS voice am_michael ("hlas 2"), speed 1.08, tools/reel/kai_voice.py + clean_audio.py "voice". Short lines (≤ ~7 words) matching what is on screen. Follow stats/viral_playbook.md for every new reel; every reel gets a custom cover (tools/reel/make_cover.py, videoThumbnailUrl).
 
 Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug.mp4` (e.g. `v/2026-11-15_REEL04_robot-invasion.mp4`), and add a row to v/README.md (date, title, file, links). Superseded versions are deleted (they stay in git history).
 

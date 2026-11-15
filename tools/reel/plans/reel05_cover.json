@@ -1,0 +1,29 @@
+{
+ "out": "v/2026-11-16_REEL05_minute-1-vs-20_cover.jpg",
+ "layout": "split",
+ "frames": [
+  {
+   "src": "rec/hra2.mp4",
+   "t": 88.0
+  },
+  {
+   "src": "rec/hra.mp4",
+   "t": 562.8
+  }
+ ],
+ "title": [
+  [
+   "MINUTE 1",
+   "#5ad8ff"
+  ],
+  [
+   "VS",
+   "#ffffff"
+  ],
+  [
+   "MINUTE 20",
+   "#ff3b4f"
+  ]
+ ],
+ "tag": "VOID SURVIVORS"
+}

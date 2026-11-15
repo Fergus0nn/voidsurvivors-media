@@ -84,6 +84,8 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 
 ## Already used
 - REC A: 0–140 (timelapse, reel 1 & reel 2), 86–113, 296–332 (cards), 361–363, 374–388, 393–398, 405–410, 428–440, 456–486, 518–557, 566–575 (reel 2)
+- REC A (reel 5 "MINUTE 1 VS MINUTE 20"): 339.0–340.3, 544.0–545.3, 559.0–563.6, cover still 562.8
+- REC B (reel 5): 86.5–88.3 (+ cover still 88.0), 643.4–644.7, 698.4–699.7, 974.0–975.3, 1111.0–1112.3
 - Engine: rb_gore 1–130 (EP5)
 - REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN."); 787–791, 794.5–801.5, 802.3–808.6, 864.3–871.3 (short horde_01 "THEY CAME FROM EVERYWHERE")
 

@@ -1,0 +1,91 @@
+{
+ "shots": [
+  {
+   "src": "rec/hra.mp4",
+   "ss": 562.0,
+   "dur": 1.6,
+   "clock": "19:49",
+   "label": "LAST MINUTE"
+  },
+  {
+   "src": "rec/hra2.mp4",
+   "ss": 86.5,
+   "dur": 1.8,
+   "clock": "00:05",
+   "label": "FIRST MINUTE"
+  },
+  {
+   "src": "rec/hra2.mp4",
+   "ss": 643.4,
+   "dur": 1.3,
+   "clock": "05:40"
+  },
+  {
+   "src": "rec/hra2.mp4",
+   "ss": 698.4,
+   "dur": 1.3,
+   "clock": "06:25"
+  },
+  {
+   "src": "rec/hra2.mp4",
+   "ss": 974.0,
+   "dur": 1.3,
+   "clock": "10:10"
+  },
+  {
+   "src": "rec/hra2.mp4",
+   "ss": 1111.0,
+   "dur": 1.3,
+   "clock": "12:12"
+  },
+  {
+   "src": "rec/hra.mp4",
+   "ss": 339.0,
+   "dur": 1.3,
+   "clock": "16:18"
+  },
+  {
+   "src": "rec/hra.mp4",
+   "ss": 544.0,
+   "dur": 1.3,
+   "clock": "19:31"
+  },
+  {
+   "src": "rec/hra.mp4",
+   "ss": 559.0,
+   "dur": 3.0,
+   "clock": "19:46"
+  }
+ ],
+ "end_text": [
+  [
+   "WHICH MINUTE",
+   "#ffffff"
+  ],
+  [
+   "ENDS YOU?",
+   "#ff3b4f"
+  ]
+ ],
+ "kai": [
+  {
+   "t0": 0.0,
+   "t1": 1.5,
+   "expr": "smirk",
+   "text": "This is the last minute."
+  },
+  {
+   "t0": 1.65,
+   "t1": 3.3,
+   "expr": "surprised",
+   "text": "And this is the first."
+  },
+  {
+   "t0": 11.3,
+   "t1": 14.0,
+   "expr": "smirk",
+   "text": "Which minute gets YOU?"
+  }
+ ],
+ "_note": "rec/hra.mp4 = REC A, rec/hra2.mp4 = REC B (see stats/footage_catalog.md). Render: python3 tools/reel/minutes_short.py <spec> <out_noaudio.mp4>"
+}

@@ -1,0 +1,84 @@
+{
+ "video": "tmp/reel05_noaudio.mp4",
+ "out": "v/2026-11-16_REEL05_minute-1-vs-20.mp4",
+ "work": "tmp_audio",
+ "sfx_dir": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "../VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/boss.ogg",
+ "music_start": 0.0,
+ "bed_lufs": -16,
+ "duck_db": 4,
+ "target": -14,
+ "fade_out": 1.2,
+ "accents": [
+  [
+   0.0,
+   "meteor_dopad",
+   -1,
+   1.0
+  ],
+  [
+   1.6,
+   "portal",
+   -3,
+   1.2
+  ],
+  [
+   3.4,
+   "srdce_kolosu",
+   -3,
+   0.8
+  ],
+  [
+   4.7,
+   "zasah_2",
+   0
+  ],
+  [
+   6.0,
+   "srdce_kolosu",
+   -2,
+   0.8
+  ],
+  [
+   7.3,
+   "krvavy_mesic",
+   -5,
+   1.2
+  ],
+  [
+   8.6,
+   "meteor_dopad",
+   -3,
+   1.0
+  ],
+  [
+   9.9,
+   "slunce_erupce",
+   -5,
+   1.2
+  ],
+  [
+   11.2,
+   "lod_prichod",
+   -3,
+   2.6
+  ]
+ ],
+ "action": [
+  [
+   0.0,
+   1.6
+  ],
+  [
+   3.4,
+   14.2
+  ]
+ ],
+ "action_db": -13,
+ "seed": 21,
+ "voice": "tmp_voice/reel05/voice.json",
+ "voice_lufs": -15,
+ "voice_duck_db": 8,
+ "voice_duck_sfx_db": 4,
+ "_note": "voice: python tools/reel/kai_voice.py tools/reel/plans/voice/reel05_lines.json tmp_voice/reel05"
+}
