@@ -37,6 +37,24 @@ Cíl: zjistit, co udělalo z podobných her hity, a co z toho použít pro VOID 
 8. **Po vydání**: pravidelné updaty (páteční Discord update už máme), záhadné teasery jako poncle, později bundly a kolaborace s jinými survivor-like hrami (Vampire Survivors sami nabízeli bundle Vital Shellu).
 9. **Placené TikTok reklamy zatím ne** – fungují pro mobilní free-to-play s velkým rozpočtem.
 
+## Oslovení streamerů a YouTuberů (plán Daniela: Wedry atd.)
+
+**Kdy:** nejlépe až bude veřejná Steam stránka – diváci pak mají kde dát wishlist; video bez stránky nadšení „vyplýtvá“. Před Next Festem posílat ~1 týden předem (Next Fest 22. 2. 2027 → rozeslat ~15. 2.).
+
+**Jak (podle GameDiscoverCo / presskit.gg):**
+- **E-mailem** (obchodní e-mail v sekci „Informace“ na kanálu), ne přes DM nebo jejich Discord.
+- Krátce: kdo jsem, háček hry, **rovnou odkaz na demo nebo klíč v e-mailu**, odkaz na video, Steam stránka, stav hry, kolik trvá run, že video smí zpeněžit.
+- Jedna osobní věta o jejich obsahu (že hrají podobné hry).
+- **Max. 1 připomenutí**, a jen když je novinka.
+- Nejvíc odpovídají **střední kanály (10–100 tis. odběratelů)**; velcí dostávají stovky nabídek. Udělat si seznam 50–200 tvůrců a zapisovat, kdo odpověděl a kdo hru hrál.
+- Po videu: poděkovat a sdílet ho (s uvedením autora) na našich sítích a Discordu.
+
+**Kandidáti CZ/SK (ověřit, jestli hráli Vampire Survivors / Brotato / Megabonk):** Wedry (~0,8 mil.), Jirka Král (~1,1 mil.), petangames (~0,7 mil.), FlyGunCZ (~0,6 mil.), GEJMR, Agraelus, Herdyn.
+**Zahraniční žánroví:** SplatterCatGaming (hraje indie dema), Retromation, Wanderbot, Northernlion, Olexa; němečtí streameři survivor-like (HandOfBlood).
+**Weby:** Rogueliker.com (píše o survivor-like hrách, psal o Disfigure).
+
+Návrhy e-mailů (CZ s demem, CZ se Steamem, EN pro zahraniční) jsou v konverzaci z 15. 11.; vždy doplnit odkaz na demo/klíč. Nikdy nepsat, že je hra zdarma; nezmiňovat AI.
+
 ## Zdroje
 - How To Market A Game – 2026 State of Bullet Heavens: How Vital Shell succeeded: https://howtomarketagame.com/2026/05/19/2026-state-of-bullet-heavens-how-vital-shell-succeeded/
 - VICE – How Vampire Survivors went from obscurity to 27,000 people playing at once: https://www.vice.com/en/article/how-vampire-survivors-went-from-obscurity-to-27000-people-playing-at-once
@@ -52,3 +70,6 @@ Cíl: zjistit, co udělalo z podobných her hity, a co z toho použít pro VOID 
 - Axios – Survivor.io a TikTok reklamy: https://www.axios.com/2022/08/26/survivorio-habby-tiktok-ios-android
 - Game Developer – From 400 to 20,000 wishlists with 1 TikTok video: https://www.gamedeveloper.com/game-platforms/from-400-to-20-000-wishlists-with-1-video-how-tiktok-can-make-your-game-go-viral
 - Steamworks – Steam Next Fest February 2027: https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/feb_2027
+- GameDiscoverCo – How devs should reach out to top YouTubers: https://newsletter.gamediscover.co/p/summer-special-how-devs-should-reach
+- presskit.gg – Next Fest content creator outreach: https://presskit.gg/field-guides/next-fest-content-creator-outreach
+- Yoloco – Top gaming YouTubers Czechia: https://yoloco.io/top-youtubers-gaming-czechia
