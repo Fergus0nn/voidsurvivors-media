@@ -8,7 +8,7 @@ Pravidla:
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
-Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC), kromě sekce Gameplay a posledních tří bodů ve Visuals (trhlina místo brány, rudé nápisy, let na tryskách) – ty jsou zatím jen ve zdrojové hře a budou až v demu v1.5.3. Pozor: bod „Spiders skitter… Laser Wardens stomp“ platí jen pro v1.5.2; ve v1.5.3 pavouci a strážci létají na tryskách – před zveřejněním nechat jen jednu verzi.
+Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC), kromě sekce Gameplay a posledních tří bodů ve Visuals (trhlina místo brány, rudé nápisy, let na tryskách) – ty jsou zatím jen ve zdrojové hře a budou až v demu v1.5.3. Ostatní body platí pro obě verze (zmínky o chůzi pavouků a strážců jsou vyškrtnuté).
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -20,10 +20,10 @@ Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS
 
 ### 🎨 Visuals
 - Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot.
-- New robot shapes: the Drone is a bladed fighter with scythe wings, pincer jaws and a red triangular eye; the Spider stalks on eight high hooked legs, with fangs, a spiked glowing spine and a cluster of eyes; the Laser Warden is a horned sniper walker with claws, spikes and a long bayonet rifle.
+- New robot shapes: the Drone is a bladed fighter with scythe wings, pincer jaws and a red triangular eye; the Spider has eight high hooked legs, fangs, a spiked glowing spine and a cluster of eyes; the Laser Warden is a horned sniper with claws, spikes and a long bayonet rifle.
 - The Laser Warden now keeps its rifle aimed at you – its visor and muzzle light up right before it fires.
 - The Mothership is now a long angular cruiser with jaw-like prongs on its bow, spines along the hull and red rings that stare up at you like slit-pupil eyes. It flies nose-first as it circles you.
-- Robots now move like real machines: Spiders skitter on their whole legs and rear up when they get close, Drones bank into turns, and Laser Wardens stomp and kick back after every shot.
+- Robots now move like real machines: Spiders rear up when they get close, Drones bank into turns, and Laser Wardens kick back after every shot.
 - Laser Wardens paint a red targeting beam on you while they charge – you can see exactly who is about to fire.
 - Robots show their damage: armour plates fall off and short-circuits flash across the hull. Destroyed robots keel over, glow red-hot and break apart.
 - Sharper robot armour: bevelled plates, rivets, scratches, scorch marks and blood-red war paint – every robot is worn differently.
