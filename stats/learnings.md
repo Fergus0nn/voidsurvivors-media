@@ -34,7 +34,14 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 
 NEVER END WITH "How long would you survive?" (Daniel, 2026-11-15) – not in the end card, not in Kai's last line, not in the caption. Vary the ending every time (follow CTA, a question about this video's content, cliffhanger).
 
-KAI VOICE (Daniel, 2026-11-15): every reel gets Kai's spoken lines – Kokoro TTS voice am_michael ("hlas 2"), speed 1.08, tools/reel/kai_voice.py + clean_audio.py "voice". Short lines (≤ ~7 words) matching what is on screen. Follow stats/viral_playbook.md for every new reel; every reel gets a custom cover (tools/reel/make_cover.py, videoThumbnailUrl).
+KAI VOICE (Daniel, 2026-11-15): every reel gets Kai's spoken lines – Kokoro TTS voice am_michael ("hlas 2"), speed 1.08, tools/reel/kai_voice.py + clean_audio.py "voice". Short lines (≤ ~7 words) matching what is on screen. Follow stats/viral_playbook.md for every new reel; every reel gets a custom cover (tools/reel/make_cover.py, videoThumbnailUrl) – see COVERS PER NETWORK.
+
+COVERS PER NETWORK (checked 2026-11-15 on published REEL 4) – every reel = 3 SEPARATE Metricool posts at the same time:
+- Instagram: own post with the custom cover image (videoThumbnailUrl) – works.
+- TikTok: own post with videoCoverMilliseconds on a frame that shows the big title text (no videoThumbnailUrl). A personal TikTok account IGNORES image covers (REEL 4 showed its "INCOMING SIGNALS" frame instead of the NO WAY OUT image); frame offsets work (REEL 2 at 400 ms, REEL 3 at 1100 ms). Pick the frame with `ffmpeg -ss` checks before scheduling.
+- YouTube: own post WITHOUT videoThumbnailUrl. With it, YouTube publishes the video but Metricool marks the post ERROR "Could not upload video thumbnail" – the channel most likely needs phone verification (YouTube Studio → Nastavení → Kanál → Způsobilost funkcí). Daniel does that himself; until he confirms it, never send a thumbnail to YouTube.
+- When editing scheduled posts (updateScheduledPost), always keep videoThumbnailUrl / videoCoverMilliseconds exactly as they are.
+- Nov 16–18 now: TikTok 429092071 / 429092087 / 429092107 (1200 / 1300 / 1200 ms), Instagram 429092450 / 429092462 / 429092479, YouTube 429092492 / 429092513 / 429092532.
 
 Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug.mp4` (e.g. `v/2026-11-15_REEL04_robot-invasion.mp4`), and add a row to v/README.md (date, title, file, links). Superseded versions are deleted (they stay in git history).
 

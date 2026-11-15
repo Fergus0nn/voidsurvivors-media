@@ -44,7 +44,10 @@ Platí pro TikTok, Instagram Reels i YouTube Shorts. Každé nové video projde 
 ## 7. Náhledovka (cover)
 - Na TikToku v hlavním feedu skoro nerozhoduje, ale po hitu si lidi prohlíží profil – mřížka musí vypadat dobře. Na Instagramu (mřížka) a YouTube (police Shorts) rozhoduje víc.
 - Nejsilnější záběr + **2–3 slova velkým písmem uprostřed** (přežijí ořez 1:1 / 4:5) + štítek VOID SURVIVORS. Formát before/after funguje i jako náhledovka.
-- `tools/reel/make_cover.py`; v Metricoolu `videoThumbnailUrl` (Instagram ano; TikTok jen u firemního účtu; YouTube jen u ověřeného kanálu).
+- `tools/reel/make_cover.py`; v Metricoolu je každý reel **3 samostatné příspěvky** (ověřeno 15. 11. na REEL 4):
+  - **Instagram**: vlastní obrázek (`videoThumbnailUrl`) – funguje.
+  - **TikTok**: osobní účet obrázek ignoruje → `videoCoverMilliseconds` na snímek s velkým nadpisem (REEL 2: 400 ms, REEL 3: 1100 ms fungovalo).
+  - **YouTube**: bez `videoThumbnailUrl`, dokud Daniel neověří kanál telefonem (jinak Metricool hlásí „Could not upload video thumbnail“; video ale vyjde).
 
 ## 8. Po hitu
 - Když video udělá aspoň 3× průměr, další týden udělej 2–3 videa ve stejném stylu; formáty, které nefungují, rychle opusť.
