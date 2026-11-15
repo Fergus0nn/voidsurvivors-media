@@ -59,15 +59,15 @@
    2.0
   ],
   [
-   20.8,
-   "udalost_konec",
-   -4,
-   2.5
-  ],
-  [
    21.9,
    "zasah_2",
    -1
+  ],
+  [
+   21.1,
+   "udalost_konec",
+   -5,
+   2.4
   ]
  ],
  "action": [
@@ -86,7 +86,7 @@
  ],
  "action_db": -13,
  "seed": 15,
- "_note": "horde_01 – accent times = its events. Voice: python tools/reel/kai_voice.py tools/reel/plans/voice/reel04_lines.json tmp_voice/reel04 then python tools/reel/clean_audio.py tools/reel/plans/reel04_horde_01.json (run from the voidsurvivors-media folder).",
+ "_note": "horde_01 – accent times = its events. End card text 'HOW LONG WOULD YOU SURVIVE?' replaced by 'FOLLOW FOR / MORE CHAOS' (dark patch y 1216–1478 from 21.05 s, Archivo Narrow Bold 92 px) – Daniel 15. 11.: never end with 'how long would you survive'. Voice: python tools/reel/kai_voice.py tools/reel/plans/voice/reel04_lines.json tmp_voice/reel04, then clean_audio.py with this plan.",
  "voice": "tmp_voice/reel04/voice.json",
  "voice_lufs": -15,
  "voice_duck_db": 8,

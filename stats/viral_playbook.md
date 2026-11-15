@@ -37,6 +37,7 @@ Platí pro TikTok, Instagram Reels i YouTube Shorts. Každé nové video projde 
 
 ## 6. Konec a výzva
 - Velká jasná výzva ~3 s. Steam stránka zatím není → „FOLLOW FOR MORE“ nebo otázka do komentářů („WHICH MINUTE ENDS YOU?“).
+- **Nikdy nekončit „How long would you survive?“** (Daniel 15. 11. – už bylo moc často). Konec pokaždé jiný: „FOLLOW FOR MORE CHAOS“, otázka k obsahu videa („Run or fight?“, „Which minute ends you?“), cliffhanger.
 - Nikdy „play / download / demo / free“.
 - Na komentáře odpovídat během první hodiny po zveřejnění.
 
