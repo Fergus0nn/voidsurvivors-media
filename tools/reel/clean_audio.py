@@ -10,7 +10,8 @@ plan.json:
   "sfx_dir": "assets/audio/sfx", "music": "assets/audio/music/boss.ogg", "music_start": 0.0,
   "bed_lufs": -16, "duck_db": 4, "target": -14,
   "accents": [[t, "boss_prichod", gain_db, max_len_s], ...],
-  "action": [[t0, t1], ...], "action_db": -13, "seed": 7
+  "action": [[t0, t1], ...], "action_db": -13, "seed": 7,
+  "voice": "voice.json from kai_voice.py (optional)", "voice_lufs": -15, "voice_duck_db": 8
 }
 """
 import json, os, random, re, subprocess, sys
@@ -120,7 +121,30 @@ def main():
         s[i] = p
     bed *= db(-plan.get("duck_db", 4) * s)[:, None]
 
-    mix = bed + acc + act
+    # 5) optional voiceover (Kai): "voice": [[t, wav_path], ...] or a voice.json from kai_voice.py.
+    #    Voice is loudness-matched to "voice_lufs"; bed, accents and the action layer duck under it.
+    vo = np.zeros((n, 2))
+    vspec = plan.get("voice")
+    if isinstance(vspec, str):
+        vspec = json.load(open(vspec, encoding="utf-8"))
+    if vspec:
+        for vt, vpath in vspec:
+            place(vo, dec(vpath), vt, 1.0, 0.0, None)
+        write_wav(f"{work}/vo.wav", vo)
+        vo *= db(plan.get("voice_lufs", -15) - lufs(f"{work}/vo.wav"))
+        venv = np.sqrt(np.convolve((vo ** 2).mean(1), np.ones(int(0.05 * SR)) / int(0.05 * SR), mode="same"))
+        vk = np.clip((20 * np.log10(venv + 1e-9) + 45) / 10, 0, 1)
+        a_v, r_v = np.exp(-1 / (0.03 * SR)), np.exp(-1 / (0.35 * SR))
+        vs = np.empty_like(vk)
+        p = 0.0
+        for i, v in enumerate(vk):
+            p = a_v * p + (1 - a_v) * v if v > p else r_v * p + (1 - r_v) * v
+            vs[i] = p
+        bed *= db(-plan.get("voice_duck_db", 8) * vs)[:, None]
+        acc *= db(-plan.get("voice_duck_sfx_db", 4) * vs)[:, None]
+        act *= db(-plan.get("voice_duck_sfx_db", 4) * vs)[:, None]
+
+    mix = bed + acc + act + vo
     write_wav(f"{work}/mix.wav", mix)
     gain = plan.get("target", -14.0) - lufs(f"{work}/mix.wav")
     subprocess.run([FF, "-v", "error", "-y", "-i", f"{work}/mix.wav", "-af",

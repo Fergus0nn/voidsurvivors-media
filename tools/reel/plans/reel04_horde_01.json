@@ -86,5 +86,9 @@
  ],
  "action_db": -13,
  "seed": 15,
- "_note": "horde_01 (shorts/episodes/horde_01.json) – accent times = its events. Run from the voidsurvivors-media folder."
+ "_note": "horde_01 – accent times = its events. Voice: python tools/reel/kai_voice.py tools/reel/plans/voice/reel04_lines.json tmp_voice/reel04 then python tools/reel/clean_audio.py tools/reel/plans/reel04_horde_01.json (run from the voidsurvivors-media folder).",
+ "voice": "tmp_voice/reel04/voice.json",
+ "voice_lufs": -15,
+ "voice_duck_db": 8,
+ "voice_duck_sfx_db": 4
 }
