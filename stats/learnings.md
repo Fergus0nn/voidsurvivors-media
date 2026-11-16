@@ -41,6 +41,7 @@ COVERS PER NETWORK (checked 2026-11-15 on published REEL 4) – every reel = 3 S
 - TikTok: own post with videoCoverMilliseconds on a frame that shows the big title text (no videoThumbnailUrl). A personal TikTok account IGNORES image covers (REEL 4 showed its "INCOMING SIGNALS" frame instead of the NO WAY OUT image); frame offsets work (REEL 2 at 400 ms, REEL 3 at 1100 ms). Pick the frame with `ffmpeg -ss` checks before scheduling.
 - YouTube: own post WITHOUT videoThumbnailUrl. With it, YouTube publishes the video but Metricool marks the post ERROR "Could not upload video thumbnail" – the channel most likely needs phone verification (YouTube Studio → Nastavení → Kanál → Způsobilost funkcí). Daniel does that himself; until he confirms it, never send a thumbnail to YouTube.
 - When editing scheduled posts (updateScheduledPost), always keep videoThumbnailUrl / videoCoverMilliseconds exactly as they are.
+- METRICOOL LIMIT (2026-11-16): TikTok REEL 5 failed with "You have reached your Metricool account limit" (not published). Check the plan's post limit before scheduling the next batch – 3 posts per reel use it up 3× faster.
 - Nov 16–18 now: TikTok 429092071 / 429092087 / 429092107 (1200 / 1300 / 1200 ms), Instagram 429092450 / 429092462 / 429092479, YouTube 429092492 / 429092513 / 429092532.
 
 Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug.mp4` (e.g. `v/2026-11-15_REEL04_robot-invasion.mp4`), and add a row to v/README.md (date, title, file, links). Superseded versions are deleted (they stay in git history).
@@ -131,6 +132,16 @@ Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug
 - Best-time (Sun 15 – Tue 17): TikTok Sun 10:00 816 vs 18:00 677 (+21 %), Mon 1089 vs 1096, Tue 1136 vs 1119 (equal); IG 10:00 ahead (Sun +15 %, Mon +31 %, Tue +3 %); YT peak 16:00 (18:00 = 76–92 %). Same as all week; real TT data (the only 10:00 post was the weakest) still favour **18:00** as the default for the next batch. Suggested optional test once there are 2 reels per day available: one at 10:00/12:00 on IG.
 - Followers: no change (TT 205, IG 1, YT 3; +3 total since 11-06).
 - No scheduled posts to edit → no changes made.
+
+### 2026-11-16
+- **Operational problem first:** the TikTok post of REEL 5 (11-16 18:00) failed with "You have reached your Metricool account limit." – the video did not go out on TikTok (IG + YT published fine). Since 11-15 every reel = 3 Metricool posts, so the split triples post usage; the Metricool plan limit is now the main risk for auto-posting (TT 11-17 / 11-18 may fail the same way). TikTok is the network with ~6× IG views, so a missed TT post costs the most.
+- REEL 4 YouTube "ERROR" = only the thumbnail warning; the Short is live (pRj_ZIPF-rw). Confirms the COVERS PER NETWORK rule (no thumbnail on YT).
+- Sample size: TikTok 12 posts with data (3 stickman, 6 Kai manual + trending sound, 2 Kai auto + game audio; REEL 4 not synced); IG 13; YouTube per-video still null (~244 h) → no YT conclusions.
+- **TikTok ceiling holds for auto/game-audio posts too:** "3 Bosses" ended day 2 at 748, "Survive 20 min" at 743 → 11 of 12 TT posts at 715–815. Avg watch 2.2 s (lowest so far, Kai range now 2.2–3.1 s). Neither the boss-music soundtrack nor the bold-number hook ("3 Bosses. 1 Run.") broke it (n = 2 auto).
+- **Instagram: auto/game-audio is NOT weaker after all.** "3 Bosses" reached 113 people (Kai manual range 75–117) and got the first save of an auto reel; the 11-14 "weaker start" signal does not repeat (n = 2). But "3 Bosses" has the 2nd-worst skip rate (84.8 %) → reach does not depend on hold on IG at this size.
+- REEL 4 (first with Kai voice + custom IG cover): IG 72 views / 67 reach at ~27.7 h – below the usual day-1 range (~78–113); skip rate 75.4 % (normal Kai range). n = 1, Sunday post → no conclusion on voice/cover yet; TikTok numbers needed.
+- **Instagram followers 1 → 5 (+4)** – the first real follower jump; at the same time likes rose by +1–4 on all older Kai reels (back-catalogue browsing). Timing points to the 11-14/15 reels (3 Bosses / REEL 4) but Metricool can't attribute it → watch whether it continues.
+- Best-time (Tue 17 + Wed 18): TikTok 10:00 1136 / 1432 vs 18:00 1119 / 1386 (equal), IG 10:00 4942 / 6506 vs 18:00 4788 / 4869 (Tue equal, Wed +34 %). Real TT data still favour 18:00 → **kept REEL 6 and REEL 7 at 18:00, no caption/title changes** (captions already follow the 11-13 rule).
 
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.

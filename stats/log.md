@@ -206,3 +206,32 @@ Numbers are lifetime totals at run time. TikTok avg watch = total time watched /
 Followers: TikTok 205 (Δ 0 on 11-13), Instagram 1 (gained 0 / lost 0 on 11-14), YouTube 3 (gained 0 / lost 0 on 11-14). **Total follower change since start: +3** (today: 0).
 
 Scheduled ahead: **nothing** – getScheduledPosts for 11-14 … 11-28 returns only today's (already published) "3 Bosses" posts. No changes made today. **0 future days left → new episodes/reels needed from Sun 11-15.**
+
+## 2026-11-16 (run 21:43 CET)
+No run was logged on 11-15. Metricool timestamps are UTC → converted to CET. Since 11-15 every reel = 3 separate posts (IG custom cover, TT frame cover, YT no thumbnail).
+- REEL 3 "3 Bosses. 1 Run." live TT 11-14 18:06 / IG 18:10 (~51.6 h).
+- REEL 4 "They came from everywhere" live 11-15 18:00 on IG ([link](https://www.instagram.com/reel/DfxRdjpkklR/)), TT ([link](https://www.tiktok.com/@void.survivors/video/7708445112715496736)) and YT ([Short](https://www.youtube.com/shorts/pRj_ZIPF-rw)). YT status **ERROR = "published with warnings: Could not upload video thumbnail"** → the video IS on YouTube (that post still had videoThumbnailUrl; the 11-16+ YT posts have none). TT REEL 4 not in analytics yet (~27.7 h, sync lag).
+- REEL 5 "Minute 1 vs Minute 20" (11-16 18:00): **IG PUBLISHED** ([link](https://www.instagram.com/reel/Dfz2ipLiaS4/)), **YT PUBLISHED** ([Short](https://www.youtube.com/shorts/UQbBkuo27qA)), **TikTok ERROR "You have reached your Metricool account limit." – the TikTok video did NOT go out** (no TikTok id/URL). Daniel notified to post it by hand and check the Metricool plan limit.
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views.
+
+| Network | Post | Style | Age | Views | Δ vs 11-14 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | EP 1 / EP 2 / EP 3 | stickman | – | 815 / 459 / 807 | 0 | 10 / 7 / 13 | 1 / 0 / 0 | 0 | – | – | – | – | stalled |
+| TikTok | REEL Combo / EP 4 / EP 5 / EP 6 / EP 7 | Kai | – | 715 / 750 / 781 / 745 / 735 | 0 / +1 / +1 / +1 / +1 | 3 / 1 / 2 / 2 / 1 | 0 | 0 | – | – | – | – | stalled |
+| TikTok | REEL Survive 20 min | Kai, auto, game audio | ~74.6 h | 743 | +6 | 4 | 0 | 0 | – | 443 | 2.4 s (1763 s) | – | stalled |
+| TikTok | REEL 3 Bosses ([link](https://www.tiktok.com/@void.survivors/video/7708074829550767392)) | Kai, auto, boss music | ~51.6 h | **748** | new | 3 | 0 | 0 | – | n/a | 2.2 s (1653 s) | – | 99.1 % For You |
+| TikTok | REEL 4 They came from everywhere | Kai voice, auto | ~27.7 h | n/a | – | – | – | – | – | – | – | – | published, not synced |
+| TikTok | REEL 5 Minute 1 vs 20 | Kai voice, auto | – | – | – | – | – | – | – | – | – | – | **NOT PUBLISHED (Metricool account limit)** |
+| Instagram | EP 1 / EP 2 / EP 3 | stickman | – | 137 / 144 / 195 | 0 / 0 / +3 | 2 / 1 / 3 | 0 | – | – | 114 / 132 / 176 | – | – | |
+| Instagram | REEL Combo / EP 4 / EP 5 / EP 6 / EP 7 | Kai | – | 124 / 113 / 115 / 85 / 118 | +2 / +4 / +4 / +4 / +4 | 2 / 4 / 5 / 5 / 5 | 0 | – | – | 117 / 105 / 110 / 75 / 113 | – | – | likes up on all Kai reels (new followers liking back-catalogue) |
+| Instagram | REEL Survive 20 min | Kai, auto | ~74.6 h | 98 | +8 | 5 | 0 | 0 | 0 | 86 | 3.3 s | 21.8 % / 78.2 % | |
+| Instagram | REEL 3 Bosses ([link](https://www.instagram.com/reel/DfutKpQk_h0/)) | Kai, auto | ~51.5 h | **126** | new | 5 | 0 | 0 | **1** | 113 | 2.9 s | 15.2 % / **84.8 %** | best auto-post IG reach |
+| Instagram | REEL 4 They came from everywhere | Kai voice, auto, custom cover | ~27.7 h | 72 | new | 5 | 0 | 0 | 0 | 67 | 2.6 s | 24.6 % / 75.4 % | |
+| Instagram | REEL 5 Minute 1 vs 20 | Kai voice, auto | ~3.7 h | n/a | – | – | – | – | – | – | – | – | not synced |
+| YouTube | EP 1–3 | stickman | – | n/a | – | – | – | – | – | – | – | – | listed, per-video stats still null (~244 h) |
+| YouTube | all Kai Shorts incl. REEL 4/5 | Kai | – | n/a | – | – | – | – | – | – | – | – | not listed in analytics |
+
+Followers: TikTok 205 (last row 11-14; 11-15/16 no value), **Instagram 1 → 5 (+4, row dated 11-14, synced late)**, YouTube 3 (gained 0 / lost 0 on 11-16). **Total follower change since start: +7** (since last log: +4, all Instagram).
+
+Scheduled ahead (all 18:00, autoPublish=true, 3 separate posts each): REEL 6 "7 Disasters. 1 Run." (Tue 11-17: TT 429092087, IG 429092462, YT 429092513), REEL 7 "Combo 0 → 32,000" (Wed 11-18: TT 429092107, IG 429092479, YT 429092532). **TikTok posts are at risk of the same "account limit" error.** No changes made today. **Only 2 future days left → new reels needed from Thu 11-19.**
