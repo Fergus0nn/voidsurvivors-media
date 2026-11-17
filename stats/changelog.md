@@ -17,6 +17,8 @@ Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS
 ### 🌑 Gameplay
 - The Mothership now bursts out of a huge slanted rift, climbs high and crashes down on you – get out of the red circle.
 - New Mothership attacks: a ramming charge down a red lane, a carpet-bombing run, and a rift jump that ends in another crash landing.
+- Enemies hit harder and take more punishment: +50% health (and it grows faster as the run goes on), +30% damage from touch and projectiles. Bosses have +25% health.
+- Health, healing and lifesteal cards now show up about three times less often – survival has to be earned.
 - The Dying Star now lives its whole life, over and over: a healing protostar, a blue supergiant that burns enemies, a swelling red supergiant that burns you too, an unstable star hurling flares into red circles – then the 9-second countdown, the supernova, and a glowing remnant full of crystals from which the next star is born. The edge-of-screen marker tells you which phase it is in.
 
 ### 🎨 Visuals
