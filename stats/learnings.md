@@ -28,7 +28,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-14 18:00 | REEL 3 Bosses. 1 Run. (Kai, hook = bold number claim, CTA = comment; clean sound: boss + game SFX, auto-post) | v/2026-11-14_REEL03_three-bosses.mp4 |
 | 2026-11-15 18:00 | REEL 4 They came from everywhere (Claude Code template horde_01, REC C; clean sound hra_boj + SFX + Kai voice; cover NO WAY OUT; auto-post) | v/2026-11-15_REEL04_they-came-from-everywhere.mp4 |
 | 2026-11-16 18:00 | REEL 5 Minute 1 vs Minute 20 (first reel built with stats/viral_playbook.md: contrast hook, ticking clock, hard cuts, loop; Kai voice; before/after cover) | v/2026-11-16_REEL05_minute-1-vs-20.mp4 |
-| 2026-11-17 18:00 | REEL 6 7 Disasters. 1 Run. (REC C, number hook + 1/7…7/7 titles, Kai voice, ends 'Which one is the worst?') | v/2026-11-17_REEL06_7-disasters.mp4 |
+| 2026-11-17 18:00 | REEL 6 7 Disasters. 1 Run. (REC C, number hook + 1/7…7/7 titles, Kai voice, ends 'Which one is the worst?') – **FAILED on TT/IG/YT (Metricool account limit), not published** | v/2026-11-17_REEL06_7-disasters.mp4 |
 | 2026-11-18 18:00 | REEL 7 Combo 0 → 32,000 (REC C, ticking combo counter, Kai voice, ends 'Next run: 50,000?') | v/2026-11-18_REEL07_combo-0-to-32000.mp4 |
 | planned (NOT scheduled yet – needed from 2026-11-19) | next reels | – |
 
@@ -142,6 +142,15 @@ Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug
 - REEL 4 (first with Kai voice + custom IG cover): IG 72 views / 67 reach at ~27.7 h – below the usual day-1 range (~78–113); skip rate 75.4 % (normal Kai range). n = 1, Sunday post → no conclusion on voice/cover yet; TikTok numbers needed.
 - **Instagram followers 1 → 5 (+4)** – the first real follower jump; at the same time likes rose by +1–4 on all older Kai reels (back-catalogue browsing). Timing points to the 11-14/15 reels (3 Bosses / REEL 4) but Metricool can't attribute it → watch whether it continues.
 - Best-time (Tue 17 + Wed 18): TikTok 10:00 1136 / 1432 vs 18:00 1119 / 1386 (equal), IG 10:00 4942 / 6506 vs 18:00 4788 / 4869 (Tue equal, Wed +34 %). Real TT data still favour 18:00 → **kept REEL 6 and REEL 7 at 18:00, no caption/title changes** (captions already follow the 11-13 rule).
+
+### 2026-11-17
+- **Operational problem first (worse than 11-16):** REEL 6 "7 Disasters" failed on **all 3 networks** with "You have reached your Metricool account limit." – nothing went out today. REEL 5 is still missing on TikTok. The Metricool plan limit now blocks auto-posting completely; REEL 7 (11-18) will most likely fail too unless Daniel raises/clears the limit or posts by hand. The 3-posts-per-reel split (11-15) is what burns the quota 3× faster.
+- Sample size: TikTok 12 posts with data + REEL 4 (first Kai-voice reel on TT); IG 14 (REEL 4 and REEL 5 new); YouTube per-video still null (~267 h) → no YT conclusions.
+- **TikTok REEL 4 broke the floor downwards: 247 views at ~52.7 h** (all 12 earlier TT posts 451–815, 11 of them 715–815). Avg watch 2.3 s (normal Kai range), 97.6 % For You. Possible causes (cannot separate with n = 1): weaker first frame on TikTok (the personal account showed the "INCOMING SIGNALS" frame instead of the cover), Sunday post, or a partial Metricool sync. Not a verdict on Kai's voice – but it means the ~740 "ceiling" is not guaranteed either. Re-check 11-18.
+- **Instagram: REEL 5 (first reel built with the viral playbook – contrast hook "Minute 1 vs Minute 20") has the best Kai-style hold:** avg watch 3.7 s (Kai range 2.4–3.5 s), skip rate 65.7 % (only EP 5 lower at 62.2 %; Kai range 62–87 %), view rate 34.3 %, reach 105 in ~27.6 h (normal). n = 1, but together with EP 5 the two best-holding Kai reels both open on one concrete contrast/number claim → keep that hook type for new reels.
+- REEL 4 on IG caught up on day 2 (72 → 113 views, reach 105) → its weak day 1 on 11-16 was timing, not the voice/cover. IG day-2 growth again confirms "judge after 48 h".
+- Followers: no change (TT 205, IG 5, YT 3; +7 total since 11-06). The 11-14/15 IG jump (+4) did not continue.
+- Best-time (Wed 18): TikTok 10:00 1432 vs 18:00 1386 (+3 %, equal), IG 10:00 6506 vs 18:00 4869 (+34 %). Same pattern as all week; real TT data favour 18:00 → **REEL 7 kept at 18:00, no caption/title changes** (captions already follow the 11-13 rule; editing a post may also count against the exhausted quota).
 
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
