@@ -14,7 +14,7 @@ Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already i
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
-Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky; Visuals: úplně nová loď – černá manta s fialovými žilami, dozvuky). V demu v1.5.3 je loď ještě bílý hranatý křižník a krouží přídí napřed.
+Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky, nový útok Neviditelnost; Visuals: úplně nová loď – černá manta s fialovými žilami, dozvuky). V demu v1.5.3 je loď ještě bílý hranatý křižník a krouží přídí napřed.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -31,6 +31,7 @@ Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba b
 - The Dying Star now lives its whole life, over and over: a healing protostar, a blue supergiant that burns enemies, a swelling red supergiant that burns you too, an unstable star hurling flares into red circles – then the 9-second countdown, the supernova, and a glowing remnant full of crystals from which the next star is born. The edge-of-screen marker tells you which phase it is in.
 - The Observer has three new special attacks, each marked on the ground first: Tentacles from the Deep (rows of red circles race toward you and a tentacle bursts out of each one), Lash (it rears back one of its own tentacles and slams it down a red strip) and Gaze of the Void (the eye shuts, then a red wave rolls out from it – only the bright gaps are safe). It never uses the same special twice in a row.
 - The Mothership now moves like a real UFO: it hangs in place, then darts to a new spot with no inertia and stops dead, its hull rocking from the sudden halt. Sometimes it phases out in glitching slices and reappears somewhere else around you. It fires its laser salvos and launches swarms only once it has stopped, and it can't hurt you by touch mid-dart. In its last stand it calms down and drags you in with its beam.
+- New Mothership attack – Cloak: the ship fades out until only a faint ripple in the air betrays it, stalks around you unseen, then a red circle marks the ground under you and it decloaks right above you and strikes. Leave the circle!
 
 ### 🎨 Visuals
 - Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot.
