@@ -8,7 +8,7 @@ Pravidla:
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
-Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.2.zip` na Danielově PC), kromě sekce Gameplay a posledních tří bodů ve Visuals (trhlina místo brány, rudé nápisy, let na tryskách) – ty jsou zatím jen ve zdrojové hře a budou až v demu v1.5.3. Ostatní body platí pro obě verze (zmínky o chůzi pavouků a strážců jsou vyškrtnuté).
+Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -37,7 +37,7 @@ Pozn.: všechno níže je v demu v1.5.2 (14. 11. 2026, `Downloads\VOID_SURVIVORS
 - The invasion gate is no longer a green hexagon. Space now cracks and tears open into a burning red rift – and the robots fly out of it instead of just appearing.
 - The Robot Invasion and Mothership warnings now glow red to match the robots.
 - Spiders and Laser Wardens no longer run across empty space – they fly on thrusters, legs trailing behind them.
-- Enemies dragged into the Black Hole are now spaghettified – they stretch into glowing threads as they fall in. Shadows near the hole no longer vanish in the glare of its disc. (Source only – coming in v1.5.3.)
+- Enemies dragged into the Black Hole are now spaghettified – they stretch into glowing threads as they fall in. Shadows near the hole no longer vanish in the glare of its disc.
 
 ## Update #1 – 14. 11. 2026 (v1.5.0) ✅ posted (pozdě: páteční automatický běh selhal na vyčerpaném limitu, posláno ručně v sobotu 01:19)
 
