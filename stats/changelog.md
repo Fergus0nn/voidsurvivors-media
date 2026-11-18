@@ -9,7 +9,7 @@ Pravidla:
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
-Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura).
+Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky; Visuals: obíhající světla, duhový kov, dozvuky). V demu v1.5.3 loď ještě krouží přídí napřed.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -25,12 +25,13 @@ Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba b
 - Health, healing and lifesteal cards now show up about three times less often – survival has to be earned.
 - The Dying Star now lives its whole life, over and over: a healing protostar, a blue supergiant that burns enemies, a swelling red supergiant that burns you too, an unstable star hurling flares into red circles – then the 9-second countdown, the supernova, and a glowing remnant full of crystals from which the next star is born. The edge-of-screen marker tells you which phase it is in.
 - The Observer has three new special attacks, each marked on the ground first: Tentacles from the Deep (rows of red circles race toward you and a tentacle bursts out of each one), Lash (it rears back one of its own tentacles and slams it down a red strip) and Gaze of the Void (the eye shuts, then a red wave rolls out from it – only the bright gaps are safe). It never uses the same special twice in a row.
+- The Mothership now moves like a real UFO: it hangs in place, then darts to a new spot with no inertia and stops dead, its hull rocking from the sudden halt. Sometimes it phases out in glitching slices and reappears somewhere else around you. It fires its laser salvos and launches swarms only once it has stopped, and it can't hurt you by touch mid-dart. In its last stand it calms down and drags you in with its beam.
 
 ### 🎨 Visuals
 - Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot.
 - New robot shapes: the Drone is a bladed fighter with scythe wings, pincer jaws and a red triangular eye; the Spider has eight high hooked legs, fangs, a spiked glowing spine and a cluster of eyes; the Laser Warden is a horned sniper with claws, spikes and a long bayonet rifle.
 - The Laser Warden now keeps its rifle aimed at you – its visor and muzzle light up right before it fires.
-- The Mothership is now a long angular cruiser with jaw-like prongs on its bow, spines along the hull and red rings that stare up at you like slit-pupil eyes. It flies nose-first as it circles you.
+- The Mothership is now a long angular cruiser with jaw-like prongs on its bow, spines along the hull and red rings that stare up at you like slit-pupil eyes.
 - Robots now move like real machines: Spiders rear up when they get close, Drones bank into turns, and Laser Wardens kick back after every shot.
 - Laser Wardens paint a red targeting beam on you while they charge – you can see exactly who is about to fire.
 - Robots show their damage: armour plates fall off and short-circuits flash across the hull. Destroyed robots keel over, glow red-hot and break apart.
@@ -38,6 +39,7 @@ Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba b
 - The Mothership got engine flames and jaws that open when it releases a swarm, and it visibly falls apart as you tear it down. Robot explosions are now red instead of green.
 - The invasion gate is no longer a green hexagon. Space now cracks and tears open into a burning red rift – and the robots fly out of it instead of just appearing.
 - The Robot Invasion and Mothership warnings now glow red to match the robots.
+- Mothership glow-up: waves of light race around a ring of lamps along its hull, its alien metal shimmers with an oily rainbow sheen, a scan line sweeps the hull, its engines flare when it darts, and it leaves red ghostly afterimages behind.
 - Spiders and Laser Wardens no longer run across empty space – they fly on thrusters, legs trailing behind them.
 - Enemies dragged into the Black Hole are now spaghettified – they stretch into glowing threads as they fall in. Shadows near the hole no longer vanish in the glare of its disc.
 - The Observer is far creepier: long tentacles writhe around it and reach for you, its slit pupil twitches as it tracks you, its eyelid flinches, its flesh glistens with slime and a dark aura hangs behind it. In later phases the eye goes bloodshot and weeps blood. It now turns toward you, so you can actually look it in the eye.
