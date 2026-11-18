@@ -14,7 +14,7 @@ Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already i
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
-Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky; Visuals: obíhající světla, duhový kov, dozvuky). V demu v1.5.3 loď ještě krouží přídí napřed.
+Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky; Visuals: úplně nová loď – černá manta s fialovými žilami, dozvuky). V demu v1.5.3 je loď ještě bílý hranatý křižník a krouží přídí napřed.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -44,7 +44,7 @@ Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba b
 - The Mothership got engine flames and jaws that open when it releases a swarm, and it visibly falls apart as you tear it down. Robot explosions are now red instead of green.
 - The invasion gate is no longer a green hexagon. Space now cracks and tears open into a burning red rift – and the robots fly out of it instead of just appearing.
 - The Robot Invasion and Mothership warnings now glow red to match the robots.
-- Mothership glow-up: waves of light race around a ring of lamps along its hull, its alien metal shimmers with an oily rainbow sheen, a scan line sweeps the hull, its engines flare when it darts, and it leaves red ghostly afterimages behind.
+- Brand-new Mothership: a huge black alien manta ship with glowing violet veins. Pulses of light run through the veins (faster when it darts), its dark metal shimmers with an oily rainbow sheen, and it leaves violet ghostly afterimages behind.
 - Spiders and Laser Wardens no longer run across empty space – they fly on thrusters, legs trailing behind them.
 - Enemies dragged into the Black Hole are now spaghettified – they stretch into glowing threads as they fall in. Shadows near the hole no longer vanish in the glare of its disc.
 - The Observer is far creepier: long tentacles writhe around it and reach for you, its slit pupil twitches as it tracks you, its eyelid flinches, its flesh glistens with slime and a dark aura hangs behind it. In later phases the eye goes bloodshot and weeps blood. It now turns toward you, so you can actually look it in the eye.
