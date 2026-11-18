@@ -30,7 +30,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-16 18:00 | REEL 5 Minute 1 vs Minute 20 (first reel built with stats/viral_playbook.md: contrast hook, ticking clock, hard cuts, loop; Kai voice; before/after cover) – IG + YT published ([IG](https://www.instagram.com/reel/Dfz2ipLiaS4/), [YT](https://www.youtube.com/shorts/UQbBkuo27qA)); **TikTok FAILED (Metricool limit)** – Daniel posts it by hand | v/2026-11-16_REEL05_minute-1-vs-20.mp4 |
 | 2026-11-17 18:00 | REEL 6 7 Disasters. 1 Run. (REC C, number hook + 1/7…7/7 titles, Kai voice, ends 'Which one is the worst?') – **FAILED on TT/IG/YT (Metricool account limit), not published** – Daniel posts it by hand (files + captions sent 11-18) | v/2026-11-17_REEL06_7-disasters.mp4 |
 | 2026-11-18 18:00 | REEL 7 Combo 0 → 32,000 (REC C, ticking combo counter, Kai voice, ends 'Next run: 50,000?') – **FAILED on TT/IG/YT (Metricool account limit)** – Daniel posts it by hand (files + captions sent 11-18 ~20:00) | v/2026-11-18_REEL07_combo-0-to-32000.mp4 |
-| planned (NOT scheduled yet – needed from 2026-11-19) | next reels | – |
+| planned (NOT scheduled yet – needed from 2026-11-19; checked 11-18 21:42: planner empty, REEL 6/7 manual uploads not visible in Metricool yet) | next reels | – |
 
 NEVER END WITH "How long would you survive?" (Daniel, 2026-11-15) – not in the end card, not in Kai's last line, not in the caption. Vary the ending every time (follow CTA, a question about this video's content, cliffhanger).
 
@@ -157,6 +157,16 @@ Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug
 - REEL 4 on IG caught up on day 2 (72 → 113 views, reach 105) → its weak day 1 on 11-16 was timing, not the voice/cover. IG day-2 growth again confirms "judge after 48 h".
 - Followers: no change (TT 205, IG 5, YT 3; +7 total since 11-06). The 11-14/15 IG jump (+4) did not continue.
 - Best-time (Wed 18): TikTok 10:00 1432 vs 18:00 1386 (+3 %, equal), IG 10:00 6506 vs 18:00 4869 (+34 %). Same pattern as all week; real TT data favour 18:00 → **REEL 7 kept at 18:00, no caption/title changes** (captions already follow the 11-13 rule; editing a post may also count against the exhausted quota).
+
+### 2026-11-18
+- **Operational problem first:** REEL 7 failed on all 3 networks (Metricool limit), like REEL 6 (11-17) and REEL 5 TikTok (11-16). Analytics confirm nothing newer than REEL 4 (TT, 11-15) / REEL 5 (IG, 11-16) exists. Planner is empty from 11-19. No new data points for any learning test until posting resumes.
+- **TikTok REEL 4 = 247 views is final** (0 change between ~52 h and ~77 h). So the first Kai-voice reel on TikTok ended at ⅓ of the usual 715–815. n = 1 and confounded (wrong TikTok cover frame "INCOMING SIGNALS", Sunday, first voice reel) → no verdict on the voice, but the frame shown on TikTok is the most likely suspect: always pick a cover frame with the big title text (COVERS PER NETWORK rule).
+- **No posts = no views (now measured):** TikTok account views per day 942 (11-13) → 867 (11-14) → 426 (11-15, last TT post) → ~0 after. Every older post is stalled (n = 12 TT, 13 IG). Daily posting is the only thing keeping the accounts alive; a 3-day gap costs ~2,000+ TikTok views.
+- **YouTube: first channel-level numbers since 11-10:** 228 / 167 / 102 / 197 / 235 views per day (11-11 … 11-15) – ~25–30 % of TikTok's daily views with 0 followers growth; per-video stats are still null, so no per-Short comparison is possible.
+- **Instagram REEL 5 holds its lead:** final ~116 views / 107 reach, avg watch 3.7 s, skip rate 65.4 % – best Kai-style hold (n = 1; EP 5 62.2 % is the only better one). The two best Kai openers are both one concrete number/contrast claim → keep that hook type.
+- Followers: TikTok −1 (204), IG 5, YT 3 → +6 since 11-06.
+- Best-time (Thu 19 – Sat 21): TikTok Thu 10:00 1471 vs 18:00 1378 (+7 %), Fri 1379 vs 1222 (+13 %), Sat 852 vs 709 (+20 %); IG 10:00 ahead (+24 % / +52 % / +42 %). Same pattern as every day so far; the only real 10:00 post (EP 2) was the weakest → **18:00 stays the default** for manual and future auto posts; an IG-only 10:00–12:00 test remains the best untested idea.
+- No scheduled posts → nothing changed.
 
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.

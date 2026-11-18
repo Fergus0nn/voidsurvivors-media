@@ -265,3 +265,31 @@ Numbers are lifetime totals at run time. TikTok avg watch = total time watched /
 Followers: TikTok 205 (Δ 0), Instagram 5 (Δ 0; gained 0 / lost 0 on 11-17), YouTube 3 (Δ 0). **Total follower change since start: +7** (since last log: 0).
 
 Scheduled ahead: only REEL 7 "Combo 0 → 32,000" (Wed 11-18 18:00, 3 posts, autoPublish=true, PENDING) – at risk of the account-limit error. No changes made today. **Only 1 future day left → new reels needed from Thu 11-19** (and REEL 5 on TikTok + REEL 6 everywhere still unpublished).
+
+## 2026-11-18 (run 21:42 CET)
+Metricool timestamps are UTC → converted to CET.
+- **REEL 7 "Combo 0 → 32,000" (11-18 18:00) did NOT go out anywhere:** TikTok 429092107, Instagram 429092479, YouTube 429092532 all **ERROR "You have reached your Metricool account limit."** (no public URL / id). Same for REEL 6 (11-17, all 3) and REEL 5 TikTok (11-16). Analytics confirm it: the newest TikTok video is REEL 4 (11-15), the newest IG reel is REEL 5 (11-16) – nothing newer exists on TT/IG. Daniel's manual uploads (files + captions sent 11-18) are not visible in Metricool yet.
+- Metricool planner: **no posts scheduled after 11-18** (11-16 … 12-02 checked).
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. All older posts (EP 1 – REEL 3 Bosses) unchanged or ±1 vs 11-17 → stalled, not repeated in detail.
+
+| Network | Post | Style | Age | Views | Δ vs 11-17 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | EP 1 / EP 2 / EP 3 | stickman | – | 815 / 459 / 807 | 0 | 10 / 7 / 13 | 1 / 0 / 0 | 0 | – | 749 / 420 / 716 | 5.4 / 3.9 / 5.4 s | – | stalled |
+| TikTok | REEL Combo / EP 4 / EP 5 / EP 6 / EP 7 | Kai | – | 715 / 750 / 781 / 745 / 737 | 0 | 3 / 1 / 2 / 2 / 1 | 0 | 0 | – | 667 / 700 / 730 / 705 / 700 | 3.0 / 2.3 / 3.1 / 2.7 / 3.0 s | – | stalled |
+| TikTok | REEL Survive 20 min / REEL 3 Bosses | Kai, auto | – | 743 / 750 | 0 | 4 / 3 | 0 | 0 | – | 693 / 687 | 2.4 / 2.2 s | – | stalled |
+| TikTok | REEL 4 They came from everywhere | Kai voice, auto | ~76.7 h | **247** | 0 | 1 | 0 | 0 | – | 230 | 2.3 s | – | stalled – the low result is real, not sync lag |
+| TikTok | REEL 5 / REEL 6 / REEL 7 | Kai voice | – | – | – | – | – | – | – | – | – | – | **NOT PUBLISHED (Metricool limit)** |
+| Instagram | EP 1 / EP 2 / EP 3 | stickman | – | 137 / 144 / 195 | 0 | 2 / 1 / 3 | 0 | 0 / 1 / 0 | 0 | 114 / 132 / 176 | 4.1 / 5.5 / 3.5 s | 32.3 / 45.5 / 29.4 % | stalled |
+| Instagram | REEL Combo / EP 4 / EP 5 / EP 6 / EP 7 | Kai | – | 124 / 113 / 115 / 85 / 118 | 0 | 2 / 4 / 5 / 5 / 5 | 0 | 0 / 0 / 0 / 1 / 0 | 0 / 0 / 0 / 1 / 0 | 118 / 105 / 110 / 75 / 113 | 2.7 / 2.4 / 3.5 / 3.1 / 2.6 s | 19.8 / 13.1 / 37.8 / 25.6 / 23.7 % | stalled |
+| Instagram | REEL Survive 20 min / REEL 3 Bosses / REEL 4 | Kai, auto | – | 98 / 126 / 113 | 0 | 5 / 5 / 5 | 0 | 0 | 0 / 1 / 0 | 86 / 113 / 105 | 3.3 / 2.9 / 2.6 s | 21.8 / 15.2 / 26.2 % | stalled |
+| Instagram | REEL 5 Minute 1 vs 20 ([link](https://www.instagram.com/reel/Dfz2ipLiaS4/)) | Kai voice, auto, viral playbook | ~51.6 h | **116** | +2 | 5 | 0 | 0 | 0 | 107 | **3.7 s** | **34.6 % / 65.4 %** | only post that moved today |
+| Instagram | REEL 6 / REEL 7 | – | – | – | – | – | – | – | – | – | – | – | NOT PUBLISHED (limit) |
+| YouTube | per-video | – | – | n/a | – | – | – | – | – | – | – | – | per-video stats still null (EP 1–3 listed only, ~291 h) |
+| YouTube | channel daily views (new sync) | – | – | 11-11: 228 · 11-12: 167 · 11-13: 102 · 11-14: 197 · 11-15: 235 | – | – | – | – | – | – | – | – | first channel numbers after 11-10; 11-16+ not synced |
+
+TikTok account-level daily video views (TKEV12): 11-13 942 · 11-14 867 · **11-15 426** · 11-16 11 (partial sync) – views drop as soon as new TikTok posts stop.
+
+Followers: TikTok 205 → **204** (−1 on 11-17), Instagram 5 (gained 0 / lost 0 on 11-18), YouTube 3 (gained 0 / lost 0). **Total follower change since start: +6** (since last log: −1).
+
+Scheduled ahead: **nothing** (0 future days). No changes made today. **New reels are needed from Thu 11-19** – and REEL 5 (TikTok), REEL 6 and REEL 7 (all networks) still need to be posted by hand unless Daniel already did it. Metricool Free quota for November is used up → auto-posting through Metricool is blocked until Daniel upgrades or until 12-01.
