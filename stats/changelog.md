@@ -9,6 +9,7 @@ Pravidla:
 
 ## Unreleased (Update #2 – pátek 20. 11. 2026)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
+Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura).
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -23,6 +24,7 @@ Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS
 - Enemies hit harder and take more punishment: +50% health (and it grows faster as the run goes on), +30% damage from touch and projectiles. Bosses have +25% health.
 - Health, healing and lifesteal cards now show up about three times less often – survival has to be earned.
 - The Dying Star now lives its whole life, over and over: a healing protostar, a blue supergiant that burns enemies, a swelling red supergiant that burns you too, an unstable star hurling flares into red circles – then the 9-second countdown, the supernova, and a glowing remnant full of crystals from which the next star is born. The edge-of-screen marker tells you which phase it is in.
+- The Observer has three new special attacks, each marked on the ground first: Tentacles from the Deep (rows of red circles race toward you and a tentacle bursts out of each one), Lash (it rears back one of its own tentacles and slams it down a red strip) and Gaze of the Void (the eye shuts, then a red wave rolls out from it – only the bright gaps are safe). It never uses the same special twice in a row.
 
 ### 🎨 Visuals
 - Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot.
@@ -38,6 +40,7 @@ Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS
 - The Robot Invasion and Mothership warnings now glow red to match the robots.
 - Spiders and Laser Wardens no longer run across empty space – they fly on thrusters, legs trailing behind them.
 - Enemies dragged into the Black Hole are now spaghettified – they stretch into glowing threads as they fall in. Shadows near the hole no longer vanish in the glare of its disc.
+- The Observer is far creepier: long tentacles writhe around it and reach for you, its slit pupil twitches as it tracks you, its eyelid flinches, its flesh glistens with slime and a dark aura hangs behind it. In later phases the eye goes bloodshot and weeps blood. It now turns toward you, so you can actually look it in the eye.
 
 ## Update #1 – 14. 11. 2026 (v1.5.0) ✅ posted (pozdě: páteční automatický běh selhal na vyčerpaném limitu, posláno ručně v sobotu 01:19)
 
