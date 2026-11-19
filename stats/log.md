@@ -293,3 +293,34 @@ TikTok account-level daily video views (TKEV12): 11-13 942 · 11-14 867 · **11-
 Followers: TikTok 205 → **204** (−1 on 11-17), Instagram 5 (gained 0 / lost 0 on 11-18), YouTube 3 (gained 0 / lost 0). **Total follower change since start: +6** (since last log: −1).
 
 Scheduled ahead: **nothing** (0 future days). No changes made today. **New reels are needed from Thu 11-19** – and REEL 5 (TikTok), REEL 6 and REEL 7 (all networks) still need to be posted by hand unless Daniel already did it. Metricool Free quota for November is used up → auto-posting through Metricool is blocked until Daniel upgrades or until 12-01.
+
+## 2026-11-19 (run 21:43 CET)
+Metricool timestamps are UTC → converted to CET. Daniel upgraded to **Metricool Starter** (~01:58) → posting works again.
+- **REEL 7 "Combo 0 → 32,000"** re-published at Daniel's request **Thu 02:05** on TikTok ([link](https://www.tiktok.com/@void.survivors/video/7709682458471583008)), Instagram ([link](https://www.instagram.com/reel/Df53BGwlfTJ/)) and YouTube ([Short](https://www.youtube.com/shorts/wPHuJOIJsb0)) – all PUBLISHED.
+- **REEL 6 "7 Disasters. 1 Run."** went out today **18:00** on TikTok ([link](https://www.tiktok.com/@void.survivors/video/7709930073863752992)), Instagram ([link](https://www.instagram.com/reel/Df7lnh_pY4l/)) and YouTube ([Short](https://www.youtube.com/shorts/xtajx0_4lg8)) – all PUBLISHED (no ERROR anywhere). Not in analytics yet (~3.7 h).
+- REEL 5 on TikTok still missing → scheduled TikTok-only for Fri 11-20 10:00.
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. All older posts (EP 1 – REEL 5) unchanged or ±1–2 vs 11-18 → stalled, not repeated in detail.
+
+| Network | Post | Style | Age | Views | Δ vs 11-18 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | EP 1 / EP 2 / EP 3 | stickman | – | 815 / 459 / 807 | 0 | 10 / 7 / 13 | 1 / 0 / 0 | 0 | – | 749 / 420 / 716 | – | – | stalled |
+| TikTok | REEL Combo / EP 4 / EP 5 / EP 6 / EP 7 | Kai | – | 715 / 750 / 781 / 745 / 737 | 0 | 3 / 1 / 2 / 2 / 1 | 0 | 0 | – | 667 / 700 / 730 / 705 / 700 | – | – | stalled |
+| TikTok | REEL Survive 20 min / REEL 3 Bosses | Kai, auto | – | 743 / 750 | 0 | 4 / 3 | 0 | 0 | – | 693 / 687 | 2.4 / 2.2 s | – | stalled |
+| TikTok | REEL 4 They came from everywhere | Kai voice, auto | ~100 h | 248 | +1 | 1 | 0 | 0 | – | 230 | 2.3 s | – | stalled |
+| TikTok | REEL 7 Combo 0 → 32,000 | Kai voice, auto, published 02:05 | ~19.6 h | **10** | new | 1 | 0 | 0 | – | 0 | 2.1 s (21 s) | – | 91.7 % For You – most likely an early sync snapshot (reach 0); re-check 11-20 |
+| TikTok | REEL 6 7 Disasters | Kai voice, auto | ~3.7 h | n/a | – | – | – | – | – | – | – | – | published, not synced |
+| Instagram | EP 1 / EP 2 / EP 3 | stickman | – | 137 / 144 / 195 | 0 | 2 / 1 / 3 | 0 | 0 / 1 / 0 | 0 | 114 / 132 / 176 | 4.1 / 5.5 / 3.5 s | 32.3 / 45.5 / 29.4 % | stalled |
+| Instagram | REEL Combo / EP 4 / EP 5 / EP 6 / EP 7 | Kai | – | 124 / 113 / 115 / 85 / 118 | 0 | 2 / 4 / 5 / 5 / 5 | 0 | 0 / 0 / 0 / 1 / 0 | 0 / 0 / 0 / 1 / 0 | 118 / 105 / 110 / 75 / 113 | – | – | stalled |
+| Instagram | REEL Survive 20 min / REEL 3 Bosses / REEL 4 | Kai, auto | – | 98 / 126 / 113 | 0 | 5 / 5 / 5 | 0 | 0 | 0 / 1 / 0 | 86 / 113 / 105 | 3.3 / 2.9 / 2.6 s | 21.8 / 15.2 / 26.2 % | stalled |
+| Instagram | REEL 5 Minute 1 vs 20 | Kai voice, auto | ~75.6 h | 118 | +2 | 5 | 0 | 0 | 0 | 107 | 3.6 s | 33.9 % / 66.1 % | stalled |
+| Instagram | REEL 7 Combo 0 → 32,000 ([link](https://www.instagram.com/reel/Df53BGwlfTJ/)) | Kai voice, auto, custom cover, published 02:05 | ~19.6 h | **124** | new | 0 | 0 | 0 | 0 | 79 | 3.2 s | **48.6 % / 51.4 %** | **best IG skip rate + view rate of all 14 reels**; views/reach 1.57 (rewatches) |
+| Instagram | REEL 6 7 Disasters | Kai voice, auto | ~3.7 h | n/a | – | – | – | – | – | – | – | – | published, not synced |
+| YouTube | per-video | – | – | n/a | – | – | – | – | – | – | – | – | per-video connectors return no rows |
+| YouTube | channel daily views | – | – | 11-13: 102 · 11-14: 197 · 11-15: 235 · 11-16: 158 | – | – | – | – | – | – | – | – | 11-17+ not synced |
+
+TikTok account-level daily video views (TKEV12): 11-15 426 · 11-16 11 · 11-17 2 – near zero while nothing was posted.
+
+Followers: TikTok 204 (Δ 0 on 11-18), Instagram 5 (gained 0 / lost 0 on 11-19), YouTube 3 (Δ 0). **Total follower change since start: +6** (since last log: 0).
+
+Scheduled ahead (all autoPublish=true, 3 separate posts per reel, covers unchanged): Fri 11-20 10:00 REEL 5 TikTok-only (433667252, cover 1200 ms); Fri 11-20 18:00 REEL 8 "The Observer" (TT 433667215 / IG 433667223 / YT 433667238); Sat 11-21 18:00 REEL 9 "A Star's Whole Life" (TT 433667391 / IG 433667409 / YT 433667423). REEL 10/11 (11-22/23) are made but not scheduled (waiting for Daniel's OK). No changes made today. **Only 2 future days left → new reels needed from Sun 11-22.**
