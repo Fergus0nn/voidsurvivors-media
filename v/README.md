@@ -26,3 +26,5 @@ Profily: [TikTok](https://www.tiktok.com/@void.survivors) · [Instagram](https:/
 | 19. 11. 02:05 (místo 18. 11.) | REEL 7 – Combo 0 → 32,000 | [2026-11-18_REEL07_combo-0-to-32000.mp4](2026-11-18_REEL07_combo-0-to-32000.mp4) | [YouTube](https://www.youtube.com/shorts/wPHuJOIJsb0) · [TikTok](https://www.tiktok.com/@void.survivors/video/7709682458471583008) · [Instagram](https://www.instagram.com/reel/Df53BGwlfTJ/) |
 | 21. 11. 18:00 | REEL 8 – The Observer (hlas Kaie) | [2026-11-21_REEL08_the-observer.mp4](2026-11-21_REEL08_the-observer.mp4) | naplánováno v Metricoolu |
 | 22. 11. 18:00 | REEL 9 – A Star's Whole Life (hlas Kaie) | [2026-11-22_REEL09_a-stars-life.mp4](2026-11-22_REEL09_a-stars-life.mp4) | naplánováno v Metricoolu |
+| 23. 11. (návrh) | REEL 10 – The Mothership (hlas Kaie) | [2026-11-23_REEL10_the-mothership.mp4](2026-11-23_REEL10_the-mothership.mp4) | čeká na Danielovo OK |
+| 24. 11. (návrh) | REEL 11 – Lights Out (hlas Kaie) | [2026-11-24_REEL11_lights-out.mp4](2026-11-24_REEL11_lights-out.mp4) | čeká na Danielovo OK |

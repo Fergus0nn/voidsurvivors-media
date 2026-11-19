@@ -12,6 +12,7 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 - Captions (from 2026-11-13): TT/IG = hook line + comment question + 5 tags (#voidsurvivors + genre + #fyp); YouTube = no viral tags, only #shorts #voidsurvivors #indiegame #survivorslike.
 - English texts, ~30 s, 9:16, music/SFX only from the game.
 - 1 post per day at the best hour (default 18:00; 10:00 is the other peak).
+- CADENCE (Daniel, 2026-11-19, after the Starter upgrade): stay at 1 new reel per day = 7 per week on TikTok, Instagram and YouTube (18:00). No second daily post / re-cut slot for now.
 
 ## Schedule
 | Date | Episode | File |
@@ -32,7 +33,9 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-18 18:00 | REEL 7 Combo 0 → 32,000 (REC C, ticking combo counter, Kai voice, ends 'Next run: 50,000?') – **FAILED on TT/IG/YT (Metricool account limit)** → re-published 2026-11-19 02:05 at Daniel's request (TT 433627279 / IG 433627291 / YT 433627294) | v/2026-11-18_REEL07_combo-0-to-32000.mp4 |
 | 2026-11-21 18:00 | REEL 8 The Observer (REC D, minute-19 titan; hook 'MINUTE 19 / SOMETHING IS WATCHING', ticking clock, Kai voice, ends 'Would you look it in the eye?'; TT cover 400 ms) – scheduled TT 433629934 / IG 433629951 / YT 433629970 | v/2026-11-21_REEL08_the-observer.mp4 |
 | 2026-11-22 18:00 | REEL 9 A Star's Whole Life (REC D, 1/6…6/6 lifecycle, loops back to red supergiant, Kai voice, ends 'And then it starts again'; TT cover 1500 ms) – scheduled TT 433630168 / IG 433630188 / YT 433630205 | v/2026-11-22_REEL09_a-stars-life.mp4 |
-| planned (not made yet – needed from 2026-11-23; checked 11-18 21:42: planner empty, REEL 6/7 manual uploads not visible in Metricool yet) | next reels: Mothership rift, Saturn orb ring, quasar bursts (REC D) | – |
+| 2026-11-23 18:00 (waiting for Daniel's OK) | REEL 10 The Mothership (REC D, rift entrance, new ship design, orbital laser, last stand, red lanes; ends with a community question 'What should it do next?') | v/2026-11-23_REEL10_the-mothership.mp4 |
+| 2026-11-24 18:00 (waiting for Daniel's OK) | REEL 11 Lights Out (REC D, eclipse spotlight → lights back at Saturn, surrounded; ends 'Would you fight in the dark?') | v/2026-11-24_REEL11_lights-out.mp4 |
+| planned (not made yet – needed from 2026-11-25) | 5 more reels this week: quasar, Lord of Darkness, Blood Moon 14k, final orb storm 17k, Saturn unstable star (REC D) | – |
 
 NEVER END WITH "How long would you survive?" (Daniel, 2026-11-15) – not in the end card, not in Kai's last line, not in the caption. Vary the ending every time (follow CTA, a question about this video's content, cliffhanger).
 

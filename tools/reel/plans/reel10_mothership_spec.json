@@ -1,0 +1,20 @@
+{
+ "shots": [
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1327.0, "dur": 2.0, "cx": 330, "label": "MINUTE 13", "big": "SPACE TEARS OPEN", "color": "#ff3b4f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1329.6, "dur": 1.6, "cx": 150, "clock": "13:12", "label": "THE MOTHERSHIP"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1333.4, "dur": 1.4, "cx": 180, "clock": "13:16", "label": "JAWS. SPINES. RED EYES."},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1337.9, "dur": 1.4, "clock": "13:21", "label": "ORBITAL LASER"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1352.6, "dur": 1.6, "clock": "13:35", "label": "LAST STAND"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1358.8, "dur": 1.8, "cx": 220, "clock": "13:41", "label": "RED MEANS RUN"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1371.0, "dur": 1.4, "clock": "13:53", "label": ""},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1372.4, "dur": 3.0, "clock": "13:53", "label": ""}
+ ],
+ "masks": [[28, 86, 236, 28]],
+ "end_text": [["WHAT SHOULD IT", "#ffffff"], ["DO NEXT?", "#ff3b4f"]],
+ "end_at": 11.2,
+ "kai": [
+  {"t0": 0.0, "t1": 2.0, "expr": "surprised", "text": "Minute 13. Space tears open."},
+  {"t0": 11.2, "t1": 14.2, "expr": "smirk", "text": "What should it do next?"}
+ ],
+ "_note": "Source = REC D (Desktop\\nahrávky ze hry\\2026-11-18 13-02-45.mp4), sparse copy /root/build/rec1118/rec1118_sparse.mp4."
+}

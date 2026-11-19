@@ -1,0 +1,98 @@
+{
+ "shots": [
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1424.0,
+   "dur": 2.0,
+   "label": "MINUTE 14",
+   "big": "LIGHTS OUT",
+   "color": "#b8a6ff"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1428.8,
+   "dur": 1.6,
+   "clock": "14:38",
+   "label": "YOU ONLY SEE THIS CIRCLE"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1431.8,
+   "dur": 1.6,
+   "clock": "14:41",
+   "label": "THEY SEE YOU"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1435.0,
+   "dur": 1.6,
+   "clock": "14:44",
+   "label": "A STAR DIES IN THE DARK"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1442.0,
+   "dur": 1.6,
+   "clock": "14:50",
+   "label": "KEEP SHOOTING"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1468.8,
+   "dur": 1.4,
+   "cx": 400,
+   "clock": "15:06",
+   "label": "LIGHTS BACK ON..."
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1470.2,
+   "dur": 1.4,
+   "cx": 400,
+   "clock": "15:07",
+   "label": "...YOU'RE SURROUNDED"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1471.6,
+   "dur": 3.4,
+   "cx": 380,
+   "clock": "15:09",
+   "label": ""
+  }
+ ],
+ "masks": [
+  [
+   28,
+   86,
+   236,
+   28
+  ]
+ ],
+ "end_text": [
+  [
+   "WOULD YOU FIGHT",
+   "#ffffff"
+  ],
+  [
+   "IN THE DARK?",
+   "#b8a6ff"
+  ]
+ ],
+ "end_at": 11.2,
+ "kai": [
+  {
+   "t0": 0.0,
+   "t1": 2.0,
+   "expr": "surprised",
+   "text": "Minute 14. The lights go out."
+  },
+  {
+   "t0": 11.2,
+   "t1": 14.6,
+   "expr": "smirk",
+   "text": "Would you fight in the dark?"
+  }
+ ],
+ "_note": "Source = REC D (Desktop\\nahrávky ze hry\\2026-11-18 13-02-45.mp4), sparse copy /root/build/rec1118/rec1118_sparse.mp4. Eclipse event 23:41-24:24, Saturn + phase 11 at 24:25."
+}

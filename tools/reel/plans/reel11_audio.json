@@ -1,0 +1,22 @@
+{
+ "video": "/root/build/rec1118/out/reel11_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-24_REEL11_lights-out.mp4",
+ "work": "/root/build/rec1118/out/audio11",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra_boj.ogg",
+ "music_start": 75.0,
+ "bed_lufs": -16, "duck_db": 4, "target": -14, "fade_out": 1.2,
+ "accents": [
+  [0.0, "zatmeni", -1, 2.0],
+  [3.6, "prazdnota_septani", -4, 1.6],
+  [5.2, "supernova_alarm", -3, 1.5],
+  [8.4, "oznameni", -4, 1.5],
+  [10.0, "zlata_horda", -6, 1.4],
+  [11.6, "supernova_vybuch", -2, 2.2]
+ ],
+ "action": [[0.0, 14.6]],
+ "action_db": -14,
+ "seed": 111,
+ "voice": "/root/build/rec1118/voice/reel11/voice.json",
+ "voice_lufs": -15, "voice_duck_db": 8, "voice_duck_sfx_db": 4
+}

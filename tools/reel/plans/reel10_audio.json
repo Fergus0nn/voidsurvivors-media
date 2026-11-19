@@ -1,0 +1,24 @@
+{
+ "video": "/root/build/rec1118/out/reel10_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-23_REEL10_the-mothership.mp4",
+ "work": "/root/build/rec1118/out/audio10",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/boss.ogg",
+ "music_start": 20.0,
+ "bed_lufs": -16, "duck_db": 4, "target": -14, "fade_out": 1.2,
+ "accents": [
+  [0.0, "brana", -2, 1.8],
+  [0.3, "lod_prichod", -1, 3.0],
+  [5.0, "paprsek", -2, 1.4],
+  [6.4, "boss_salva", -3, 1.0],
+  [8.0, "laser_vystrel_0", -4, 0.6],
+  [9.2, "paprsek", -2, 1.0],
+  [9.8, "lod_vybuch", 0, 1.6],
+  [11.2, "udalost_konec", -4, 2.6]
+ ],
+ "action": [[0.0, 14.2]],
+ "action_db": -14,
+ "seed": 101,
+ "voice": "/root/build/rec1118/voice/reel10/voice.json",
+ "voice_lufs": -15, "voice_duck_db": 8, "voice_duck_sfx_db": 4
+}

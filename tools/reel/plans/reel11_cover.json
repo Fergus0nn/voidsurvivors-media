@@ -1,0 +1,25 @@
+{
+ "out": "v/2026-11-24_REEL11_lights-out_cover.jpg",
+ "layout": "split",
+ "frames": [
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "t": 1424.6
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "t": 1472.4
+  }
+ ],
+ "title": [
+  [
+   "LIGHTS",
+   "#ffffff"
+  ],
+  [
+   "OUT",
+   "#b8a6ff"
+  ]
+ ],
+ "tag": "VOID SURVIVORS"
+}

@@ -1,0 +1,34 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "lines": [
+  [
+   0.05,
+   "Minute fourteen. The lights go out."
+  ],
+  [
+   2.3,
+   "You only see this circle."
+  ],
+  [
+   3.9,
+   "But they see you."
+  ],
+  [
+   5.4,
+   "A star dies in the dark."
+  ],
+  [
+   8.5,
+   "The lights come back..."
+  ],
+  [
+   9.9,
+   "and you're surrounded."
+  ],
+  [
+   11.4,
+   "Would you fight in the dark?"
+  ]
+ ]
+}

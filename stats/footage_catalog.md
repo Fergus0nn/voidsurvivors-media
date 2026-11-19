@@ -121,6 +121,9 @@ Split on the PC into `VOID_SURVIVORS_v0_6_3D_UNIVERSE\nahravky_casti\rec1118.par
 - REC C level-up cards (avoid): 151, 704, 916, 1163, 1677.9–1679.6; desktop after 1690; taskbar ~1078
 - REC D (reel 8 "THE OBSERVER"): 1749.3–1750.9, 1754.2–1755.6, 1760.2–1761.7, 1771.2–1773.1 (+ cover 1771.3), 1776.2–1777.7, 1779.6–1781.4, 1786.6–1787.9, 1792.3–1795.5
 - REC D (reel 9 "A STAR'S LIFE"): 540.5–542.2, 584.2–585.9, 590.0–591.8 (+ cover 590.5), 613.6–616.2, 617.0–618.6, 642.0–643.6, 686.0–687.8 (+ cover 687.0), 690.0–692.6
+- REC D (reel 10 "THE MOTHERSHIP"): 1327.0–1329.0 (+ cover 1327.6), 1329.6–1331.2, 1333.4–1334.8, 1337.9–1339.3, 1352.6–1354.2, 1358.8–1360.6, 1371.0–1375.4, cover 1366.0
+- REC D (reel 11 "LIGHTS OUT" = eclipse 23:41–24:24 + Saturn phase 11): 1424.0–1426.0 (+ cover 1424.6), 1428.8–1430.4, 1431.8–1433.4, 1435.0–1436.6, 1442.0–1443.6, 1468.8–1475.0 (+ cover 1472.4)
+- REC D still unused: quasar bursts 25:29–25:44 + 26:37–26:54 (part 62 = 25:09–25:28 not staged → frozen/corrupt there), Saturn + UNSTABLE STAR 25:54–25:57, PHASE 13 26:05, BLOOD MOON 27:53–28:16, LORD OF DARKNESS 13:35–16:08, gravity storm 16:57, black hole 20:26, robots 19:46, first-run blue supergiant 5:01–5:12 (English)
 - Engine: rb_gore 1–130 (EP5)
 - REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN."); 787–791, 794.5–801.5, 802.3–808.6, 864.3–871.3 (short horde_01 "THEY CAME FROM EVERYWHERE")
 
