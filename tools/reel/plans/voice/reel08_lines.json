@@ -1,0 +1,34 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "lines": [
+  [
+   0.05,
+   "Minute nineteen. Something is watching."
+  ],
+  [
+   2.4,
+   "The Observer."
+  ],
+  [
+   3.55,
+   "It teleports."
+  ],
+  [
+   4.95,
+   "It fires from the eye."
+  ],
+  [
+   6.5,
+   "Three pupils. No escape."
+  ],
+  [
+   8.25,
+   "Stay behind the beam!"
+  ],
+  [
+   11.1,
+   "Would you look it in the eye?"
+  ]
+ ]
+}

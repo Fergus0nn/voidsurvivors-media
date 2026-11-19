@@ -1,0 +1,24 @@
+{
+ "video": "/root/build/rec1118/out/reel08_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-21_REEL08_the-observer.mp4",
+ "work": "/root/build/rec1118/out/audio08",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/boss.ogg",
+ "music_start": 0.0,
+ "bed_lufs": -16, "duck_db": 4, "target": -14, "fade_out": 1.2,
+ "accents": [
+  [0.0, "prazdnota_septani", -2, 1.9],
+  [1.9, "boss_prichod", -1, 1.6],
+  [3.5, "portal", -4, 1.2],
+  [4.9, "paprsek", -3, 1.4],
+  [6.4, "temna_strela", -4, 1.2],
+  [7.9, "paprsek", -3, 1.7],
+  [9.7, "boss_smrt", 0, 1.5],
+  [11.0, "udalost_konec", -4, 2.6]
+ ],
+ "action": [[0.0, 14.2]],
+ "action_db": -14,
+ "seed": 81,
+ "voice": "/root/build/rec1118/voice/reel08/voice.json",
+ "voice_lufs": -15, "voice_duck_db": 8, "voice_duck_sfx_db": 4
+}

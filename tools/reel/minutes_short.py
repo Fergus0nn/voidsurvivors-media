@@ -49,11 +49,17 @@ def main(spec_p, out):
     os.makedirs(work, exist_ok=True)
     # 1) base segments: blurred bg + square zoom fg with a punch-in at the start of every shot
     segs = []
+    masks = sp.get("masks", [])   # [[x, y, w, h], ...] in source pixels – blurred in every shot (e.g. untranslated HUD text)
     for i, s in enumerate(shots):
         p = f"{work}/seg{i:02d}.mp4"
+        mk, src_lbl = "", "[b]"
+        for j, (mx, my, mw, mh) in enumerate(masks):
+            mk += (f"{src_lbl}split[mb{j}][mc{j}];[mc{j}]crop={mw}:{mh}:{mx}:{my},boxblur=7:2[mm{j}];"
+                   f"[mb{j}][mm{j}]overlay={mx}:{my}[mo{j}];")
+            src_lbl = f"[mo{j}]"
         fc = ("[0:v]fps=30,split[a][b];"
-              "[a]scale=-2:1920,crop=1080:1920,boxblur=22:2,eq=brightness=-0.30:saturation=1.15[bg];"
-              "[b]crop=704:704:" + str(s.get("cx", 288)) + ":4,scale=w='1080*(1+0.07*max(0,1-t/0.28))':h=-2:eval=frame,"
+              "[a]scale=-2:1920,crop=1080:1920,boxblur=22:2,eq=brightness=-0.30:saturation=1.15[bg];" + mk +
+              src_lbl + "crop=704:704:" + str(s.get("cx", 288)) + ":4,scale=w='1080*(1+0.07*max(0,1-t/0.28))':h=-2:eval=frame,"
               "crop=1080:1080[fg];"
               f"[bg][fg]overlay=0:{FG_Y}[v]")
         run(["ffmpeg", "-v", "error", "-y", "-ss", str(s["ss"]), "-t", str(s["dur"]), "-i", s["src"],

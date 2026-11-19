@@ -1,0 +1,38 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "lines": [
+  [
+   0.05,
+   "This star lives a whole life."
+  ],
+  [
+   1.85,
+   "Red supergiant. It burns you too."
+  ],
+  [
+   4.15,
+   "Then it turns unstable."
+  ],
+  [
+   6.5,
+   "Supernova!"
+  ],
+  [
+   7.9,
+   "From what's left..."
+  ],
+  [
+   9.45,
+   "a new star is born."
+  ],
+  [
+   11.05,
+   "Blue supergiant."
+  ],
+  [
+   12.9,
+   "And then it starts again."
+  ]
+ ]
+}

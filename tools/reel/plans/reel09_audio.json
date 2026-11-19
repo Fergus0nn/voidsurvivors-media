@@ -1,0 +1,26 @@
+{
+ "video": "/root/build/rec1118/out/reel09_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-22_REEL09_a-stars-life.mp4",
+ "work": "/root/build/rec1118/out/audio09",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra_boj.ogg",
+ "music_start": 38.4,
+ "bed_lufs": -16, "duck_db": 4, "target": -14, "fade_out": 1.2,
+ "accents": [
+  [0.0, "slunce_erupce", -2, 1.8],
+  [1.8, "slunce_vystraha", -5, 1.5],
+  [3.5, "slunce_erupce", -5, 1.6],
+  [5.2, "supernova_alarm", -4, 1.3],
+  [6.0, "supernova_kolaps", -4, 0.6],
+  [6.55, "supernova_vybuch", 0, 2.4],
+  [7.8, "krystal", -6, 1.0],
+  [9.4, "evoluce", -6, 1.5],
+  [11.0, "magnetar_puls", -6, 1.6],
+  [12.8, "slunce_vystraha", -4, 2.2]
+ ],
+ "action": [[0.0, 5.2], [7.8, 15.4]],
+ "action_db": -15,
+ "seed": 91,
+ "voice": "/root/build/rec1118/voice/reel09/voice.json",
+ "voice_lufs": -15, "voice_duck_db": 8, "voice_duck_sfx_db": 4
+}

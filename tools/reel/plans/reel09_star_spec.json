@@ -1,0 +1,114 @@
+{
+ "shots": [
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 590.0,
+   "dur": 1.8,
+   "cx": 330,
+   "label": "IN ONE RUN",
+   "big": "A STAR'S LIFE",
+   "color": "#ffb02e"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 540.5,
+   "dur": 1.7,
+   "cx": 576,
+   "label": "1 / 6",
+   "big": "RED SUPERGIANT",
+   "color": "#ff5a3c",
+   "bar": 0.167
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 584.2,
+   "dur": 1.7,
+   "cx": 440,
+   "label": "2 / 6",
+   "big": "UNSTABLE STAR",
+   "color": "#ffb02e",
+   "bar": 0.333
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 613.6,
+   "dur": 2.6,
+   "cx": 0,
+   "label": "3 / 6",
+   "big": "SUPERNOVA",
+   "color": "#fff1c4",
+   "bar": 0.5
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 617.0,
+   "dur": 1.6,
+   "label": "4 / 6",
+   "big": "REMNANT",
+   "color": "#9fd8ff",
+   "bar": 0.667
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 642.0,
+   "dur": 1.6,
+   "label": "5 / 6",
+   "big": "PROTOSTAR",
+   "color": "#ff7ad9",
+   "bar": 0.833
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 686.0,
+   "dur": 1.8,
+   "cx": 180,
+   "label": "6 / 6",
+   "big": "BLUE SUPERGIANT",
+   "color": "#6fd3ff",
+   "bar": 1.0
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 690.0,
+   "dur": 2.6,
+   "cx": 400,
+   "label": "",
+   "big": "",
+   "color": "#ff5a3c"
+  }
+ ],
+ "end_text": [
+  [
+   "AND THEN IT",
+   "#ffffff"
+  ],
+  [
+   "STARTS AGAIN",
+   "#ff5a3c"
+  ]
+ ],
+ "end_at": 12.8,
+ "kai": [
+  {
+   "t0": 0.0,
+   "t1": 1.8,
+   "expr": "smirk",
+   "text": "This star lives a whole life."
+  },
+  {
+   "t0": 12.8,
+   "t1": 15.4,
+   "expr": "smirk",
+   "text": "And then it starts again."
+  }
+ ],
+ "_note": "Source = REC D: Desktop\\nahrávky ze hry\\2026-11-18 13-02-45.mp4 (sparse copy /root/build/rec1118/rec1118_sparse.mp4).",
+ "masks": [
+  [
+   28,
+   86,
+   236,
+   28
+  ]
+ ]
+}

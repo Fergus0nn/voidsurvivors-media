@@ -30,7 +30,9 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-16 18:00 | REEL 5 Minute 1 vs Minute 20 (first reel built with stats/viral_playbook.md: contrast hook, ticking clock, hard cuts, loop; Kai voice; before/after cover) – IG + YT published ([IG](https://www.instagram.com/reel/Dfz2ipLiaS4/), [YT](https://www.youtube.com/shorts/UQbBkuo27qA)); **TikTok FAILED (Metricool limit)** – Daniel posts it by hand | v/2026-11-16_REEL05_minute-1-vs-20.mp4 |
 | 2026-11-17 18:00 | REEL 6 7 Disasters. 1 Run. (REC C, number hook + 1/7…7/7 titles, Kai voice, ends 'Which one is the worst?') – **FAILED on TT/IG/YT (Metricool account limit), not published** – Daniel posts it by hand (files + captions sent 11-18) | v/2026-11-17_REEL06_7-disasters.mp4 |
 | 2026-11-18 18:00 | REEL 7 Combo 0 → 32,000 (REC C, ticking combo counter, Kai voice, ends 'Next run: 50,000?') – **FAILED on TT/IG/YT (Metricool account limit)** – Daniel posts it by hand (files + captions sent 11-18 ~20:00) | v/2026-11-18_REEL07_combo-0-to-32000.mp4 |
-| planned (NOT scheduled yet – needed from 2026-11-19; checked 11-18 21:42: planner empty, REEL 6/7 manual uploads not visible in Metricool yet) | next reels | – |
+| 2026-11-21 18:00 (by hand) | REEL 8 The Observer (REC D, minute-19 titan; hook 'MINUTE 19 / SOMETHING IS WATCHING', ticking clock, Kai voice, ends 'Would you look it in the eye?') | v/2026-11-21_REEL08_the-observer.mp4 |
+| 2026-11-22 18:00 (by hand) | REEL 9 A Star's Whole Life (REC D, 1/6…6/6 lifecycle, loops back to red supergiant, Kai voice, ends 'And then it starts again') | v/2026-11-22_REEL09_a-stars-life.mp4 |
+| planned (not made yet – needed from 2026-11-23; checked 11-18 21:42: planner empty, REEL 6/7 manual uploads not visible in Metricool yet) | next reels: Mothership rift, Saturn orb ring, quasar bursts (REC D) | – |
 
 NEVER END WITH "How long would you survive?" (Daniel, 2026-11-15) – not in the end card, not in Kai's last line, not in the caption. Vary the ending every time (follow CTA, a question about this video's content, cliffhanger).
 

@@ -79,6 +79,36 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 | 1684–1685 | | END OF DEMO screen (don't use – implies the game is playable) |
 | 1693–end | | Windows desktop with other apps (NEVER use) |
 
+## REC D – Desktop/nahrávky ze hry/2026-11-18 13-02-45.mp4 (1834 s, 1280x720@60, Seraphiel, build of 18. 11. – new robots, new Mothership look, Dying Star lifecycle, Observer with tentacles + eye)
+Split on the PC into `VOID_SURVIVORS_v0_6_3D_UNIVERSE\nahravky_casti\rec1118.partNNN` (75 × 48 MiB, Claude Code did it); cloud sparse copy `/root/build/rec1118/rec1118_sparse.mp4` (moov at 3,724,098,124; keyframe every 4.17 s; time↔part map `/root/build/rec1118/part_times.json`). Stage ONE part per call (two often time out).
+- Run 1 (rec 0:21–5:25) is CZECH UI until the language switch in the pause at rec 5:00 → never use rec 0–5:00. Menus 0–0:20 are Czech too.
+- Run 2 = English, rec ~6:20 (game 00:00) → 30:22 (19:56). END OF DEMO 30:26 (never use).
+- HUD top-left shows "PHASE SHIFT [MEZERNÍK] READY" (Czech word) → with crop x < 260 add `"masks": [[28, 86, 236, 28]]` to the minutes_short spec (blurs it).
+| rec time | game time | content |
+|---|---|---|
+| 7:05 | 00:41 | NEW THREAT: RUNNERS |
+| 8:39–8:42 | 01:39 | FALSE VACUUM bubble |
+| 8:46–9:16 | 01:44–02:11 | RED SUPERGIANT banner → huge orange star + flares (9:18–9:36 cards) |
+| 9:40–9:54 | 02:15–02:29 | UNSTABLE STAR banner, giant flares (9:56–10:00 cards) |
+| 10:06–10:16 | 02:36–02:45 | SUPERNOVA banner, white star on the left, explosion ~10:15, shockwave 10:16 |
+| 10:16–10:20 | 02:45–02:48 | SUPERNOVA REMNANT banner, crystals |
+| 10:42 | 03:06 | PROTOSTAR banner (10:36–10:38, 10:58–11:02 cards) |
+| 11:04–11:28 | 03:22–03:44 | BLUE SUPERGIANT (big blue star 11:24–11:28) |
+| 11:30–11:32 | 03:45–03:47 | RED SUPERGIANT again (cycle restarts) |
+| 12:40 | 04:50 | white quasar burst with beam, combo 853× GOD OF DEATH |
+| 13:35–16:08 | 05:39–07:58 | BOSS LORD OF DARKNESS (+ red supergiant, crushers, mutations, protostar) – 14:00 SPOTIFY POPUP top-left (never use 13:59–14:02) |
+| 16:57–17:02 | 08:44–08:49 | GRAVITY STORM → SUPERNOVA REMNANT burst, combo 709× |
+| 18:00–18:42 | 09:37–10:17 | quasar (white disc + beam), combo 1.4k |
+| 19:46 | 11:07 | red robot invasion close-up (new robots) |
+| 20:26 | 11:38 | black hole with accretion disc |
+| 22:07–22:51 | 13:11–13:54 | THE MOTHERSHIP: bursts out of a slanted rift (22:07–22:08), ORBITAL LASER 22:17–22:20, LAST STAND 22:32–22:35, red laser lanes 22:38–22:50 (ship small on screen) |
+| 24:27–24:47 | 15:05–15:19 | Saturn + ring of orbs, THE DARK CLOSES IN · PHASE 11, combo 4.4k–5k |
+| 25:29–26:54 | 15:59–17:13 | quasar bursts, combo 6.8k → 10k |
+| 27:53–28:16 | 18:01–18:08 | BLOOD MOON (whole screen red), combo 13k–14k (28:03–28:12 cards) |
+| 28:57–29:08 | 18:44–18:53 | orb storm, combo 16k |
+| 29:09–29:47 | 18:53–19:29 | TITAN THE OBSERVER: banner 29:09, red tentacled eye 29:12–29:13 / 29:30–29:33, teleport (white ghost) 29:14–29:16, SPLIT GAZE 29:20–29:22, TRIPLE PUPIL 29:36–29:38, RED LIGHTHOUSE 29:39–29:42, kill flash 29:47 |
+| 29:48–30:22 | 19:30–19:56 | PHASE 16, final horde, combo 17k → 18.4k (30:19.8 cards) |
+
 ## Engine renders (cloud)
 - /root/build/dev/rb_gore (one-tap explosion, portrait), rb_robots, mv0/mv1/mv3 hero clips, st_oko_*/st_zrout_* Observer & Star Devourer stills, hero_*_t_* hero portraits.
 
@@ -89,6 +119,8 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 - REC C (reel 6 "7 DISASTERS"): 393.0–394.8 (+ cover 393.8), 145.0–146.5, 226.0–227.5, 389.0–390.5, 680.0–681.5, 925.0–926.5, 1150.0–1151.5, 1648.8–1652.0
 - REC C (reel 7 "COMBO 0 → 32,000"): 1680.0–1681.6 (+ cover 1681.0), 50.5–52.1 (+ cover 51.0), 738.6–740.0, 1082.0–1083.4, 1450.0–1451.4, 1495.0–1496.4, 1674.6–1677.6
 - REC C level-up cards (avoid): 151, 704, 916, 1163, 1677.9–1679.6; desktop after 1690; taskbar ~1078
+- REC D (reel 8 "THE OBSERVER"): 1749.3–1750.9, 1754.2–1755.6, 1760.2–1761.7, 1770.8–1772.7 (+ cover 1771.3), 1776.2–1777.7, 1779.6–1781.4, 1786.6–1787.9, 1792.3–1795.5
+- REC D (reel 9 "A STAR'S LIFE"): 540.5–542.2, 584.2–585.9, 590.0–591.8 (+ cover 590.5), 613.6–616.2, 617.0–618.6, 642.0–643.6, 686.0–687.8 (+ cover 687.0), 690.0–692.6
 - Engine: rb_gore 1–130 (EP5)
 - REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN."); 787–791, 794.5–801.5, 802.3–808.6, 864.3–871.3 (short horde_01 "THEY CAME FROM EVERYWHERE")
 

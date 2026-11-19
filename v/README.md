@@ -24,3 +24,5 @@ Profily: [TikTok](https://www.tiktok.com/@void.survivors) · [Instagram](https:/
 | 16. 11. 18:00 | REEL 5 – Minute 1 vs Minute 20 | [2026-11-16_REEL05_minute-1-vs-20.mp4](2026-11-16_REEL05_minute-1-vs-20.mp4) | [YouTube](https://www.youtube.com/shorts/UQbBkuo27qA) · [Instagram](https://www.instagram.com/reel/Dfz2ipLiaS4/) · TikTok nevyšel (limit Metricoolu) – Daniel nahraje ručně |
 | 17. 11. 18:00 | REEL 6 – 7 Disasters. 1 Run. | [2026-11-17_REEL06_7-disasters.mp4](2026-11-17_REEL06_7-disasters.mp4) | nevyšlo (limit Metricoolu) – Daniel nahraje ručně |
 | 18. 11. 18:00 | REEL 7 – Combo 0 → 32,000 | [2026-11-18_REEL07_combo-0-to-32000.mp4](2026-11-18_REEL07_combo-0-to-32000.mp4) | nevyšlo (limit Metricoolu) – Daniel nahraje ručně |
+| 21. 11. (plán) | REEL 8 – The Observer (hlas Kaie) | [2026-11-21_REEL08_the-observer.mp4](2026-11-21_REEL08_the-observer.mp4) | připraveno – Daniel nahraje ručně (limit Metricoolu) |
+| 22. 11. (plán) | REEL 9 – A Star's Whole Life (hlas Kaie) | [2026-11-22_REEL09_a-stars-life.mp4](2026-11-22_REEL09_a-stars-life.mp4) | připraveno – Daniel nahraje ručně (limit Metricoolu) |
