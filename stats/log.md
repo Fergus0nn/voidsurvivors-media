@@ -354,3 +354,35 @@ YouTube channel daily views: 11-14 197 · 11-15 235 · 11-16 158 · 11-17 23 (11
 Followers: TikTok 204 (Δ 0), Instagram 5 (gained 0 / lost 0 on 11-20), YouTube 3 (Δ 0). **Total follower change since start: +6** (since last log: 0).
 
 Scheduled ahead (autoPublish=true, 3 separate posts, covers unchanged): Sat 11-21 18:00 REEL 9 "A Star's Whole Life" (TT 433667391 cover 1500 ms / IG 433667409 custom cover / YT 433667423 no thumbnail). Nothing after 11-21 (REEL 10/11 made, waiting for Daniel's OK). No changes made today. **Only 1 future day left → new reels needed from Sun 11-22.**
+
+## 2026-11-21 (run 21:42 CET)
+Metricool timestamps are UTC → converted to CET. Today's posts went out on time, **no ERROR anywhere**:
+- REEL 9 "A Star's Whole Life" **18:00** on TikTok ([link](https://www.tiktok.com/@void.survivors/video/7710672434290019617)), Instagram ([link](https://www.instagram.com/reel/DgAur9GD0zx/)), YouTube ([Short](https://www.youtube.com/shorts/_GDLc8A7gLg)) – all PUBLISHED (not in analytics yet, ~3.7 h).
+- **TikTok REEL 6 "7 Disasters. 1 Run." got a second wave: 261 → 1,619 views** – the best TikTok post of the account so far (old max EP 1 815).
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. Older TT/IG posts (EP 1 – REEL 5 IG) unchanged → stalled, not repeated.
+
+| Network | Post | Style | Age | Views | Δ vs 11-20 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | REEL Survive 20 min / 3 Bosses / REEL 4 | Kai, auto | – | 743 / 750 / 248 | 0 | 4 / 3 / 1 | 0 | 0 | – | 693 / 687 / 231 | 2.4 / 2.2 / 2.3 s | – | final |
+| TikTok | REEL 7 Combo 0 → 32,000 | Kai voice, auto, 02:05 | ~68.6 h | 275 | 0 | 3 | 0 | 0 | – | 275 | 3.2 s (878 s) | – | final |
+| TikTok | **REEL 6 7 Disasters** ([link](https://www.tiktok.com/@void.survivors/video/7709930073863752992)) | Kai voice, auto, 1/7…7/7 list | ~51.6 h | **1,619** | **+1,358** | **15** | 0 | 0 | – | 251 (not fully synced) | 3.0 s (4,861 s) | – | **best TT post ever**; 99.6 % For You; like rate 0.93 % (Kai range 0.1–0.5 %) |
+| TikTok | REEL 5 Minute 1 vs 20 (TikTok-only repost **10:00**) | Kai voice, auto | ~35.6 h | 217 | new | 5 | 0 | 0 | – | 0 (not synced) | 2.3 s (493 s) | – | 98 % For You; 2nd real 10:00 TT post – weak like EP 2 |
+| TikTok | REEL 8 The Observer | Kai voice, auto, cover 400 ms | ~27.5 h | 224 | new | 3 | 0 | 0 | – | 0 (not synced) | 2.4 s (533 s) | – | 99.2 % For You |
+| TikTok | REEL 9 A Star's Whole Life | Kai voice, auto | ~3.7 h | n/a | – | – | – | – | – | – | – | – | published, not synced |
+| Instagram | REEL 7 Combo 0 → 32,000 | Kai voice, auto | ~68.6 h | 149 | 0 | 5 | 0 | 0 | 0 | 121 | 3.6 s | 27.9 % / 72.1 % | final |
+| Instagram | REEL 6 7 Disasters ([link](https://www.instagram.com/reel/Df7lnh_pY4l/)) | Kai voice, auto | ~51.6 h | 119 | **+66** | 4 | 0 | 0 | 0 | 98 | **5.1 s** | 30.2 % / 69.8 % | caught up on day 2; **best Kai-style IG avg watch** (prev. 3.7 s) |
+| Instagram | REEL 8 The Observer ([link](https://www.instagram.com/reel/Df-Kc_sleXu/)) | Kai voice, auto, custom cover | ~27.5 h | 129 | new | 1 | 0 | 0 | 0 | 111 | 3.2 s | 29.7 % / 70.3 % | good day 1 (normal 78–113 reach) |
+| Instagram | REEL 9 A Star's Whole Life | Kai voice, auto | ~3.7 h | n/a | – | – | – | – | – | – | – | – | published, not synced |
+| YouTube | EP 1 / EP 2 / EP 3 | stickman | 13–15 days | 1155 / 1127 / 1101 | 0 | 8 / 7 / 6 | 3 / 2 / 0 | 0 | – | – | 7 / 5 / 4 s | – | stalled |
+| YouTube | REEL Combo / EP 4 / EP 5 / EP 6 / EP 7 | Kai | 9–12 days | 298 / 124 / 182 / 170 / 83 | 0 | 1 / 1 / 1 / 4 / 1 | 1 / 1 / 1 / 1 / 0 | 0 | – | – | 2 / 3 / 2 / 4 / 2 s | – | stalled |
+| YouTube | Survive 20 min / 3 Bosses / REEL 4 / REEL 5 | Kai, auto | 5–8 days | 128 / 145 / 268 / 142 | 0 / +3 / +1 / 0 | 1 / 1 / 1 / 2 | 1 / 0 / 0 / 0 | 0 | – | – | 3 / 2 / 2 / 2 s | – | stalled |
+| YouTube | REEL 7 Combo 0 → 32,000 | Kai voice, auto | ~68.6 h | 31 | +13 | 0 | 0 | 0 | – | – | 1 s | – | weakest YT Short |
+| YouTube | REEL 6 7 Disasters ([Short](https://www.youtube.com/shorts/xtajx0_4lg8)) | Kai voice, auto | ~51.6 h | 68 | first data | 0 | 0 | 0 | – | – | 3 s | – | |
+| YouTube | REEL 8 / REEL 9 | Kai voice, auto | – | n/a | – | – | – | – | – | – | – | – | not listed yet |
+
+YouTube channel daily views: 11-16 158 · 11-17 23 · 11-18 45 (11-19+ not synced). TikTok account daily views (TKEV12): 11-17 2 · 11-18 1 · **11-19 589** (11-20+ not synced); profile views 11-19: 1.
+
+Followers: TikTok 204 (Δ 0 on 11-20), Instagram 5 (gained 0 / lost 0 on 11-21), YouTube 3 (gained 0 / lost 0 on 11-18, later days not synced). **Total follower change since start: +6** (since last log: 0) – the 1,619-view TikTok wave brought 0 followers.
+
+Scheduled ahead: **nothing after today** (getScheduledPosts 11-20 … 12-05 shows only the published 11-20/11-21 posts). No changes made today. **0 future days left → new reels needed from Sun 11-22** (REEL 10 "The Mothership" and REEL 11 "Lights Out" are made and waiting for Daniel's OK to schedule).
