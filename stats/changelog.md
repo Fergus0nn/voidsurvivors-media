@@ -7,7 +7,12 @@ Pravidla:
 - Nikdy nezmiňovat AI. Nepsat, že je hra zdarma.
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
-## Unreleased (Update #2 – pátek 20. 11. 2026)
+## Unreleased (Update #3 – pátek 27. 11. 2026)
+Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already in the works“ – až budou v novém demu (v1.5.4+), oznámit je pořádně:
+- The Observer: three new special attacks (Tentacles from the Deep, Lash, Gaze of the Void) + creepier look (tentacles, twitching pupil, eyelid, slime, bloodshot weeping eye).
+- The Mothership moves like a real UFO (darts, stops dead, phases out) + glow-up (hull lamps, rainbow metal, scan line, engine flares, afterimages).
+
+## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
 Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky; Visuals: obíhající světla, duhový kov, dozvuky). V demu v1.5.3 loď ještě krouží přídí napřed.
 
