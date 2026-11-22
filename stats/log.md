@@ -386,3 +386,26 @@ YouTube channel daily views: 11-16 158 · 11-17 23 · 11-18 45 (11-19+ not synce
 Followers: TikTok 204 (Δ 0 on 11-20), Instagram 5 (gained 0 / lost 0 on 11-21), YouTube 3 (gained 0 / lost 0 on 11-18, later days not synced). **Total follower change since start: +6** (since last log: 0) – the 1,619-view TikTok wave brought 0 followers.
 
 Scheduled ahead: **nothing after today** (getScheduledPosts 11-20 … 12-05 shows only the published 11-20/11-21 posts). No changes made today. **0 future days left → new reels needed from Sun 11-22** (REEL 10 "The Mothership" and REEL 11 "Lights Out" are made and waiting for Daniel's OK to schedule).
+
+## 2026-11-22 (run 21:43 CET)
+Metricool timestamps are UTC → converted to CET. **Nothing was published today** (planner empty from 11-22; REEL 10/11 made but not scheduled – waiting for Daniel's OK). No ERROR on any published post.
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. Posts not listed are unchanged vs 11-21 (stalled).
+
+| Network | Post | Style | Age | Views | Δ vs 11-21 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | REEL 6 7 Disasters | Kai voice, 1/7…7/7 list | ~75.6 h | 1,619 | 0 | 15 | 0 | 0 | – | 251 | 3.0 s | – | 2nd wave over, final |
+| TikTok | REEL 5 repost 10:00 / REEL 7 | Kai voice | ~60 h / ~93 h | 217 / 275 | 0 / 0 | 5 / 3 | 0 | 0 | – | – / 275 | 2.3 / 3.2 s | – | final |
+| TikTok | REEL 8 The Observer | Kai voice, cover 400 ms | ~51.5 h | 226 | +2 | 3 | 0 | 0 | – | 217 | 2.4 s | – | no 2nd wave |
+| TikTok | **REEL 9 A Star's Whole Life** ([link](https://www.tiktok.com/@void.survivors/video/7710672434290019617)) | Kai voice, 1/6…6/6 list, cover 1500 ms | ~27.6 h | **583** | new | 5 | 0 | 0 | – | 0 (not synced) | 2.4 s (1,414 s) | – | **best day-1 of all voice reels** (others 217–275 at same age); 99.8 % For You |
+| Instagram | REEL 8 The Observer | Kai voice | ~51.5 h | 130 | +1 | 1 | 0 | 0 | 0 | 112 | 3.2 s | 30.4 % / 69.6 % | stalled |
+| Instagram | REEL 9 A Star's Whole Life ([link](https://www.instagram.com/reel/DgAur9GD0zx/)) | Kai voice, custom cover | ~27.6 h | 112 | new | 2 | 0 | 0 | 0 | 97 | 3.0 s | 29.1 % / 70.9 % | normal day 1 |
+| Instagram | REEL 6 / REEL 7 | Kai voice | – | 119 / 149 | 0 | 4 / 5 | 0 | 0 | 0 | 99 / 121 | 5.1 / 3.6 s | 30.2 / 27.9 % | final |
+| YouTube | REEL 6 / REEL 7 / older | – | – | 68 / 31 / unchanged | 0 | 0 / 0 | 0 | 0 | – | – | 3 / 1 s | – | per-video YT not refreshed |
+| YouTube | REEL 8 / REEL 9 | Kai voice | – | n/a | – | – | – | – | – | – | – | – | not listed yet |
+
+TikTok account daily views (TKEV12): 11-18 1 · 11-19 589 · **11-20 1,982** (REEL 6 wave; best day of the account) · 11-21 not synced; profile views 11-19 1 · 11-20 2. YouTube channel daily views: 11-17 23 · 11-18 45 · 11-19 85 (11-20+ not synced).
+
+Followers: TikTok 204 (Δ 0 on 11-20), Instagram 5 (gained 0 / lost 0 on 11-22), YouTube 3 (Δ 0 on 11-19). **Total follower change since start: +6** (since last log: 0).
+
+Scheduled ahead: **nothing** (getScheduledPosts 11-21 … 12-06 shows only the published 11-21 posts). No changes made. **0 future days left – today (Sun 11-22) is the first day without a post since posting resumed; new reels are needed now** (REEL 10 "The Mothership" + REEL 11 "Lights Out" are ready and only need Daniel's OK to schedule).

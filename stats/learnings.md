@@ -202,6 +202,16 @@ Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug
 - Best-time (Sun 22 + Mon 23): TikTok Sun 10:00 816 vs 18:00 677, Mon 1089 vs 1096; IG Sun 10:00 2582 vs 18:00 2253, Mon 5528 vs 4206. Same weekly pattern; real TT data favour 18:00 → keep 18:00 for REEL 10/11.
 - No scheduled future posts → nothing changed. **Schedule is empty from Sun 11-22.**
 
+### 2026-11-22
+- No post went out today (schedule empty) → no new data point tomorrow; the 11-16…18 gap showed TikTok account views drop to ~0 within 1–2 days without posts.
+- **The numbered-list format repeats on TikTok (n = 2 of 2):** REEL 9 "A Star's Whole Life" (1/6…6/6) reached **583 views in ~27.6 h** – more than 2× every other voice reel at the same age (REEL 4/5/7/8: 217–275) and above REEL 6's own day 1 (261). Avg watch only 2.4 s (normal), 5 likes. So the push is not explained by hold; the list structure + a debatable closing question ("Which phase would you fight in?" / "Which one is the worst?") are the common factors. Still small n → keep testing, but **"N things in 1 run, 1/N…N/N" is now the strongest TikTok format candidate.** Check on 11-23/24 whether REEL 9 gets a REEL 6-style 2nd wave (REEL 6 went 261 → 1,619 on day 2).
+- REEL 6's wave is over: 1,619 final (0 change in 24 h). The wave showed up in account views as 589 (11-19) → **1,982 (11-20)** – the best day of the account – but still 0 new followers (profile views 2). Views-to-follow conversion remains ~0 → the follow reason (series / "part 2" / recurring character) is still the open problem.
+- REEL 8 "The Observer" (single-moment hook, no list) stopped at 226 on TikTok with no 2nd wave → single-moment reels stay at the ~220–275 level (n = 4 voice reels without a list).
+- Instagram does not react to the format the same way: REEL 9 IG 112 views / 97 reach / skip 70.9 % = normal day 1 (Kai range ~78–121 reach). IG reach stays flat ~100–120 per reel regardless of format (n = 9 auto reels).
+- YouTube per-video stats did not refresh (REEL 8/9 not listed) → no YT conclusions.
+- Best-time (Mon 23 + Tue 24): TikTok 10:00 1089 / 1136 vs 18:00 1096 / 1119 (equal); IG 10:00 5528 / 4942 vs 18:00 4206 / 4788 (Mon +31 %, Tue +3 %). Real TT data (both 10:00 posts weak) favour **18:00 as the default** for the next batch.
+- Followers: no change (TT 204, IG 5, YT 3; +6 since 11-06). Nothing scheduled → no edits made.
+
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
 - Zdroj: stats/changelog.md, sekce Unreleased. Každou změnu ve hře hned zapsat do changelogu.
