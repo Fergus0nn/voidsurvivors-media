@@ -4,7 +4,7 @@ Usage: python3 make_cover.py cover.json
 cover.json:
 {"out": "v/2026-11-16_REEL05_minute-1-vs-20_cover.jpg",
  "layout": "split",                              # "single" = one frame, "split" = before (top) / after (bottom)
- "frames": [{"src": "rec/hra2.mp4", "t": 88.0}, {"src": "rec/hra.mp4", "t": 562.8}],
+ "frames": [{"src": "rec/hra2.mp4", "t": 88.0}, {"src": "rec/hra.mp4", "t": 562.8, "focus": [640, 300]}],   # focus = optional [x, y] to centre on
  "title": [["MINUTE 1", "#5ad8ff"], ["VS", "#ffffff"], ["MINUTE 20", "#ff3b4f"]],
  "tag": "VOID SURVIVORS"}
 Rules: max 3 short words per line, text inside the middle square (y 420–1500) so it survives the 1:1 / 4:5 grid crop,
@@ -35,10 +35,13 @@ def grab(src, t):
     return im
 
 
-def cover_fit(im, w, h, zoom=1.0):
+def cover_fit(im, w, h, zoom=1.0, focus=None):
+    """Scale to cover w x h; focus = [x, y] in source pixels to centre on (default: frame centre)."""
     s = max(w / im.width, h / im.height) * zoom
+    fx, fy = (focus if focus else (im.width / 2, im.height / 2))
     im = im.resize((int(im.width * s + 0.5), int(im.height * s + 0.5)), Image.LANCZOS)
-    x, y = (im.width - w) // 2, (im.height - h) // 2
+    x = int(min(max(fx * s - w / 2, 0), im.width - w))
+    y = int(min(max(fy * s - h / 2, 0), im.height - h))
     return im.crop((x, y, x + w, y + h))
 
 
@@ -56,13 +59,13 @@ def main(p):
     c = json.load(open(p, encoding="utf-8"))
     fr = [grab(f["src"], f["t"]) for f in c["frames"]]
     if c.get("layout") == "split" and len(fr) >= 2:
-        top = ImageEnhance.Brightness(cover_fit(fr[0], W, H // 2, 1.25)).enhance(0.85)
-        bot = ImageEnhance.Brightness(cover_fit(fr[1], W, H // 2, 1.25)).enhance(1.05)
+        top = ImageEnhance.Brightness(cover_fit(fr[0], W, H // 2, 1.25, c["frames"][0].get("focus"))).enhance(0.85)
+        bot = ImageEnhance.Brightness(cover_fit(fr[1], W, H // 2, 1.25, c["frames"][1].get("focus"))).enhance(1.05)
         img = Image.new("RGB", (W, H))
         img.paste(top, (0, 0))
         img.paste(bot, (0, H // 2))
     else:
-        img = ImageEnhance.Brightness(cover_fit(fr[0], W, H, 1.15)).enhance(0.9)
+        img = ImageEnhance.Brightness(cover_fit(fr[0], W, H, 1.15, c["frames"][0].get("focus"))).enhance(0.9)
     img = img.convert("RGBA")
     # dark band behind the title, centred
     lines = c["title"]

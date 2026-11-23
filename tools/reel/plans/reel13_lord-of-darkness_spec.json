@@ -1,0 +1,24 @@
+{
+ "shots": [
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 835.0, "dur": 2.0, "cx": 200,
+   "label": "MINUTE 5", "big": "LORD OF DARKNESS", "color": "#ff3b4f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 897.4, "dur": 1.6, "cx": 330,
+   "label": "", "big": "HE HUNTS YOU", "color": "#ffffff"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 837.2, "dur": 1.5, "cx": 288,
+   "label": "", "big": "RINGS OF FIRE", "color": "#ff7a2f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 966.3, "dur": 1.5, "cx": 560,
+   "label": "", "big": "THEN HUNDREDS", "color": "#ff3b4f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 967.75, "dur": 1.4, "speed": 0.5, "cx": 400,
+   "label": "SLOW MOTION", "big": "HE CHARGES", "color": "#ff3b4f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 968.45, "dur": 3.6, "freeze": true, "push": 0.10, "cx": 400,
+   "label": "", "big": ""}
+ ],
+ "masks": [[28, 86, 236, 28]],
+ "end_text": [["WHERE DO", "#ffffff"], ["YOU GO?", "#ff3b4f"]],
+ "end_at": 8.0,
+ "kai": [
+  {"t0": 0.0, "t1": 2.0, "expr": "surprised", "text": "Minute 5. The Lord of Darkness."},
+  {"t0": 8.0, "t1": 11.6, "expr": "smirk", "text": "Where do you go?"}
+ ],
+ "_note": "REC D boss LORD OF DARKNESS (rec 13:35-16:08, game 05:39-07:58). Spotify popup 13:59-14:02 (839-842) NEVER. Red lane telegraph from 967.75, boss moves along it toward the player; part 34 not staged so the clip ends at 968.5 -> freeze-frame cliffhanger."
+}

@@ -10,6 +10,7 @@ spec.json:
  # optional "bar": fraction or [from, to] for the progress bar under the title; "cx": crop x (0–576, default 288 = centre)
  # optional "speed": 0.5 = slow motion (the shot lasts "dur" seconds but uses only dur*speed seconds of the recording;
  #   60 fps recordings stay smooth down to 0.5, below that frames repeat)
+ # optional "freeze": true = hold the frame at "ss" for the whole shot (cliffhanger ending); "push": 0.08 = slow zoom-in
  "kai": [{"t0": 0.1, "t1": 1.5, "expr": "smirk", "text": "This is the last minute."}, ...]
 }
 Layout (1080x1920): blurred gameplay background, square gameplay zoom (centre 704x704 of the 1280x720 recording) at y=470,
@@ -60,12 +61,20 @@ def main(spec_p, out):
                    f"[mb{j}][mm{j}]overlay={mx}:{my}[mo{j}];")
             src_lbl = f"[mo{j}]"
         spd = float(s.get("speed", 1.0))
-        fc = (f"[0:v]setpts=(PTS-STARTPTS)/{spd},fps=30,split[a][b];"
+        push = float(s.get("push", 0.0))   # slow zoom-in over the whole shot, e.g. 0.08 = +8 % by the end
+        if s.get("freeze"):                # hold the frame at "ss" for the whole shot (freeze-frame ending)
+            head = f"[0:v]trim=end_frame=1,loop=loop={int(s['dur'] * FPS) + 2}:size=1:start=0,setpts=N/{FPS}/TB,split[a][b];"
+            read = "0.5"
+        else:
+            head = f"[0:v]setpts=(PTS-STARTPTS)/{spd},fps=30,split[a][b];"
+            read = f"{s['dur'] * spd + 0.05:.3f}"
+        fc = (head +
               "[a]scale=-2:1920,crop=1080:1920,boxblur=22:2,eq=brightness=-0.30:saturation=1.15[bg];" + mk +
-              src_lbl + "crop=704:704:" + str(s.get("cx", 288)) + ":4,scale=w='1080*(1+0.07*max(0,1-t/0.28))':h=-2:eval=frame,"
+              src_lbl + "crop=704:704:" + str(s.get("cx", 288)) + ":4,"
+              f"scale=w='1080*(1+0.07*max(0,1-t/0.28)+{push}*t/{s['dur']})':h=-2:eval=frame,"
               "crop=1080:1080[fg];"
               f"[bg][fg]overlay=0:{FG_Y}[v]")
-        run(["ffmpeg", "-v", "error", "-y", "-ss", str(s["ss"]), "-t", f"{s['dur'] * spd + 0.05:.3f}", "-i", s["src"],
+        run(["ffmpeg", "-v", "error", "-y", "-ss", str(s["ss"]), "-t", read, "-i", s["src"],
              "-filter_complex", fc, "-map", "[v]", "-an", "-t", str(s["dur"]), "-r", "30", "-c:v", "libx264", "-preset", "veryfast",
              "-crf", "16", "-pix_fmt", "yuv420p", p])
         segs.append(p)
