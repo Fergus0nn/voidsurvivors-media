@@ -17,13 +17,13 @@ Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: 
 ### 🌑 Gameplay
 - The Mothership now flies like a fighter jet: always nose-first, banking hard into its turns as it circles you at high speed. Every few seconds it peels away, swings round and screams past right beside you. It only hurts you with its shots and with attacks marked on the ground.
 - The Mothership fires on the move: aimed side salvos that lead your movement, spinning laser spirals and double or triple rings of lasers, each ring turned into the gaps of the last.
-- Mothership attacks got nastier: the ram is now a series of strafing runs (it turns its nose on you, a red lane lights up, it blasts down it spraying lasers out to both sides, then loops back for more), the bombing run is a real flyover that drops a line of bombs exactly where it passes, and from phase 2 its crash landing also sends out a ring of lasers.
+- Mothership attacks got nastier: the ram is now a series of strafing runs (it turns its nose on you, a red lane lights up, it blasts down it spraying lasers out to both sides, then loops back for more), the bombing run is a real flyover that drops a line of bombs exactly where it passes (twice from phase 2), and from phase 2 its crash landing also sends out a ring of lasers.
 - New Mothership attack – Encirclement: it whips around you in a tight circle, drops a ring of bombs with one gap, then strikes the centre. Get out through the gap!
 - New Mothership attack – Cloak: the ship fades out until only a faint ripple in the air betrays it, stalks around you unseen, then a red circle marks the ground under you and it decloaks right above you and strikes. From phase 2 it strikes twice in a row.
-- Mothership Last Stand: no more tractor beam – it goes berserk instead, flying faster, firing more often and hitting harder.
+- Mothership Last Stand: no more tractor beam – it goes berserk instead, flying faster, firing and attacking more often.
 
 ### 🎨 Visuals
-- Brand-new Mothership: a huge alien manta ship of battered dark armour plates with cracks, worn bronze edges and blazing violet light strips along its wings and spine. Pulses of light run through the strips, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wings in every turn, and it leaves violet ghostly afterimages when it speeds past.
+- Brand-new Mothership: a huge alien manta ship of battered dark armour plates with cracks, worn bronze edges and blazing violet light strips along its wings and spine. Pulses of light run through the strips, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wingtips, and it leaves violet ghostly afterimages when it speeds past.
 - The odd beam of light under the Mothership is gone.
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
