@@ -1,0 +1,24 @@
+{
+ "shots": [
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1185.0, "dur": 1.95, "cx": 220,
+   "label": "MINUTE 11", "big": "ROBOT SPIDERS", "color": "#ff3b4f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1184.85, "dur": 1.5, "speed": 0.5, "cx": 150,
+   "label": "SLOW MOTION", "big": "IT REARS UP", "bar": [0.0, 0.25]},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1185.6, "dur": 1.5, "speed": 0.4, "cx": 200,
+   "label": "SLOW MOTION", "big": "MORE PILE ON", "bar": [0.25, 0.5]},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1186.2, "dur": 1.6, "speed": 0.25, "cx": 288,
+   "label": "SLOW MOTION", "big": "ONE BLAST", "color": "#ffd23f", "bar": [0.5, 0.77]},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1186.6, "dur": 1.4, "speed": 0.25, "cx": 288,
+   "label": "SLOW MOTION", "big": "RED-HOT SCRAP", "color": "#ff7a2f", "bar": [0.77, 1.0]},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1386.0, "dur": 4.0, "cx": 288,
+   "label": "3 MINUTES LATER", "big": "DOZENS", "color": "#ff3b4f"}
+ ],
+ "masks": [[28, 86, 236, 28]],
+ "end_text": [["FIGHT", "#ffffff"], ["OR RUN?", "#ff3b4f"]],
+ "end_at": 10.0,
+ "kai": [
+  {"t0": 0.0, "t1": 1.95, "expr": "surprised", "text": "Minute 11. Robot spiders."},
+  {"t0": 10.0, "t1": 11.95, "expr": "smirk", "text": "Fight or run?"}
+ ],
+ "_note": "REC D (Desktop\\nahrávky ze hry\\2026-11-18 13-02-45.mp4), sparse copy. New robots (18. 11. build): spiders rear up 1184.9–1185.6, swarm 1185.6–1186.2, blast onset 1186.22, red-hot scrap 1186.5–1186.95 (PROTOSTAR banner from ~1186.95 – keep out). End shot = 23:06 rec (game 14:06), dozens of robots + white beam."
+}

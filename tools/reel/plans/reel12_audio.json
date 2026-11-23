@@ -1,0 +1,25 @@
+{
+ "video": "/root/build/rec1118/out/reel12_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-25_REEL12_robot-spiders.mp4",
+ "work": "/root/build/rec1118/out/audio12",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra_boj.ogg",
+ "music_start": 20.0,
+ "bed_lufs": -16, "duck_db": 4, "target": -14, "fade_out": 1.0,
+ "accents": [
+  [0.0, "udalost", -4, 1.6],
+  [0.9, "robot_smrt_1", -5, 0.9],
+  [1.95, "vakuum", -5, 1.4],
+  [3.45, "robot_smrt_0", -6, 0.9],
+  [4.95, "lod_vybuch", 0, 1.8],
+  [6.55, "robot_smrt_2", -3, 0.9],
+  [7.0, "robot_smrt_1", -5, 0.9],
+  [7.95, "zlata_horda", -6, 1.6],
+  [10.0, "udalost_konec", -4, 1.9]
+ ],
+ "action": [[0.0, 1.95], [7.95, 11.95]],
+ "action_db": -14,
+ "seed": 112,
+ "voice": "/root/build/rec1118/voice/reel12/voice.json",
+ "voice_lufs": -15, "voice_duck_db": 8, "voice_duck_sfx_db": 4
+}

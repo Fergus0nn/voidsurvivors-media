@@ -10,7 +10,7 @@ spec = json.load(open(sys.argv[1]))
 items = spec.get("shots") or spec.get("frames")
 ok = True
 for s in items:
-    ss = s.get("ss", s.get("t")); dur = s.get("dur", 0.05)
+    ss = s.get("ss", s.get("t")); dur = s.get("dur", 0.05) * s.get("speed", 1.0)   # slow-mo shots read less source
     i = bisect.bisect_right(kft, ss) - 1
     k0 = kf[i]
     lo = bisect.bisect_left(pkt, k0[0]); hi = bisect.bisect_right(pkt, ss + dur + 0.1)

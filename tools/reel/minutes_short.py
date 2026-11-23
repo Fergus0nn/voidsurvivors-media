@@ -8,6 +8,8 @@ spec.json:
  "end_at": 12.1,     # optional: absolute time when end_text replaces the last shot's top text
  # per shot instead of "clock": "counter": [from, to] (+ "suffix": "×", "color") or "big": "SOLAR FLARE" (+ "color");
  # optional "bar": fraction or [from, to] for the progress bar under the title; "cx": crop x (0–576, default 288 = centre)
+ # optional "speed": 0.5 = slow motion (the shot lasts "dur" seconds but uses only dur*speed seconds of the recording;
+ #   60 fps recordings stay smooth down to 0.5, below that frames repeat)
  "kai": [{"t0": 0.1, "t1": 1.5, "expr": "smirk", "text": "This is the last minute."}, ...]
 }
 Layout (1080x1920): blurred gameplay background, square gameplay zoom (centre 704x704 of the 1280x720 recording) at y=470,
@@ -57,13 +59,14 @@ def main(spec_p, out):
             mk += (f"{src_lbl}split[mb{j}][mc{j}];[mc{j}]crop={mw}:{mh}:{mx}:{my},boxblur=7:2[mm{j}];"
                    f"[mb{j}][mm{j}]overlay={mx}:{my}[mo{j}];")
             src_lbl = f"[mo{j}]"
-        fc = ("[0:v]fps=30,split[a][b];"
+        spd = float(s.get("speed", 1.0))
+        fc = (f"[0:v]setpts=(PTS-STARTPTS)/{spd},fps=30,split[a][b];"
               "[a]scale=-2:1920,crop=1080:1920,boxblur=22:2,eq=brightness=-0.30:saturation=1.15[bg];" + mk +
               src_lbl + "crop=704:704:" + str(s.get("cx", 288)) + ":4,scale=w='1080*(1+0.07*max(0,1-t/0.28))':h=-2:eval=frame,"
               "crop=1080:1080[fg];"
               f"[bg][fg]overlay=0:{FG_Y}[v]")
-        run(["ffmpeg", "-v", "error", "-y", "-ss", str(s["ss"]), "-t", str(s["dur"]), "-i", s["src"],
-             "-filter_complex", fc, "-map", "[v]", "-an", "-r", "30", "-c:v", "libx264", "-preset", "veryfast",
+        run(["ffmpeg", "-v", "error", "-y", "-ss", str(s["ss"]), "-t", f"{s['dur'] * spd + 0.05:.3f}", "-i", s["src"],
+             "-filter_complex", fc, "-map", "[v]", "-an", "-t", str(s["dur"]), "-r", "30", "-c:v", "libx264", "-preset", "veryfast",
              "-crf", "16", "-pix_fmt", "yuv420p", p])
         segs.append(p)
     lst = f"{work}/list.txt"
