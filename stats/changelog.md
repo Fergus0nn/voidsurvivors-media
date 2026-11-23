@@ -45,7 +45,7 @@ Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba b
 - The Mothership got engine flames and jaws that open when it releases a swarm, and it visibly falls apart as you tear it down. Robot explosions are now red instead of green.
 - The invasion gate is no longer a green hexagon. Space now cracks and tears open into a burning red rift – and the robots fly out of it instead of just appearing.
 - The Robot Invasion and Mothership warnings now glow red to match the robots.
-- Brand-new Mothership: a huge black alien manta ship with glowing violet veins. Pulses of light run through the veins (faster when it darts), its dark metal shimmers with an oily rainbow sheen, and it leaves violet ghostly afterimages behind.
+- Brand-new Mothership: a huge black alien manta ship with glowing violet veins. Pulses of light run through the veins (faster when it darts), its plated dark metal shimmers with an oily rainbow sheen, its engine flares and spits a longer flame when it darts, strobe lights blink on its wingtips, a hangar glows in its belly, and it leaves violet ghostly afterimages behind.
 - Spiders and Laser Wardens no longer run across empty space – they fly on thrusters, legs trailing behind them.
 - Enemies dragged into the Black Hole are now spaghettified – they stretch into glowing threads as they fall in. Shadows near the hole no longer vanish in the glare of its disc.
 - The Observer is far creepier: long tentacles writhe around it and reach for you, its slit pupil twitches as it tracks you, its eyelid flinches, its flesh glistens with slime and a dark aura hangs behind it. In later phases the eye goes bloodshot and weeps blood. It now turns toward you, so you can actually look it in the eye.
