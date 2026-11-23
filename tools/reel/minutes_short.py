@@ -6,7 +6,7 @@ spec.json:
  "shots": [{"src": "/root/build/rec/hra.mp4", "ss": 562.0, "dur": 1.6, "clock": "19:49", "label": "LAST MINUTE"}, ...],
  "end_text": [["WHICH MINUTE", "#ffffff"], ["ENDS YOU?", "#ff3b4f"]],   # top text on the last shot (optional)
  "end_at": 12.1,     # optional: absolute time when end_text replaces the last shot's top text
- # per shot instead of "clock": "counter": [from, to] (+ "suffix": "×", "color") or "big": "SOLAR FLARE" (+ "color");
+ # per shot instead of "clock": "counter": [from, to] (+ "prefix": "+", "suffix": "×", "color") or "big": "SOLAR FLARE" (+ "color");
  # optional "bar": fraction or [from, to] for the progress bar under the title; "cx": crop x (0–576, default 288 = centre)
  # optional "speed": 0.5 = slow motion (the shot lasts "dur" seconds but uses only dur*speed seconds of the recording;
  #   60 fps recordings stay smooth down to 0.5, below that frames repeat)
@@ -112,7 +112,7 @@ def main(spec_p, out):
             c0, c1 = s["counter"]
             val = int(round(c0 + (c1 - c0) * frac))
             col = tuple(int(x) for x in bytes.fromhex(s.get("color", "#ff4070")[1:])) + (255,)
-            main_txt = f"{val:,}{s.get('suffix', '')}"
+            main_txt = f"{s.get('prefix', '')}{val:,}{s.get('suffix', '')}"
         else:                                 # plain big title, e.g. "SOLAR FLARE"
             col = tuple(int(x) for x in bytes.fromhex(s.get("color", "#ffffff")[1:])) + (255,)
             main_txt = s.get("big", "")

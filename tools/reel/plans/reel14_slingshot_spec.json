@@ -1,0 +1,129 @@
+{
+ "shots": [
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1596.2,
+   "dur": 1.8,
+   "cx": 330,
+   "label": "MINUTE 16",
+   "big": "A QUASAR",
+   "color": "#bfe6ff"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1598.0,
+   "dur": 1.6,
+   "cx": 288,
+   "label": "SLINGSHOT",
+   "counter": [
+    30,
+    56
+   ],
+   "prefix": "+",
+   "suffix": " %",
+   "color": "#ffd23f",
+   "bar": [
+    0.0,
+    0.2
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1606.5,
+   "dur": 1.5,
+   "cx": 288,
+   "label": "SLINGSHOT",
+   "counter": [
+    55,
+    101
+   ],
+   "prefix": "+",
+   "suffix": " %",
+   "color": "#ffd23f",
+   "bar": [
+    0.2,
+    0.55
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1608.0,
+   "dur": 1.6,
+   "cx": 288,
+   "label": "SLINGSHOT",
+   "counter": [
+    101,
+    131
+   ],
+   "prefix": "+",
+   "suffix": " %",
+   "color": "#ffb13f",
+   "bar": [
+    0.55,
+    0.78
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1613.0,
+   "dur": 1.0,
+   "cx": 288,
+   "label": "SLINGSHOT",
+   "counter": [
+    135,
+    160
+   ],
+   "prefix": "+",
+   "suffix": " %",
+   "color": "#ff7a2f",
+   "bar": [
+    0.78,
+    1.0
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1614.0,
+   "dur": 3.85,
+   "cx": 288,
+   "label": "MAX BOOST",
+   "big": "2.6× FASTER",
+   "color": "#ff3b4f",
+   "bar": 1.0
+  }
+ ],
+ "masks": [
+  [
+   28,
+   86,
+   236,
+   28
+  ]
+ ],
+ "end_text": [
+  [
+   "COULD YOU",
+   "#ffffff"
+  ],
+  [
+   "STEER THIS?",
+   "#ffd23f"
+  ]
+ ],
+ "end_at": 9.6,
+ "kai": [
+  {
+   "t0": 0.0,
+   "t1": 1.8,
+   "expr": "surprised",
+   "text": "Minute 16. A quasar."
+  },
+  {
+   "t0": 9.6,
+   "t1": 11.35,
+   "expr": "smirk",
+   "text": "Could you steer this?"
+  }
+ ],
+ "_note": "REC D quasar passes 26:36-26:58 (game 16:56-17:16). HUD 'SLINGSHOT +x%' read by OCR: 1598.0 +30, 1599.0 +56, 1606.5 +55, 1608.0 +101, 1609.5 +131, 1613.0 +135, 1614.0 +160 (cap = 2.6x). Part 66 usable to 1617.95."
+}

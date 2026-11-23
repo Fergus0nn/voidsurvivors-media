@@ -1,0 +1,68 @@
+{
+ "video": "/root/build/rec1118/out/reel14_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-27_REEL14_quasar-slingshot.mp4",
+ "work": "/root/build/rec1118/out/audio14",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra.ogg",
+ "music_start": 10.0,
+ "bed_lufs": -16,
+ "duck_db": 4,
+ "target": -14,
+ "fade_out": 1.0,
+ "accents": [
+  [
+   0.0,
+   "magnetar_puls",
+   -3,
+   1.8
+  ],
+  [
+   1.8,
+   "kometa",
+   -3,
+   1.5
+  ],
+  [
+   3.4,
+   "gravitacni_boure",
+   -5,
+   1.5
+  ],
+  [
+   4.9,
+   "kometa",
+   -4,
+   1.5
+  ],
+  [
+   6.5,
+   "kometa",
+   -3,
+   1.0
+  ],
+  [
+   7.5,
+   "rekord",
+   -3,
+   2.1
+  ],
+  [
+   9.6,
+   "udalost_konec",
+   -5,
+   1.6
+  ]
+ ],
+ "action": [
+  [
+   0.0,
+   11.35
+  ]
+ ],
+ "action_db": -15,
+ "seed": 114,
+ "voice": "/root/build/rec1118/voice/reel14/voice.json",
+ "voice_lufs": -15,
+ "voice_duck_db": 8,
+ "voice_duck_sfx_db": 4
+}

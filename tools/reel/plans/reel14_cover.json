@@ -1,0 +1,5 @@
+{"out": "v/2026-11-27_REEL14_quasar-slingshot_cover.jpg", "layout": "split",
+ "frames": [{"src": "/root/build/rec1118/rec1118_sparse.mp4", "t": 1598.2, "focus": [640, 330]},
+            {"src": "/root/build/rec1118/rec1118_sparse.mp4", "t": 1615.6, "focus": [640, 360]}],
+ "title": [["QUASAR", "#bfe6ff"], ["SLINGSHOT", "#ffd23f"]],
+ "tag": "VOID SURVIVORS"}

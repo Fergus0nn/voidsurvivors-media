@@ -1,0 +1,34 @@
+{
+ "voice": "am_michael",
+ "speed": 1.08,
+ "lines": [
+  [
+   0.0,
+   "Minute sixteen. A quasar."
+  ],
+  [
+   1.9,
+   "Fly past it,"
+  ],
+  [
+   3.45,
+   "and its gravity flings you."
+  ],
+  [
+   5.15,
+   "Again."
+  ],
+  [
+   6.6,
+   "Again!"
+  ],
+  [
+   7.65,
+   "Two point six times faster."
+  ],
+  [
+   9.7,
+   "Could you steer this?"
+  ]
+ ]
+}
