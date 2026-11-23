@@ -10,11 +10,25 @@ Pravidla:
 ## Unreleased (Update #3 – pátek 27. 11. 2026)
 Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already in the works“ – až budou v novém demu (v1.5.4+), oznámit je pořádně:
 - The Observer: three new special attacks (Tentacles from the Deep, Lash, Gaze of the Void) + creepier look (tentacles, twitching pupil, eyelid, slime, bloodshot weeping eye).
-- The Mothership moves like a real UFO (darts, stops dead, phases out) + glow-up (hull lamps, rainbow metal, scan line, engine flares, afterimages).
+- ~~The Mothership moves like a real UFO + glow-up~~ – nahrazeno: loď teď létá jako stíhačka a má nový vzhled, viz body o mateřské lodi níže.
+
+Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: nová loď a neviditelnost od 18.–19. 11., vzhled podle atlasu a let stíhačky od 23. 11.).
+
+### 🌑 Gameplay
+- The Mothership now flies like a fighter jet: always nose-first, banking hard into its turns as it circles you at high speed. Every few seconds it peels away, swings round and screams past right beside you. It only hurts you with its shots and with attacks marked on the ground.
+- The Mothership fires on the move: aimed side salvos that lead your movement, spinning laser spirals and double or triple rings of lasers, each ring turned into the gaps of the last.
+- Mothership attacks got nastier: the ram is now a series of strafing runs (it turns its nose on you, a red lane lights up, it blasts down it spraying lasers out to both sides, then loops back for more), the bombing run is a real flyover that drops a line of bombs exactly where it passes, and from phase 2 its crash landing also sends out a ring of lasers.
+- New Mothership attack – Encirclement: it whips around you in a tight circle, drops a ring of bombs with one gap, then strikes the centre. Get out through the gap!
+- New Mothership attack – Cloak: the ship fades out until only a faint ripple in the air betrays it, stalks around you unseen, then a red circle marks the ground under you and it decloaks right above you and strikes. From phase 2 it strikes twice in a row.
+- Mothership Last Stand: no more tractor beam – it goes berserk instead, flying faster, firing more often and hitting harder.
+
+### 🎨 Visuals
+- Brand-new Mothership: a huge alien manta ship of battered dark armour plates with cracks, worn bronze edges and blazing violet light strips along its wings and spine. Pulses of light run through the strips, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wings in every turn, and it leaves violet ghostly afterimages when it speeds past.
+- The odd beam of light under the Mothership is gone.
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
-Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky, nový útok Neviditelnost; Visuals: úplně nová loď – manta z otlučených plátů s bronzovými hranami a fialovými pruhy podle atlasu, dozvuky). V demu v1.5.3 je loď ještě bílý hranatý křižník a krouží přídí napřed.
+Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba body o Pozorovateli (Gameplay: tři nové útoky; Visuals: chapadla, zornice, víčko, aura) a oba body o mateřské lodi jako UFO (Gameplay: let jako UFO, fázové skoky; Visuals: obíhající světla, duhový kov, dozvuky). V demu v1.5.3 loď ještě krouží přídí napřed.
 
 ### 🐛 Fixes
 - Titan phase announcements (Leviathan, the Observer, the Star Devourer) now show in your language instead of Czech.
@@ -31,7 +45,6 @@ Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba b
 - The Dying Star now lives its whole life, over and over: a healing protostar, a blue supergiant that burns enemies, a swelling red supergiant that burns you too, an unstable star hurling flares into red circles – then the 9-second countdown, the supernova, and a glowing remnant full of crystals from which the next star is born. The edge-of-screen marker tells you which phase it is in.
 - The Observer has three new special attacks, each marked on the ground first: Tentacles from the Deep (rows of red circles race toward you and a tentacle bursts out of each one), Lash (it rears back one of its own tentacles and slams it down a red strip) and Gaze of the Void (the eye shuts, then a red wave rolls out from it – only the bright gaps are safe). It never uses the same special twice in a row.
 - The Mothership now moves like a real UFO: it hangs in place, then darts to a new spot with no inertia and stops dead, its hull rocking from the sudden halt. Sometimes it phases out in glitching slices and reappears somewhere else around you. It fires its laser salvos and launches swarms only once it has stopped, and it can't hurt you by touch mid-dart. In its last stand it calms down and drags you in with its beam.
-- New Mothership attack – Cloak: the ship fades out until only a faint ripple in the air betrays it, stalks around you unseen, then a red circle marks the ground under you and it decloaks right above you and strikes. Leave the circle!
 
 ### 🎨 Visuals
 - Robot invasion redesigned – the robots are now battered war machines: scorched bone-white armour with plates torn off, a black frame underneath and seams that glow red-hot.
@@ -45,7 +58,7 @@ Pozn. 2: NENÍ v demu v1.5.3 (jen ve zdrojové hře od 18. 11. odpoledne): oba b
 - The Mothership got engine flames and jaws that open when it releases a swarm, and it visibly falls apart as you tear it down. Robot explosions are now red instead of green.
 - The invasion gate is no longer a green hexagon. Space now cracks and tears open into a burning red rift – and the robots fly out of it instead of just appearing.
 - The Robot Invasion and Mothership warnings now glow red to match the robots.
-- Brand-new Mothership: a huge alien manta ship of battered dark armour plates with cracks, worn bronze edges and blazing violet light strips along its wings and spine. Pulses of light run through the strips (faster when it darts), its engine flares and spits a longer flame when it darts, strobe lights blink on its wingtips, a hangar glows in its belly, and it leaves violet ghostly afterimages behind.
+- Mothership glow-up: waves of light race around a ring of lamps along its hull, its alien metal shimmers with an oily rainbow sheen, a scan line sweeps the hull, its engines flare when it darts, and it leaves red ghostly afterimages behind.
 - Spiders and Laser Wardens no longer run across empty space – they fly on thrusters, legs trailing behind them.
 - Enemies dragged into the Black Hole are now spaghettified – they stretch into glowing threads as they fall in. Shadows near the hole no longer vanish in the glare of its disc.
 - The Observer is far creepier: long tentacles writhe around it and reach for you, its slit pupil twitches as it tracks you, its eyelid flinches, its flesh glistens with slime and a dark aura hangs behind it. In later phases the eye goes bloodshot and weeps blood. It now turns toward you, so you can actually look it in the eye.
