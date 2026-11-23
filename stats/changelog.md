@@ -23,7 +23,7 @@ Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: 
 - Mothership Last Stand: no more tractor beam – it goes berserk instead, flying faster, firing and attacking more often.
 
 ### 🎨 Visuals
-- Brand-new Mothership: a huge alien manta ship of battered dark armour plates with cracks, worn bronze edges and blazing violet light strips along its wings and spine. Pulses of light run through the strips, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wingtips, and it leaves violet ghostly afterimages when it speeds past.
+- Brand-new Mothership: a huge alien manta ship of dark brushed-metal armour plates with worn edges and rivets, catching the starlight as it banks. Violet light strips sit deep in grooves along its wings and spine with pulses of light flowing through them, the cockpit is a dome of black glass, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wingtips, and it leaves violet ghostly afterimages when it speeds past.
 - The odd beam of light under the Mothership is gone.
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
