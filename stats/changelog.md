@@ -15,6 +15,7 @@ Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already i
 Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: nová loď a neviditelnost od 18.–19. 11., vzhled podle atlasu a let stíhačky od 23. 11.).
 Pozn. 2: ani vylepšená grafika hrdinů (bod „Heroes glow-up“ ve Visuals, od 24. 11.) ani opravy překladů („MEZERNÍK“ a stromy/bestiář/obchod, Fixes, 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
 Pozn. 3: ani pevná tělesa (body „No more flying through space objects“ v Gameplay, od 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
+Pozn. 4: ani nový vzhled Seraphiela (bod „Seraphiel reborn“ ve Visuals, od 24. 11.) není v demu v1.5.3 – jen ve zdrojové hře.
 
 ### 🐛 Fixes
 - The dash key in the ability readout (top left) now shows in your language – e.g. "[SPACE]" instead of the Czech "[MEZERNÍK]".
@@ -41,6 +42,7 @@ Pozn. 3: ani pevná tělesa (body „No more flying through space objects“ v G
 - Brand-new Mothership: a huge alien manta ship of dark brushed-metal armour plates with worn edges and rivets, catching the starlight as it banks. Violet light strips sit deep in grooves along its wings and spine with pulses of light flowing through them, the cockpit is a dome of black glass, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wingtips, and it leaves violet ghostly afterimages when it speeds past.
 - The odd beam of light under the Mothership is gone.
 - Heroes glow-up: Seraphiel, the Lone Wanderer and Victor Hale now keep their true colours from every angle – no more fading into a dark smudge whenever they turn away from the starlight. They have more body from the side, their outlines stay crisp in the middle of the horde instead of shimmering, and a soft rim of light makes them easy to spot.
+- Seraphiel reborn: the fallen angel has a brand-new body – white armour cracked with glowing gold, a black battle suit, a hood and a long tattered cloak – and brand-new wings made of real layered feathers: long ivory flight feathers edged in gold, with gold veins that glow. The wings still fold, flare open, ripple and shed feathers as she flies, and her scythe sits in her hand as before.
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
