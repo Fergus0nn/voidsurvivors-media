@@ -1,0 +1,24 @@
+{
+ "video": "/root/build/rec1118/out/reel16_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-29_REEL16_black-hole.mp4",
+ "work": "/root/build/rec1118/out/audio16",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/hra.ogg",
+ "music_start": 40.0,
+ "bed_lufs": -16, "duck_db": 4, "target": -14, "fade_out": 1.0,
+ "music_dips": [[3.58, 8.65, -30, 0.15]],
+ "accents": [
+  [0.0, "cerna_dira", -3, 3.5],
+  [1.9, "vakuum", -5, 1.6],
+  [3.58, "portal", -3, 2.2],
+  [3.9, "prazdnota_septani", -8, 4.6],
+  [8.58, "nova", -1, 1.8],
+  [10.38, "udalost", -4, 1.8],
+  [12.2, "udalost_konec", -6, 1.4]
+ ],
+ "action": [[0.0, 3.58], [8.58, 13.68]],
+ "action_db": -14,
+ "seed": 116,
+ "voice": "/root/build/rec1118/voice/reel16/voice.json",
+ "voice_lufs": -15, "voice_duck_db": 8, "voice_duck_sfx_db": 4
+}

@@ -89,6 +89,10 @@ def main():
     bed *= db(plan.get("bed_lufs", -16) - lufs(f"{work}/bed.wav"))
     t = np.arange(n) / SR
     bed *= (np.clip(t / 0.05, 0, 1) * np.clip((dur - t) / plan.get("fade_out", 1.8), 0, 1))[:, None]
+    # optional music dips, e.g. silence inside a black hole: "music_dips": [[t0, t1, -30, 0.25], ...] (dB, fade s)
+    for d0, d1, ddb, dfade in plan.get("music_dips", []):
+        w = np.clip(np.minimum((t - d0) / dfade, (d1 - t) / dfade), 0, 1)   # 0 outside, 1 fully inside
+        bed *= (10 ** (ddb * w / 20))[:, None]
 
     # 2) accents
     acc = np.zeros((n, 2))

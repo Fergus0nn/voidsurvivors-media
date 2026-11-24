@@ -1,0 +1,22 @@
+{
+ "shots": [
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1224.5, "dur": 1.9, "cx": 288,
+   "label": "MINUTE 11", "big": "A BLACK HOLE", "color": "#ffffff"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1226.0, "dur": 1.68, "speed": 0.5, "cx": 288,
+   "label": "", "big": "LET'S FIND OUT", "color": "#ffd23f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1226.9, "dur": 5.0, "cx": 288,
+   "label": "SAFE DIMENSION", "counter": [5, 0], "suffix": " s", "color": "#bfe6ff", "bar": [1.0, 0.0]},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1232.45, "dur": 1.8, "cx": 288,
+   "label": "", "big": "SPAT BACK OUT", "color": "#ff3b4f"},
+  {"src": "/root/build/rec1118/rec1118_sparse.mp4", "ss": 1234.3, "dur": 3.3, "cx": 288,
+   "label": "", "big": ""}
+ ],
+ "masks": [[28, 86, 236, 28]],
+ "end_text": [["WOULD YOU", "#ffffff"], ["GO IN?", "#ffd23f"]],
+ "end_at": 10.38,
+ "kai": [
+  {"t0": 0.0, "t1": 1.9, "expr": "surprised", "text": "What's inside a black hole?"},
+  {"t0": 10.38, "t1": 13.68, "expr": "smirk", "text": "Would you go in?"}
+ ],
+ "_note": "REC D black hole 20:16-20:37 rec (game 11:29-11:50). Ship enters at 1226.84 (hard cut to the empty 'safe dimension', game text: BLACK HOLE: A SAFE DIMENSION FOR 5 SECONDS), comes back at ~1232.55 with the black hole + horde. THE DARK CLOSES IN / PHASE 8 banner 1234-1237. ROBOT INVASION 1239.75 -> red rift gate destroyed ~1249 -> YOU SURVIVED 1250-1254 (unused)."
+}

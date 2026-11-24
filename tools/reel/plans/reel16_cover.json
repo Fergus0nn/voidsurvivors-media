@@ -1,0 +1,5 @@
+{"out": "v/2026-11-29_REEL16_black-hole_cover.jpg", "layout": "split",
+ "frames": [{"src": "/root/build/rec1118/rec1118_sparse.mp4", "t": 1226.5, "focus": [700, 200]},
+            {"src": "/root/build/rec1118/rec1118_sparse.mp4", "t": 1229.0, "focus": [640, 360]}],
+ "title": [["INSIDE A", "#ffffff"], ["BLACK HOLE", "#ffd23f"]],
+ "tag": "VOID SURVIVORS"}
