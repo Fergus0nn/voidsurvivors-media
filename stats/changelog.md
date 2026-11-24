@@ -34,7 +34,7 @@ Pozn. 3: ani pevná tělesa (body „No more flying through space objects“ v G
   - Touch the Magnetar's core and an electric shock hurls you away.
   - Fly into the heart of the White Hole and it shoots you out at huge speed, spitting out crystals.
   - The Comet's core knocks you aside – you still get its speed boost.
-  - Enemies still pass straight through, so a star or a planet is a great wall to put between you and the horde.
+  - Enemies can still pass straight through them – only you have to steer around.
 
 ### 🎨 Visuals
 - Brand-new Mothership: a huge alien manta ship of dark brushed-metal armour plates with worn edges and rivets, catching the starlight as it banks. Violet light strips sit deep in grooves along its wings and spine with pulses of light flowing through them, the cockpit is a dome of black glass, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wingtips, and it leaves violet ghostly afterimages when it speeds past.
