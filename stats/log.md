@@ -409,3 +409,29 @@ TikTok account daily views (TKEV12): 11-18 1 · 11-19 589 · **11-20 1,982** (RE
 Followers: TikTok 204 (Δ 0 on 11-20), Instagram 5 (gained 0 / lost 0 on 11-22), YouTube 3 (Δ 0 on 11-19). **Total follower change since start: +6** (since last log: 0).
 
 Scheduled ahead: **nothing** (getScheduledPosts 11-21 … 12-06 shows only the published 11-21 posts). No changes made. **0 future days left – today (Sun 11-22) is the first day without a post since posting resumed; new reels are needed now** (REEL 10 "The Mothership" + REEL 11 "Lights Out" are ready and only need Daniel's OK to schedule).
+
+## 2026-11-24 (run 21:43 CET)
+Metricool timestamps are UTC → converted to CET. (No log run on 11-23.) All posts went out, **no ERROR anywhere**:
+- REEL 10 "The Mothership" went out **Mon 11-23 21:08** (posted at Daniel's request) on TikTok ([link](https://www.tiktok.com/@void.survivors/video/7711461414921063713)), Instagram ([link](https://www.instagram.com/reel/DgGNAGRFJGr/)), YouTube ([Short](https://www.youtube.com/shorts/l6UH_ZlW9c0)) – all PUBLISHED.
+- REEL 11 "Lights Out" went out **today 18:00** on TikTok ([link](https://www.tiktok.com/@void.survivors/video/7711787219735940385)), Instagram ([link](https://www.instagram.com/reel/DgIdfrrgb67/)), YouTube ([Short](https://www.youtube.com/shorts/38_W-4qbIcM)) – all PUBLISHED (not in analytics yet, ~3.7 h).
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. Posts not listed are unchanged vs 11-22 (stalled).
+
+| Network | Post | Style | Age | Views | Δ vs 11-22 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | **REEL 10 The Mothership** | Kai voice, single moment, cover 800 ms, 21:08 Mon | ~24.6 h | **475** | new | 1 | 0 | 0 | – | 0 (not synced) | 2.3 s (1,070 s) | – | 99.8 % For You; 2nd-best voice-reel day 1 (REEL 9 583) – after a 2-day no-post gap |
+| TikTok | REEL 9 A Star's Whole Life | Kai voice, 1/6…6/6 list | ~76.6 h | 671 | +88 | 5 | 0 | 0 | – | 671 | 2.6 s (1,776 s) | – | no REEL 6-style 2nd wave; ~final |
+| TikTok | REEL 8 / REEL 5 repost / REEL 7 / REEL 6 | Kai voice | – | 227 / 217 / 276 / 1,619 | +1 / 0 / +1 / 0 | 3 / 5 / 3 / 15 | 0 | 0 | – | 220 / 217 / 273 / 1,619 | 2.4 / 2.3 / 3.2 / 3.0 s | – | final |
+| Instagram | REEL 10 The Mothership | Kai voice, custom cover, 21:08 | ~24.6 h | 94 | new | 1 | 0 | 0 | 0 | 79 | 2.6 s | 19.0 % / **81.0 %** | weak day 1 (Kai-voice range 97–121 reach); worst skip rate since EP 4 |
+| Instagram | REEL 9 / REEL 8 / REEL 6 / REEL 7 | Kai voice | – | 122 / 134 / 124 / 151 | +10 / +4 / +5 / +2 | 5 / 4 / 4 / 5 | 0 | 0 | 0 | 101 / 115 / 99 / 121 | 3.1 / 3.1 / 5.0 / 3.5 s | 28.3 / 29.3 / 29.1 / 27.4 % | stalled |
+| YouTube | REEL 6 7 Disasters | Kai voice | ~5 days | 134 | **+66** | 1 | 0 | 0 | – | – | 3 s | – | slow YT growth |
+| YouTube | REEL 8 The Observer ([Short](https://www.youtube.com/shorts/VoGIJbJgbxI)) | Kai voice | ~4 days | 115 | first data | 1 | 0 | 0 | – | – | **6 s** | – | best avg view of any Kai Short |
+| YouTube | REEL 9 A Star's Whole Life | Kai voice | ~3 days | 52 | first data | 1 | 0 | 0 | – | – | 2 s | – | |
+| YouTube | REEL 7 / REEL 5 / older | – | – | 38 / 141 / unchanged | +7 / −1 / 0 | 1 / 2 | 1 / 2 | 0 | – | – | 1 / 2 s | – | stickman EP 1–3 still 1,101–1,155 |
+| YouTube | REEL 10 / REEL 11 | Kai voice | – | n/a | – | – | – | – | – | – | – | – | not listed yet |
+
+TikTok account daily views (TKEV12): 11-19 589 · 11-20 1,982 · 11-21 587 · **11-22 183** (no post) · 11-23 not synced; profile views 1–2/day. YouTube channel daily views: 11-19 85 · 11-20 156 · 11-21 91 (11-22+ not synced).
+
+Followers: TikTok 204 (Δ 0 on 11-22), Instagram 5 (gained 0 / lost 0 on 11-24), YouTube 3 (Δ 0 on 11-21). **Total follower change since start: +6** (since last log: 0).
+
+Scheduled ahead (autoPublish=true, 3 separate posts per reel, covers unchanged, all 18:00): Wed 11-25 REEL 12 Robot Spiders (TT 439378899 / IG 439378928 / YT 439378959) · Thu 11-26 REEL 13 Lord of Darkness (439387926 / 439387955 / 439387984) · Fri 11-27 REEL 14 Quasar Slingshot (439397526 / 439397555 / 439397582) · Sat 11-28 REEL 15 Blood Moon (440424084 / 440424119 / 440424160) · Sun 11-29 REEL 16 Inside a Black Hole (440432171 / 440432218 / 440432267). No changes made today. **5 future days left (through Sun 11-29); new reels needed from Mon 11-30.**
