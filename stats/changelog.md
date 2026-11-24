@@ -13,10 +13,11 @@ Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already i
 - ~~The Mothership moves like a real UFO + glow-up~~ – nahrazeno: loď teď létá jako stíhačka a má nový vzhled, viz body o mateřské lodi níže.
 
 Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: nová loď a neviditelnost od 18.–19. 11., vzhled podle atlasu a let stíhačky od 23. 11.).
-Pozn. 2: ani vylepšená grafika hrdinů (bod „Heroes glow-up“ ve Visuals, od 24. 11.) ani oprava „MEZERNÍK“ (Fixes, 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
+Pozn. 2: ani vylepšená grafika hrdinů (bod „Heroes glow-up“ ve Visuals, od 24. 11.) ani opravy překladů („MEZERNÍK“ a stromy/bestiář/obchod, Fixes, 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
 
 ### 🐛 Fixes
 - The dash key in the ability readout (top left) now shows in your language – e.g. "[SPACE]" instead of the Czech "[MEZERNÍK]".
+- More translation fixes: the bonus lines in the skill trees (e.g. "Cooldown: chain lightning −15 %"), the perk list on the Trees screen, "undiscovered" in the Bestiary and "MAXIMUM" in the Star Forge shop no longer show Czech words in English, German, Spanish or Russian.
 
 ### 🌑 Gameplay
 - The Mothership now flies like a fighter jet: always nose-first, easing into and banking hard through its turns as it circles you at high speed – slowing in tight turns, speeding up on the straights, rising and dipping as it flies. Every few seconds it peels away, swings round and swoops low past right beside you. It only hurts you with its shots and with attacks marked on the ground.
