@@ -13,6 +13,7 @@ Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already i
 - ~~The Mothership moves like a real UFO + glow-up~~ – nahrazeno: loď teď létá jako stíhačka a má nový vzhled, viz body o mateřské lodi níže.
 
 Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: nová loď a neviditelnost od 18.–19. 11., vzhled podle atlasu a let stíhačky od 23. 11.).
+Pozn. 2: ani vylepšená grafika hrdinů (bod „Heroes glow-up“ ve Visuals, od 24. 11.) není v demu v1.5.3 – jen ve zdrojové hře.
 
 ### 🌑 Gameplay
 - The Mothership now flies like a fighter jet: always nose-first, easing into and banking hard through its turns as it circles you at high speed – slowing in tight turns, speeding up on the straights, rising and dipping as it flies. Every few seconds it peels away, swings round and swoops low past right beside you. It only hurts you with its shots and with attacks marked on the ground.
@@ -25,6 +26,7 @@ Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: 
 ### 🎨 Visuals
 - Brand-new Mothership: a huge alien manta ship of dark brushed-metal armour plates with worn edges and rivets, catching the starlight as it banks. Violet light strips sit deep in grooves along its wings and spine with pulses of light flowing through them, the cockpit is a dome of black glass, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wingtips, and it leaves violet ghostly afterimages when it speeds past.
 - The odd beam of light under the Mothership is gone.
+- Heroes glow-up: Seraphiel, the Lone Wanderer and Victor Hale now keep their true colours from every angle – no more fading into a dark smudge whenever they turn away from the starlight. They have more body from the side, their outlines stay crisp in the middle of the horde instead of shimmering, and a soft rim of light makes them easy to spot. Ser Aldric Vane's armour catches more light too.
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
