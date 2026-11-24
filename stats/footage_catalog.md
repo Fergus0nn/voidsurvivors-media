@@ -81,6 +81,7 @@ Rule: every new short must use footage NOT listed in "Already used" (or at most 
 
 ## REC D – Desktop/nahrávky ze hry/2026-11-18 13-02-45.mp4 (1834 s, 1280x720@60, Seraphiel, build of 18. 11. – new robots, new Mothership look, Dying Star lifecycle, Observer with tentacles + eye)
 Split on the PC into `VOID_SURVIVORS_v0_6_3D_UNIVERSE\nahravky_casti\rec1118.partNNN` (75 × 48 MiB, Claude Code did it); cloud sparse copy `/root/build/rec1118/rec1118_sparse.mp4` (moov at 3,724,098,124; keyframe every 4.17 s; time↔part map `/root/build/rec1118/part_times.json`). Stage ONE part per call (two often time out).
+- Staged in the cloud copy (24. 11.): 0, 3, 6, 9, 12, 15–21, 24, 27, 30, 33, 36, 39, 42, 45, 47–49, 51, 54–57, 59–61, 63–74 (list in `/root/build/rec1118/written.json`). Missing: 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 22, 23, 25, 26, 28, 29, 31, 32, 34, 35, 37, 38, 40, 41, 43, 44, 46, 50, 52, 53, 58, 62 → frames there freeze; check every spec with `check_shots.py`.
 - Run 1 (rec 0:21–5:25) is CZECH UI until the language switch in the pause at rec 5:00 → never use rec 0–5:00. Menus 0–0:20 are Czech too.
 - Run 2 = English, rec ~6:20 (game 00:00) → 30:22 (19:56). END OF DEMO 30:26 (never use).
 - HUD top-left shows "PHASE SHIFT [MEZERNÍK] READY" (Czech word) → with crop x < 260 add `"masks": [[28, 86, 236, 28]]` to the minutes_short spec (blurs it).
@@ -104,7 +105,7 @@ Split on the PC into `VOID_SURVIVORS_v0_6_3D_UNIVERSE\nahravky_casti\rec1118.par
 | 22:07–22:51 | 13:11–13:54 | THE MOTHERSHIP: bursts out of a slanted rift (22:07–22:08), ORBITAL LASER 22:17–22:20, LAST STAND 22:32–22:35, red laser lanes 22:38–22:50 (ship small on screen) |
 | 24:27–24:47 | 15:05–15:19 | Saturn + ring of orbs, THE DARK CLOSES IN · PHASE 11, combo 4.4k–5k |
 | 25:29–26:54 | 15:59–17:13 | quasar bursts, combo 6.8k → 10k |
-| 27:53–28:16 | 18:01–18:08 | BLOOD MOON (whole screen red), combo 13k–14k (28:03–28:12 cards) |
+| 27:11.7–28:20 | 17:29–18:09 | BLOOD MOON (50 s event; banner 27:11.7 → whole screen red, HUD 'KILLED 9 … 3,465'), combo 10.9k–14.3k (cards 27:31 + 28:03.5–28:15.5) |
 | 28:57–29:08 | 18:44–18:53 | orb storm, combo 16k |
 | 29:09–29:47 | 18:53–19:29 | TITAN THE OBSERVER: banner 29:09, red tentacled eye 29:12–29:13 / 29:30–29:33, teleport (white ghost) 29:14–29:16, SPLIT GAZE 29:20–29:22, TRIPLE PUPIL 29:36–29:38, RED LIGHTHOUSE 29:39–29:42, kill flash 29:47 |
 | 29:48–30:22 | 19:30–19:56 | PHASE 16, final horde, combo 17k → 18.4k (30:19.8 cards) |
@@ -123,7 +124,12 @@ Split on the PC into `VOID_SURVIVORS_v0_6_3D_UNIVERSE\nahravky_casti\rec1118.par
 - REC D (reel 9 "A STAR'S LIFE"): 540.5–542.2, 584.2–585.9, 590.0–591.8 (+ cover 590.5), 613.6–616.2, 617.0–618.6, 642.0–643.6, 686.0–687.8 (+ cover 687.0), 690.0–692.6
 - REC D (reel 10 "THE MOTHERSHIP"): 1327.0–1329.0 (+ cover 1327.6), 1329.6–1331.2, 1333.4–1334.8, 1337.9–1339.3, 1352.6–1354.2, 1358.8–1360.6, 1371.0–1375.4, cover 1366.0
 - REC D (reel 11 "LIGHTS OUT" = eclipse 23:41–24:24 + Saturn phase 11): 1424.0–1426.0 (+ cover 1424.6), 1428.8–1430.4, 1431.8–1433.4, 1435.0–1436.6, 1442.0–1443.6, 1468.8–1475.0 (+ cover 1472.4)
-- REC D still unused: quasar bursts 25:29–25:44 + 26:37–26:54 (part 62 = 25:09–25:28 not staged → frozen/corrupt there), Saturn + UNSTABLE STAR 25:54–25:57, PHASE 13 26:05, BLOOD MOON 27:53–28:16, LORD OF DARKNESS 13:35–16:08, gravity storm 16:57, black hole 20:26, robots 19:46, first-run blue supergiant 5:01–5:12 (English)
+- REC D (reel 12 "ROBOT SPIDERS"): 1184.85–1186.95 (real time + slow-mo), 1386.0–1390.0, cover 1186.1 / 1186.3
+- REC D (reel 13 "LORD OF DARKNESS"): 835.0–837.0, 837.2–838.7, 897.4–899.0, 966.3–968.45 (freeze 968.45), cover 837.6 / 968.45
+- REC D (reel 14 "QUASAR SLINGSHOT"): 1596.2–1599.6, 1606.5–1609.6, 1613.0–1617.85, cover 1598.2 / 1615.6
+- REC D (reel 15 "BLOOD MOON"): 1630.2–1634.6, 1643.0–1644.6, 1660.0–1661.6, 1665.0–1683.0 (10× timelapse), 1696.4–1701.4, cover 1632.6 / 1676.0
+- REC D (reel 16 "INSIDE A BLACK HOLE"): 1224.5–1226.84, 1226.9–1231.9, 1232.45–1237.6, cover 1226.5 / 1229.0
+- REC D still unused: ROBOT INVASION 20:39.75 → red rift gate (20:40–20:49) → "YOU SURVIVED: ROBOT INVASION" 20:50–20:54 (parts 48–49), white burst 20:02 + PERK: BLOODY HARVEST 20:10, black hole approach 20:16–20:24 (Saturn + black hole), quasar 25:29–25:44 (part 62 = 25:09–25:28 not staged), Saturn + UNSTABLE STAR 25:54–25:57, PHASE 13 26:05, PHASE 14 banner 27:00–27:03, cyan crystal sea after the Blood Moon 28:22–29:06 (combo 14.7k → 16.6k), gravity storm 16:57, robots swarm 21:16–21:26 + 23:03–23:10, Lord of Darkness 13:42–13:54 (red supergiant) and 14:52–15:16, first-run blue supergiant 5:01–5:12 (English)
 - Engine: rb_gore 1–130 (EP5)
 - REC C: 569.6–572.2, 587.5–589.1, 593.0–593.6, 601.8–604.6, 985.2–988.4, 1000.0–1000.6, 1002.4–1004.65, 1337.0–1341.6, 1344.0–1345.5, 1347.7–1349.3, 1664.0–1666.6, title still 1689.5 (reel 3 "3 BOSSES. 1 RUN."); 787–791, 794.5–801.5, 802.3–808.6, 864.3–871.3 (short horde_01 "THEY CAME FROM EVERYWHERE")
 

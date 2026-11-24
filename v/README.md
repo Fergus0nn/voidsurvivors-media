@@ -28,3 +28,8 @@ Profily: [TikTok](https://www.tiktok.com/@void.survivors) · [Instagram](https:/
 | 21. 11. 18:00 | REEL 9 – A Star's Whole Life (hlas Kaie) | [2026-11-21_REEL09_a-stars-life.mp4](2026-11-21_REEL09_a-stars-life.mp4) | naplánováno v Metricoolu |
 | 23. 11. 21:08 | REEL 10 – The Mothership (hlas Kaie) | [2026-11-23_REEL10_the-mothership.mp4](2026-11-23_REEL10_the-mothership.mp4) | [YouTube](https://www.youtube.com/shorts/l6UH_ZlW9c0) · [TikTok](https://www.tiktok.com/@void.survivors/video/7711461414921063713) · [Instagram](https://www.instagram.com/reel/DgGNAGRFJGr/) (na Danielovu žádost hned večer, 22. a 23. 11. nic nevyšlo) |
 | 24. 11. 18:00 | REEL 11 – Lights Out (hlas Kaie) | [2026-11-24_REEL11_lights-out.mp4](2026-11-24_REEL11_lights-out.mp4) | naplánováno v Metricoolu |
+| 25. 11. 18:00 | REEL 12 – Robot Spiders (zpomaleně, hlas Kaie) | [2026-11-25_REEL12_robot-spiders.mp4](2026-11-25_REEL12_robot-spiders.mp4) | naplánováno v Metricoolu |
+| 26. 11. 18:00 | REEL 13 – Lord of Darkness (freeze-frame, hlas Kaie) | [2026-11-26_REEL13_lord-of-darkness.mp4](2026-11-26_REEL13_lord-of-darkness.mp4) | naplánováno v Metricoolu |
+| 27. 11. 18:00 | REEL 14 – Quasar Slingshot (+30 % → +160 %, hlas Kaie) | [2026-11-27_REEL14_quasar-slingshot.mp4](2026-11-27_REEL14_quasar-slingshot.mp4) | naplánováno v Metricoolu |
+| 28. 11. 18:00 | REEL 15 – Blood Moon (3 465 zabití za 50 s, hlas Kaie) | [2026-11-28_REEL15_blood-moon.mp4](2026-11-28_REEL15_blood-moon.mp4) | naplánováno v Metricoolu |
+| 29. 11. 18:00 | REEL 16 – Inside a Black Hole (5 s ticha, hlas Kaie) | [2026-11-29_REEL16_black-hole.mp4](2026-11-29_REEL16_black-hole.mp4) | naplánováno v Metricoolu |

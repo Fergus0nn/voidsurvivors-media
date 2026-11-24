@@ -6,7 +6,7 @@ step = float(sys.argv[4]) if len(sys.argv) > 4 else 1.0
 tmp = out + "_f"; os.makedirs(tmp, exist_ok=True)
 for f in glob.glob(tmp + "/*.jpg"): os.remove(f)
 subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{a:.3f}", "-t", f"{b-a:.3f}", "-i", "/root/build/rec1118/rec1118_sparse.mp4",
-    "-vf", f"fps=1/{step},scale=384:-1,drawtext=text='%{{eif\\:({a}+t)/60\\:d}}\\:%{{eif\\:mod({a}+t\\,60)\\:d\\:2}}':x=5:y=5:fontsize=20:fontcolor=yellow:box=1:boxcolor=black@0.6",
+    "-vf", f"fps={1/step:.6f},scale=384:-1,drawtext=text='%{{eif\\:({a}+t)/60\\:d}}\\:%{{eif\\:mod({a}+t\\,60)\\:d\\:2}}':x=5:y=5:fontsize=20:fontcolor=yellow:box=1:boxcolor=black@0.6",
     "-q:v", "5", tmp + "/f_%04d.jpg"], stderr=subprocess.DEVNULL)
 imgs = sorted(glob.glob(tmp + "/f_*.jpg"))
 cols, per = 5, 25

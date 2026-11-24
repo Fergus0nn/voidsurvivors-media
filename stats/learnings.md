@@ -35,7 +35,12 @@ Brand: Metricool brand id 7905334 (TikTok, Instagram, YouTube = void.survivors /
 | 2026-11-21 18:00 | REEL 9 A Star's Whole Life (REC D, 1/6…6/6 lifecycle, loops back to red supergiant, Kai voice, ends 'And then it starts again'; TT cover 1500 ms) – published ([TT](https://www.tiktok.com/@void.survivors/video/7710672434290019617), [IG](https://www.instagram.com/reel/DgAur9GD0zx/), [YT](https://www.youtube.com/shorts/_GDLc8A7gLg)) | v/2026-11-21_REEL09_a-stars-life.mp4 |
 | 2026-11-23 21:08 (posted at Daniel's request – 11-22 and 11-23 18:00 had no post) | REEL 10 The Mothership (REC D, rift entrance, new ship design, orbital laser, last stand, red lanes; ends with a community question 'What should it do next?') | v/2026-11-23_REEL10_the-mothership.mp4 |
 | 2026-11-24 18:00 (scheduled) | REEL 11 Lights Out (REC D, eclipse spotlight → lights back at Saturn, surrounded; ends 'Would you fight in the dark?') | v/2026-11-24_REEL11_lights-out.mp4 |
-| planned (not made yet – needed from 2026-11-25) | 5 more reels this week: quasar, Lord of Darkness, Blood Moon 14k, final orb storm 17k, Saturn unstable star (REC D) | – |
+| 2026-11-25 18:00 (scheduled) | REEL 12 Robot Spiders (REC D 19:45, new robots; real-time hook then 0.5×/0.4×/0.25× slow-mo replay 'IT REARS UP / MORE PILE ON / ONE BLAST / RED-HOT SCRAP', end 3 min later 'DOZENS'; ends 'Fight or run?'; TT cover 1200 ms) | v/2026-11-25_REEL12_robot-spiders.mp4 |
+| 2026-11-26 18:00 (scheduled) | REEL 13 Lord of Darkness (REC D boss, hunts / rings of fire / hundreds of orbs / red charge lane in slow-mo → FREEZE-FRAME cliffhanger 'Where do you go?' with heartbeat SFX; TT cover 1800 ms) | v/2026-11-26_REEL13_lord-of-darkness.mp4 |
+| 2026-11-27 18:00 (scheduled) | REEL 14 Quasar Slingshot (REC D 26:36–26:58; big counter = the real HUD 'SLINGSHOT +30 % → +160 %' (OCR), 'MAX BOOST 2.6× FASTER'; ends 'Could you steer this?'; TT cover 9000 ms) | v/2026-11-27_REEL14_quasar-slingshot.mp4 |
+| 2026-11-28 18:00 (scheduled) | REEL 15 Blood Moon (REC D 27:10–28:21; hook 'WATCH THE SKY' → sky turns red; counter = real HUD 'KILLED' 9 → 3,465 in 50 s incl. a 10× timelapse shot; ends 'Love it or hate it?'; TT cover 9600 ms) | v/2026-11-28_REEL15_blood-moon.mp4 |
+| 2026-11-29 18:00 (scheduled) | REEL 16 Inside a Black Hole (REC D 20:24–20:37; 'What's inside a black hole?' → slow-mo dive → 5 s countdown in the empty safe dimension with the music dipped -30 dB → spat back into the horde; ends 'Would you go in?'; TT cover 1300 ms) | v/2026-11-29_REEL16_black-hole.mp4 |
+| needed from 2026-11-30 | next week: ROBOT INVASION red rift gate → YOU SURVIVED (REC D 20:39.7–20:54, parts 48–49 staged), final orb storm 28:22–29:06 (cyan crystal sea, combo 14.7k → 16.6k), Saturn + UNSTABLE STAR 25:54, PHASE 16 final horde | – |
 
 NEVER END WITH "How long would you survive?" (Daniel, 2026-11-15) – not in the end card, not in Kai's last line, not in the caption. Vary the ending every time (follow CTA, a question about this video's content, cliffhanger).
 
@@ -211,6 +216,14 @@ Video files (v/): only FINAL published versions, named `v/YYYY-MM-DD_TYPE##_slug
 - YouTube per-video stats did not refresh (REEL 8/9 not listed) → no YT conclusions.
 - Best-time (Mon 23 + Tue 24): TikTok 10:00 1089 / 1136 vs 18:00 1096 / 1119 (equal); IG 10:00 5528 / 4942 vs 18:00 4206 / 4788 (Mon +31 %, Tue +3 %). Real TT data (both 10:00 posts weak) favour **18:00 as the default** for the next batch.
 - Followers: no change (TT 204, IG 5, YT 3; +6 since 11-06). Nothing scheduled → no edits made.
+
+### 2026-11-24 (production notes – REEL 12–16, week 25.–29. 11.)
+- REEL 10 went out 11-23 21:08 on all 3 networks; REEL 11–16 are scheduled 11-24…11-29 18:00 (3 posts per day, checked in Metricool).
+- New tools in `minutes_short.py`: per-shot `"speed"` (0.5 = smooth slow-mo from the 60 fps recording, >1 = timelapse), `"freeze": true` + `"push"` (freeze-frame cliffhanger with a slow zoom), counter `"prefix"`. `clean_audio.py`: `"music_dips"` (e.g. −30 dB for silence inside the black hole). `make_cover.py`: per-frame `"focus": [x, y]`. `check_shots.py` understands speed/freeze.
+- **Numbers on screen come from the game HUD, not estimates:** SLINGSHOT % read with tesseract (`crop=330:26:950:84`), Blood Moon "KILLED n" read by eye from stacked crops (`crop=300:26:490:115`; OCR fails on the red tint). Every counter shot starts/ends at the HUD value of that moment.
+- Every short this week uses a progression the viewer waits for (slow-mo step bar, charge → freeze, +30 → +160 %, 9 → 3,465 kills, 5 s → 0 s countdown) – the retention idea behind the 1/N…N/N list format. Compare their TikTok day-2/3 views with REEL 6/9 (list) and REEL 8/10/11 (single moment).
+- REC D facts found today: BLOOD MOON starts 27:11.7 (not 27:53) and lasts 50 s; black hole entry 20:26.84 = hard cut into the empty "safe dimension" (game text "BLACK HOLE: A SAFE DIMENSION FOR 5 SECONDS"), back out at ~20:32.55; ROBOT INVASION 20:39.75 → red rift gate destroyed ~20:49 → "YOU SURVIVED: ROBOT INVASION" 20:50–20:54 (unused – good for next week).
+- With the PC offline, only staged parts can be used; when Daniel says he is at the PC, stage the missing parts right away (one part per call; a timeout can still deliver – check with `wait_parts.sh`, then retry once).
 
 ## Discord – týdenní updaty
 - Každý pátek 18:00 (Praha) post do #🚀・updates (oznamovací kanál, publikovat), ping @🔔 Update Ping.
