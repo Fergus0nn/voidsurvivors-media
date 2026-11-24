@@ -14,6 +14,7 @@ Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already i
 
 Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: nová loď a neviditelnost od 18.–19. 11., vzhled podle atlasu a let stíhačky od 23. 11.).
 Pozn. 2: ani vylepšená grafika hrdinů (bod „Heroes glow-up“ ve Visuals, od 24. 11.) ani opravy překladů („MEZERNÍK“ a stromy/bestiář/obchod, Fixes, 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
+Pozn. 3: ani pevná tělesa (body „No more flying through space objects“ v Gameplay, od 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
 
 ### 🐛 Fixes
 - The dash key in the ability readout (top left) now shows in your language – e.g. "[SPACE]" instead of the Czech "[MEZERNÍK]".
@@ -26,6 +27,14 @@ Pozn. 2: ani vylepšená grafika hrdinů (bod „Heroes glow-up“ ve Visuals, o
 - New Mothership attack – Encirclement: it whips around you in a tight circle, drops a ring of bombs with one gap, then strikes the centre. Get out through the gap!
 - New Mothership attack – Cloak: the ship fades out until only a faint ripple in the air betrays it, stalks around you unseen, then a red circle marks the ground under you and it decloaks right above you and strikes. From phase 2 it strikes twice in a row.
 - Mothership Last Stand: no more tractor beam – it goes berserk instead, flying faster, firing and attacking more often.
+- No more flying through space objects! Stars, planets, the Station Wreck, asteroids, the Magnetar, the Comet and the Dead Leviathan's skull and spine are now solid – and crashing into them has consequences:
+  - Stars (the Red Sun, the Dying Star and the star that lives out its whole life) scorch you: a heavy hit, you keep burning for a few seconds and the heat throws you back. "TOO CLOSE TO THE STAR!" flashes on screen when you get near.
+  - Saturn and the Dead World bounce you off with a jolt and a bit of damage. Asteroids knock you back.
+  - The Station Wreck is a metal wall – just bump into it to grab its loot.
+  - Touch the Magnetar's core and an electric shock hurls you away.
+  - Fly into the heart of the White Hole and it shoots you out at huge speed, spitting out crystals.
+  - The Comet's core knocks you aside – you still get its speed boost.
+  - Enemies still pass straight through, so a star or a planet is a great wall to put between you and the horde.
 
 ### 🎨 Visuals
 - Brand-new Mothership: a huge alien manta ship of dark brushed-metal armour plates with worn edges and rivets, catching the starlight as it banks. Violet light strips sit deep in grooves along its wings and spine with pulses of light flowing through them, the cockpit is a dome of black glass, its engine flares and spits a longer flame when it boosts, strobe lights blink on its wingtips, glowing trails stream from its wingtips, and it leaves violet ghostly afterimages when it speeds past.
