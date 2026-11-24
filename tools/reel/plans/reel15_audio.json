@@ -1,0 +1,80 @@
+{
+ "video": "/root/build/rec1118/out/reel15_noaudio.mp4",
+ "out": "/home/claude/voidsurvivors-media/v/2026-11-28_REEL15_blood-moon.mp4",
+ "work": "/root/build/rec1118/out/audio15",
+ "sfx_dir": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/sfx",
+ "music": "/mnt/user-data/uploads/VOID_SURVIVORS_v0_6_3D_UNIVERSE/assets/audio/music/boss.ogg",
+ "music_start": 5.0,
+ "bed_lufs": -16,
+ "duck_db": 4,
+ "target": -14,
+ "fade_out": 1.0,
+ "accents": [
+  [
+   0.0,
+   "srdce",
+   -4,
+   0.7
+  ],
+  [
+   0.75,
+   "srdce",
+   -4,
+   0.7
+  ],
+  [
+   1.45,
+   "krvavy_mesic",
+   -1,
+   3.4
+  ],
+  [
+   3.8,
+   "smrt_elita",
+   -6,
+   0.8
+  ],
+  [
+   5.4,
+   "krystal",
+   -4,
+   0.6
+  ],
+  [
+   5.8,
+   "krystal",
+   -6,
+   0.6
+  ],
+  [
+   7.0,
+   "gravitacni_boure",
+   -6,
+   1.8
+  ],
+  [
+   8.8,
+   "rekord",
+   -4,
+   2.2
+  ],
+  [
+   11.9,
+   "udalost_konec",
+   -4,
+   1.9
+  ]
+ ],
+ "action": [
+  [
+   0.0,
+   11.9
+  ]
+ ],
+ "action_db": -14,
+ "seed": 115,
+ "voice": "/root/build/rec1118/voice/reel15/voice.json",
+ "voice_lufs": -15,
+ "voice_duck_db": 8,
+ "voice_duck_sfx_db": 4
+}

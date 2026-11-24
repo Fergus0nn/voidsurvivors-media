@@ -1,0 +1,5 @@
+{"out": "v/2026-11-28_REEL15_blood-moon_cover.jpg", "layout": "split",
+ "frames": [{"src": "/root/build/rec1118/rec1118_sparse.mp4", "t": 1632.6, "focus": [640, 250]},
+            {"src": "/root/build/rec1118/rec1118_sparse.mp4", "t": 1676.0, "focus": [660, 330]}],
+ "title": [["BLOOD MOON", "#ff2a3d"], ["3,465 KILLS", "#ffffff"]],
+ "tag": "VOID SURVIVORS"}

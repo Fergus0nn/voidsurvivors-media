@@ -1,0 +1,138 @@
+{
+ "shots": [
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1630.2,
+   "dur": 2.2,
+   "cx": 330,
+   "label": "MINUTE 17",
+   "big": "WATCH THE SKY",
+   "color": "#ffffff"
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1633.0,
+   "dur": 1.6,
+   "cx": 288,
+   "label": "BLOOD MOON KILLS",
+   "counter": [
+    9,
+    128
+   ],
+   "color": "#ff2a3d",
+   "bar": [
+    0.0,
+    0.06
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1643.0,
+   "dur": 1.6,
+   "cx": 288,
+   "label": "BLOOD MOON KILLS",
+   "counter": [
+    733,
+    837
+   ],
+   "color": "#ff2a3d",
+   "bar": [
+    0.2,
+    0.24
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1660.0,
+   "dur": 1.6,
+   "cx": 288,
+   "label": "BLOOD MOON KILLS",
+   "counter": [
+    1778,
+    1868
+   ],
+   "color": "#ff2a3d",
+   "bar": [
+    0.54,
+    0.57
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1665.0,
+   "dur": 1.8,
+   "speed": 10.0,
+   "cx": 288,
+   "label": "BLOOD MOON KILLS",
+   "counter": [
+    2058,
+    3225
+   ],
+   "color": "#ff2a3d",
+   "bar": [
+    0.6,
+    0.93
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1696.4,
+   "dur": 2.4,
+   "cx": 288,
+   "label": "BLOOD MOON KILLS",
+   "counter": [
+    3341,
+    3455
+   ],
+   "color": "#ff2a3d",
+   "bar": [
+    0.94,
+    0.99
+   ]
+  },
+  {
+   "src": "/root/build/rec1118/rec1118_sparse.mp4",
+   "ss": 1698.8,
+   "dur": 2.6,
+   "cx": 288,
+   "label": "",
+   "big": "3,465",
+   "color": "#ff2a3d",
+   "bar": 1.0
+  }
+ ],
+ "masks": [
+  [
+   28,
+   86,
+   236,
+   28
+  ]
+ ],
+ "end_text": [
+  [
+   "LOVE IT",
+   "#ffffff"
+  ],
+  [
+   "OR HATE IT?",
+   "#ff2a3d"
+  ]
+ ],
+ "end_at": 11.9,
+ "kai": [
+  {
+   "t0": 0.0,
+   "t1": 2.2,
+   "expr": "neutral",
+   "text": "Minute 17. Watch the sky."
+  },
+  {
+   "t0": 11.9,
+   "t1": 13.8,
+   "expr": "smirk",
+   "text": "Love it or hate it?"
+  }
+ ],
+ "_note": "REC D BLOOD MOON 27:11.7-28:20 rec (game 17:29-18:09), 50 s event. Banner at 1631.7. HUD 'KILLED n' read by eye: 1633 9, 1636 232, 1640 537, 1645 863, 1650 1186, 1655 1432, 1660 1778, 1665 2058, 1670 2327, 1675 2614, 1680 3068, 1683.2 3236, (cards 1683.5-1695.5), 1696.5 3346, 1699 3465 (1 s left). Shot 5 = 10x timelapse 1665-1683."
+}
