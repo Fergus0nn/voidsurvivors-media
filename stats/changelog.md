@@ -16,6 +16,7 @@ Pozn.: nic o mateřské lodi níže není v demu v1.5.3 (jen ve zdrojové hře: 
 Pozn. 2: ani vylepšená grafika hrdinů (bod „Heroes glow-up“ ve Visuals, od 24. 11.) ani opravy překladů („MEZERNÍK“ a stromy/bestiář/obchod, Fixes, 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
 Pozn. 3: ani pevná tělesa (body „No more flying through space objects“ v Gameplay, od 24. 11.) nejsou v demu v1.5.3 – jen ve zdrojové hře.
 Pozn. 4: ani nový vzhled Seraphiela (bod „Seraphiel reborn“ ve Visuals, od 24. 11.) není v demu v1.5.3 – jen ve zdrojové hře.
+Pozn. 5: ani nový model poutníka (bod „Lone Wanderer reborn“ ve Visuals, od 25. 11.) není v demu v1.5.3 – jen ve zdrojové hře.
 
 ### 🐛 Fixes
 - The dash key in the ability readout (top left) now shows in your language – e.g. "[SPACE]" instead of the Czech "[MEZERNÍK]".
@@ -45,6 +46,7 @@ Pozn. 4: ani nový vzhled Seraphiela (bod „Seraphiel reborn“ ve Visuals, od 
 - Seraphiel reborn: the fallen angel has a brand-new, fully detailed model – black armour traced with gold filigree, long silver-white hair and a tattered skirt of feathers – and huge new wings layered with real feathers, gold along their edges. The scythe got a makeover too: a longer black blade with a gold spine and a glowing edge, a small back blade, a black shaft wound with gold, and a glowing sun emblem at its head.
 - Seraphiel now reaps like a real scythe fighter: both hands on the shaft, a quick wind-up behind the shoulder, the hips and torso twist into the swing, the blade sweeps flat around the body towards the enemy and follows through, and the wings pull back for the strike and flare open for balance afterwards.
 - Seraphiel flies like a real bird now: fast, full downstrokes with the wings spread wide and slower upstrokes with the wingtips folded in. Hard, quick beats when taking off and speeding up, gliding at full speed with a couple of beats now and then, a few strong beats to brake, and slow, steady wingbeats when hovering in place. Every downstroke lifts the body a little, and in flight Seraphiel leans forward into the direction of travel.
+- Lone Wanderer reborn: the alien has a brand-new, fully detailed model – a slender grey body of dark plated armour, a ragged white sash, glowing turquoise crystals and beaded orbit chains circling the body. The crystals bob and glow, the sash drifts in zero gravity, and the hands still reach out to fire crystals.
 
 ## Update #2 – 21. 11. 2026 (v1.5.3) ✅ posted 21. 11. 21:01 + Publikováno (pozdě: páteční automatický běh se nespustil – počítač nebyl v 17:52 dostupný, úloha je pozastavená „device_absent“; posláno ručně přes vestavěný prohlížeč po Danielově schválení textu)
 Pozn.: všechno níže je v demu v1.5.3 (18. 11. 2026, `Downloads\VOID_SURVIVORS_DEMO_v1.5.3.zip` na Danielově PC). Co přibude do zdrojové hry po 18. 11., v tomhle demu není – u takových bodů to poznamenat.
