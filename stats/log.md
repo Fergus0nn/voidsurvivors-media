@@ -435,3 +435,27 @@ TikTok account daily views (TKEV12): 11-19 589 · 11-20 1,982 · 11-21 587 · **
 Followers: TikTok 204 (Δ 0 on 11-22), Instagram 5 (gained 0 / lost 0 on 11-24), YouTube 3 (Δ 0 on 11-21). **Total follower change since start: +6** (since last log: 0).
 
 Scheduled ahead (autoPublish=true, 3 separate posts per reel, covers unchanged, all 18:00): Wed 11-25 REEL 12 Robot Spiders (TT 439378899 / IG 439378928 / YT 439378959) · Thu 11-26 REEL 13 Lord of Darkness (439387926 / 439387955 / 439387984) · Fri 11-27 REEL 14 Quasar Slingshot (439397526 / 439397555 / 439397582) · Sat 11-28 REEL 15 Blood Moon (440424084 / 440424119 / 440424160) · Sun 11-29 REEL 16 Inside a Black Hole (440432171 / 440432218 / 440432267). No changes made today. **5 future days left (through Sun 11-29); new reels needed from Mon 11-30.**
+
+## 2026-11-25 (run 21:45 CET)
+Metricool timestamps are UTC → converted to CET. All posts went out, **no ERROR anywhere**:
+- REEL 12 "Robot Spiders" went out **today 18:00** on TikTok ([link](https://www.tiktok.com/@void.survivors/video/7712158106192448801)), Instagram ([link](https://www.instagram.com/reel/DgLB1FJg_qM/)), YouTube ([Short](https://www.youtube.com/shorts/q6E8S1uLH5Y)) – all PUBLISHED (not in analytics yet, ~3.7 h).
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. Posts not listed are unchanged vs 11-24 (stalled).
+
+| Network | Post | Style | Age | Views | Δ vs 11-24 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | **REEL 11 Lights Out** | Kai voice, single moment, "Minute 14" hook, cover 1000 ms | ~27.5 h | **542** | new | 0 | 0 | 0 | – | 0 (not synced) | 2.0 s (1,075 s) | – | 100 % For You; 2nd-best voice-reel day 1 (REEL 9 583); lowest avg watch of the voice reels, 0 likes |
+| TikTok | REEL 10 The Mothership | Kai voice, single moment, 21:08 | ~48.6 h | 666 | **+191** | 1 | 0 | 0 | – | 386 | 2.6 s (1,717 s) | – | still growing on day 2; ≈ REEL 9 (672) |
+| TikTok | REEL 9 / REEL 8 / REEL 5 repost / REEL 6 / REEL 7 | Kai voice | – | 672 / 227 / 217 / 1,619 / 276 | +1 / 0 / 0 / 0 / 0 | 5 / 3 / 5 / 15 / 3 | 0 | 0 | – | 671 / 220 / 217 / 1,619 / 276 | 2.6 / 2.4 / 2.3 / 3.0 / 3.2 s | – | final |
+| Instagram | REEL 11 Lights Out | Kai voice, custom cover, 18:00 | ~27.5 h | 65 | new | 1 | 0 | 0 | 0 | **56** | 3.6 s | 22.4 % / 77.6 % | weakest IG day 1 since EP 6 – posted on time |
+| Instagram | REEL 10 The Mothership | Kai voice, 21:08 | ~48.6 h | 113 | +19 | 1 | 0 | 0 | 0 | 98 | 2.7 s | 23.5 % / 76.5 % | caught up on day 2 (79 → 98 reach) |
+| Instagram | REEL 9 / REEL 8 / REEL 6 / REEL 7 | Kai voice | – | 122 / 134 / 124 / 151 | 0 | 5 / 4 / 4 / 5 | 0 | 0 | 0 | 101 / 115 / 99 / 121 | 3.1 / 3.1 / 5.0 / 3.5 s | 28.3 / 29.3 / 29.1 / 27.4 % | final |
+| YouTube | REEL 8 The Observer | Kai voice | ~5 days | 138 | +23 | 1 | 0 | 0 | – | – | 5 s | – | still growing slowly |
+| YouTube | REEL 9 / REEL 6 / REEL 7 / REEL 5 / REEL 4 / 3 Bosses | Kai | – | 52 / 134 / 38 / 141 / 268 / 146 | 0 | 1 / 1 / 1 / 2 / 1 / 1 | 0 | 0 | – | – | 2 / 3 / 1 / 2 / 2 / 2 s | – | per-video YT not refreshed since 11-24 |
+| YouTube | REEL 10 / REEL 11 / REEL 12 | Kai voice | – | n/a | – | – | – | – | – | – | – | – | not listed yet |
+
+TikTok account daily views (TKEV12): 11-21 587 · 11-22 183 (no post) · **11-23 413** · 11-24+ not synced; profile views 1–2/day. YouTube channel daily views: 11-21 91 · 11-22 23 (11-23+ not synced).
+
+Followers: TikTok 204 (Δ 0 on 11-23), Instagram 5 (gained 0 / lost 0 on 11-25), YouTube 3 (Δ 0 on 11-22). **Total follower change since start: +6** (since last log: 0).
+
+Scheduled ahead (autoPublish=true, 3 separate posts per reel, covers unchanged, all 18:00): Thu 11-26 REEL 13 Lord of Darkness (TT 439387926 / IG 439387955 / YT 439387984) · Fri 11-27 REEL 14 Quasar Slingshot (439397526 / 439397555 / 439397582) · Sat 11-28 REEL 15 Blood Moon (440424084 / 440424119 / 440424160) · Sun 11-29 REEL 16 Inside a Black Hole (440432171 / 440432218 / 440432267). No changes made today. **4 future days left (through Sun 11-29); new reels needed from Mon 11-30.**
