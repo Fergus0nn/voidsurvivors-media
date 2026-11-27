@@ -484,3 +484,25 @@ TikTok account daily views (TKEV12): 11-22 183 (no post) · 11-23 413 · **11-24
 Followers: TikTok 204 (Δ 0 on 11-24), Instagram 5 (gained 0 / lost 0 on 11-26), YouTube 3 (Δ 0 on 11-23). **Total follower change since start: +6** (since last log: 0).
 
 Scheduled ahead (autoPublish=true, 3 separate posts per reel, covers unchanged, all 18:00): Fri 11-27 REEL 14 Quasar Slingshot (TT 439397526 / IG 439397555 / YT 439397582) · Sat 11-28 REEL 15 Blood Moon (440424084 / 440424119 / 440424160) · Sun 11-29 REEL 16 Inside a Black Hole (440432171 / 440432218 / 440432267). No changes made today. **3 future days left (through Sun 11-29); new reels needed from Mon 11-30.**
+
+## 2026-11-27 (run 21:43 CET)
+Metricool timestamps are UTC → converted to CET. All posts went out, **no ERROR anywhere**:
+- REEL 14 "Quasar Slingshot" went out **today 18:00** on TikTok ([link](https://www.tiktok.com/@void.survivors/video/7712900080348466465)), Instagram ([link](https://www.instagram.com/reel/DgQL3dxhkAx/)), YouTube ([Short](https://www.youtube.com/shorts/KnVoK5f7AXU)) – all PUBLISHED (not in analytics yet, ~3.7 h).
+
+Numbers are lifetime totals at run time. TikTok avg watch = total time watched / views. Posts not listed are unchanged vs 11-26 (stalled).
+
+| Network | Post | Style | Age | Views | Δ vs 11-26 | Likes | Comments | Shares | Saves | Reach | Avg watch | View rate >3 s / skip rate | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| TikTok | **REEL 13 Lord of Darkness** | Kai voice, boss, slow-mo charge → freeze-frame cliffhanger, cover 1800 ms | ~27.6 h | **639** | new | 1 | 0 | 0 | – | 0 (not synced) | 1.9 s (1,245 s) | – | 100 % For You; **best voice-reel day 1** (REEL 12 627); 5th reel in a row at 475–639 |
+| TikTok | REEL 12 Robot Spiders | Kai voice, slow-mo replay | ~51.5 h | 628 | +1 | 1 | 0 | 0 | – | 627 | 1.9 s (1,207 s) | – | no 2nd wave; final |
+| TikTok | REEL 11 / REEL 10 / REEL 9 / REEL 8 / REEL 6 | Kai voice | – | 547 / 666 / 672 / 227 / 1,620 | 0 / 0 / 0 / 0 / +1 | 1 / 1 / 5 / 3 / 15 | 0 | 0 | – | 538 / 657 / 672 / 220 / 1,619 | 2.0 / 2.6 / 2.6 / 2.4 / 3.0 s | – | final |
+| Instagram | REEL 13 Lord of Darkness ([link](https://www.instagram.com/reel/DgNmlRKNnM3/)) | Kai voice, custom cover, 18:07 | ~27.6 h | 115 | new | 2 | 0 | 0 | 0 | **100** | 2.9 s | 31.0 % / **69.0 %** | **best IG day 1 since REEL 8** – breaks the 3-reel weak-day-1 streak (79 / 56 / 40) |
+| Instagram | REEL 12 Robot Spiders | Kai voice | ~51.5 h | 107 | **+62** | 2 | 0 | 0 | 0 | 99 (+59) | 2.4 s | 16.7 % / 83.3 % | caught up on day 2 again; worst skip rate of the auto reels |
+| Instagram | REEL 11 / REEL 10 / REEL 9 / REEL 8 / REEL 6 / REEL 7 | Kai voice | – | 114 / 113 / 122 / 134 / 124 / 151 | 0 | 1 / 1 / 5 / 4 / 4 / 5 | 0 | 0 | 0 | 98 / 98 / 101 / 115 / 99 / 121 | 3.4 / 2.7 / 3.1 / 3.1 / 5.0 / 3.5 s | – | final |
+| YouTube | all Shorts | – | – | unchanged vs 11-26 (REEL 10 218, REEL 8 139, REEL 6 136, REEL 9 54, REEL 7 38, REEL 11 34; stickman EP 1–3 1,101–1,155) | 0 | – | – | – | – | – | – | – | per-video YT not refreshed; REEL 12–14 not listed yet |
+
+TikTok account daily views (TKEV12): 11-23 413 · 11-24 876 · **11-25 690** · 11-26+ not synced; profile views 1/day. YouTube channel daily views: 11-22 23 · 11-23 150 · 11-24 107 (11-25+ not synced).
+
+Followers: TikTok 204 (Δ 0 on 11-25), Instagram 5 (gained 0 / lost 0 on 11-27), YouTube 3 (Δ 0 on 11-24). **Total follower change since start: +6** (since last log: 0).
+
+Scheduled ahead (autoPublish=true, 3 separate posts per reel, covers unchanged, all 18:00): Sat 11-28 REEL 15 Blood Moon (TT 440424084 cover 9600 ms / IG 440424119 custom cover / YT 440424160 no thumbnail) · Sun 11-29 REEL 16 Inside a Black Hole (440432171 cover 1300 ms / 440432218 / 440432267). No changes made today. **Only 2 future days left (through Sun 11-29) → new reels needed from Mon 11-30.**
