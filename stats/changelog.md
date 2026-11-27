@@ -7,7 +7,10 @@ Pravidla:
 - Nikdy nezmiňovat AI. Nepsat, že je hra zdarma.
 - Ping: `@🔔 Update Ping` (ne @everyone).
 
-## Unreleased (Update #3 – pátek 27. 11. 2026)
+## Unreleased (Update #4 – pátek 4. 12. 2026)
+Sem zapisovat všechny změny ve hře od 27. 11. večer (anglicky, ve stejném stylu jako níže).
+
+## Update #3 – 27. 11. 2026 ✅ posted 27. 11. 22:09 + Publikováno – bez čísla verze (demo v1.5.4 zatím neexistuje, poslední build je v1.5.3 z 18. 11. a tyhle novinky jsou jen ve zdrojové hře; Daniel schválil text bez verze). Posláno ručně přes vestavěný prohlížeč po Danielově „vydej další update“; Discord byl odhlášený, Daniel se přihlásil sám.
 Přenos z Update #2: v Discordu jsme je jen naznačili v sekci „🔜 Already in the works“ – až budou v novém demu (v1.5.4+), oznámit je pořádně:
 - The Observer: three new special attacks (Tentacles from the Deep, Lash, Gaze of the Void) + creepier look (tentacles, twitching pupil, eyelid, slime, bloodshot weeping eye).
 - ~~The Mothership moves like a real UFO + glow-up~~ – nahrazeno: loď teď létá jako stíhačka a má nový vzhled, viz body o mateřské lodi níže.

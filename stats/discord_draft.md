@@ -1,4 +1,4 @@
-# 🚀 VOID SURVIVORS – Update #3 (v1.5.4)
+# 🚀 VOID SURVIVORS – Update #3
 The Mothership has learned to dogfight – and space just got solid. 🛸
 
 **⚔️ Gameplay**
